@@ -1,0 +1,136 @@
+#+LATEX_CLASS: article
+
+# -*- mode: org; -*-
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt, twocolumn, spanish]
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage[margin=.75in]{geometry}
+#+LATEX_HEADER: \setlength\parindent{0pt}
+
+#+Title: Apuntes de Teoría del Conocimiento ii
+#+SUBTITLE: III La nueva filosofía de la ciencia
+#+AUTHOR: Jordi Serra
+
+* Introducción
+** El final del modelo clásico de cientificidad
+En las últimas décadas del s. XX hubo un profundo cambio en el ideal
+clásico de cientificidad. Se ha perdido el sentido lineal y
+acumulativo del devenir científico y se ha introducido la acción
+humana en la historia de la ciencia. La ciencia deja de ser un
+lenguaje perfecto. El mito de la presunta superioridad objetiva de la
+ciencia se viene abajo , al quedar de manifiesto la inserción de la
+elección en la práctica científica cotidiana.\\
+
+El ideal clásico de cientificidad estaba representado por el
+neopositivismo lógico. En contraposición a éste, podemos simplificar
+en tres las nociones importantes en la nueva teoría de la ciencia.
+  1. Los hechos científicos son relativos al sistema conceptual
+     utilizado para poner en evidencia su articulación, susceptibles de revisión a medida que se vaya modificando el sistema.
+  2. La evaluación de las hipótesis científicas, particularmente en
+     las teorías que revisten un alto grado de complejidad, implica un
+     tipo de apreciación que supone un largo entrenamiento, no siendo
+     reductible a reglas formales explícitas de inferencia. Una
+     reconstrucción puramente lógica de la confirmación científica
+     debe necesariamente resultar incompleta.
+  3. Teoría rivales pueden ser inconmensurables entre sí. Puede que
+     sus sistemas conceptuales respectivos no se corresponden
+     suficientemente como para hacer posible una comparación
+     directa. O también los valores metodológicos que se incorporan a
+     las teorías no son los mismos. En consecuencia, no se dispone de
+     una metodología que haga posible una comparación entre ellas.
+
+** Teoría de la ciencia y práctica científica
+Hasta la fecha, se sostenía que las proposiciones verdaderamente
+científicas debían fundarse bien en la intuición (Descartes), bien en
+relaciones de observación (Locke), bien en principios sintéticos a
+priori (Kant).\\
+
+Durante el s. XIX, el auge de las ciencias atrae la atención hacia el
+estudio de sus métodos de trabajo y a su historia misma, desviándose
+de este punto de vista. La aparición del círculo de Viena, enfatizando
+el conocimiento positivo, basado únicamente en la observación sensible
+de los hechos y en la lógica formal como instrumento de análisis
+(según el modelo de Russell), vuelve a restablecer la vigencia de las
+tesis clásicas en teoría de la ciencia.\\
+
+Para los positivistas lógicos las proposiciones básicas, en las que se
+expresan las observaciones de la ciencia experimental, pueden servir
+de base a generalizaciones cada vez más amplias.  Intentan formular la
+relación de confirmación entre una hipótesis y una proposición que
+exprese una evidencia. Esta corriente surge como una reacción frente a
+la retórica y las abstracciones de cierta filosofía basada en el rigor
+matemático de los lógicos.\\
+Se tiene una clara imagen del estado de la ciencia en cada etapa. Se
+empieza a partir de los hechos establecidos y se hace uso de los modos
+de inferencia para llegar al nivel de las leyes y de las teorías. Se
+puede tener una conciencia exacta tanto de significación como de
+verdad, sobre el estado en que se está y sobre las relaciones de
+proposiciones de cada estado y los hechos a partir de los cuales se ha
+razonado.\\
+
+Este método no se puede generalizar a cualquier proposición que se
+quiera saber si es verdadera o no. El principal fallo de esta
+concepción de la ciencia fue no haber prestado atención a la historia
+real de las ciencias y a los cambios conceptuales. A partir de Popper,
+se trata de construir la teoría de la ciencia sobre una base más o
+menos vinculada a la práctica misma de la ciencia, mejor que a partir
+de una teoría general del conocimiento como había sido el caso en la
+tradición epistemológica clásica.
+
+* Principio de verificación y unificación del lenguaje científico. El círculo de Viena
+** La división del discurso
+*** El isomorfismo lenguaje-realidad según el /Tractatus/
+El */tractatus/* está escrito en forma de aforismos numerales según el
+sistema decimal y contiene siete proposiciones fundamentales.\\
+Las dos primeras /El mundo es todo lo que acaece/ y /lo que acaece, el
+hecho, es la existencia de los hechos atómicos/ se refieren al mundo y
+a la realidad.\\
+Mientras que las cuatro siguientes son un desarrollo de la lógica y de
+teoría del lenguaje.\\
+La última proposición, la enigmática frase De lo que no se puede
+hablar mejor es callarse, cierra el libro marcando el límite de lo que
+se puede pensar y decir (la proposición).\\
+Aunque la mayor parte del tractatus habla de la lógica y lenguaje (de
+la proposición), los párrafos iniciales tratan del mundo y de la
+visión metafísica del mundo en términos del atomismo lógico
+(Russell).\\
+El mundo es la totalidad de los hechos y el lenguaje es la totalidad
+de las proposiciones. Ambos comparten una estructura lógica común y
+Wittgenstein relaciona realidad, lógica y lenguaje mediante *tres
+conceptos fundamentales*: hecho atómico, figura lógica y
+proposición.\\
+
+  1. Hechos atómicos. El constituyente último del mundo son los
+     objetos o cosas, las entidades que percibimos con los
+     sentidos. Los objetos son simples y forman parte de los hechos
+     atómicos. El hecho atómico es la combinación o relación de
+     objetos o cosas. Éstos son la substancia de que está hecho el
+     mundo, su constituyente básico. Pero de las cosas del mundo sólo
+     podemos conocer lo que acaece (hacerse realidad). Esto es, los
+     hechos atómicos o simples, los hechos compuestos de simples, o
+     simplemente hechos, cuyo conjunto constituye la realidad.
+  2. La figura lógica. Paralelamente, el lenguaje opone a las cosas
+     del mundo nombres. A los hechos atómicos, proposiciones simples;
+     y a los hechos complejos proposiciones compuestas. El lenguaje
+     puede representar la realidad del mundo. Cuando por medio de
+     proposiciones describe hechos, la estructura de las proposiciones
+     en relación a la de los hechos, y viceversa, se preserva. Este
+     isomorfismo entre el lenguaje y la realidad, es posible gracias a
+     la participación de ambas instancias en una misma estructura
+     común.
+  3. La proposición o el signo con que expresamos el pensamiento
+     representa un estado de cosas (un hecho atómico). Si este es
+     real, la proposición es verdadera. El conjunto de todas ellas
+     describe el mundo. Sólo las proposiciones, y no los nombres, son
+     significativas y muestran la lógica de la realidad. Las
+     proposiciones siempre tienen sentido, aunque sean falsas, porque
+     siempre describen lo que acaece en el mundo. Y sólo pueden tener
+     sentido cuando describen lo que acaece en el mundo.
+
+Las proposiciones que no describen hechos carecen de sentido. Éstas
+son de dos clases:
+  1. Comprende las tautologías o enunciados necesariamente verdaderos,
+     que nada dicen respecto del mundo. (o sus negaciones, las
+     contradicciones.)
+  2. Aquellas proposiciones que no comparten figura lógica con la
+     realidad que prentenden representar.
+     
