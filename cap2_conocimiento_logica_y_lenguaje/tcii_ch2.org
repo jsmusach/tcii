@@ -6,8 +6,7 @@
 #+LATEX_HEADER: \usepackage[margin=.75in]{geometry}
 #+LATEX_HEADER: \setlength\parindent{0pt}
 
-#+TITLE: El Helenismo
-#+SUBTITLE: Apuntes de Teoría del Conocimiento ii.\\
+#+Title: Apuntes de Teoría del Conocimiento ii
 #+SUBTITLE: Conocimiento, Lógica y Lenguaje
 #+AUTHOR: Jordi Serra
 
