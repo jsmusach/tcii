@@ -1,0 +1,641 @@
+#+LATEX_CLASS: article
+
+# -*- mode: org; -*-
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt, twocolumn, spanish]
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage[margin=.75in]{geometry}
+#+LATEX_HEADER: \setlength\parindent{0pt}
+
+#+TITLE: El Helenismo
+#+SUBTITLE: Apuntes de Teoría del Conocimiento ii.\\
+#+SUBTITLE: Conocimiento, Lógica y Lenguaje
+#+AUTHOR: Jordi Serra
+
+* Introducción
+** Lenguaje y realidad
+Se entiende por lenguaje, en un sentido amplio, cualquier medio de
+comunicación entre seres vivientes. Bajo este concepto se incluyen
+lenguajes de palabra, medios de comunicación humano de tipo no
+lingüístico —el simbolismo del arte, la música, los símbolos
+matemáticos, el lenguaje de los sordomudo, etc.—, y comunicación
+animal.\\
+
+En un sentido más restringido, el lenguaje es un conjunto de sonidos
+portadores de un sentido o significado.\\
+El *significado* es la condición básica del hecho lingüístico.\\
+Los *tres problemas del lenguaje*:
+  1. Cómo algo físico —sonidos articulados— puede convertirse en
+     portador de un significado espiritual o universal.
+  2. Cómo es posible la comunicación de los significados a través del
+     lenguaje y qué relación tiene esta forma idiomática de
+     comunicación con otras formas de comunicación no idiomáticas.
+  3. Qué relación existe entre las palabras y las cosas que éstas
+     representan y en qué medida el lenguaje es vehículo del
+     pensamiento para conocer la realidad —si las palabras son cosas
+     distintas a las que representan.
+
+El estudio del lenguaje dió un giro radical a partir de los estudios
+del lingüista Ferdinand De Saussure, cuando distinguió entre lenguaje
+como lengua y como habla.\\
+El *lenguaje como lengua* es un sistema cerrado y autónomo, objeto de
+la Lingüística estructural.\\
+El *lenguaje como habla*, es su uso mismo en la comunicación, es decir
+algo a alguien sobre algo. Desde esta perspectiva es estudiado por la
+Lingüística del discurso que parte de Émile Benveniste (1902-1976).\\
+
+De modo que, por un lado es una estructura, la red secreta que hace
+que las cosas se miren en cierta forma unas a otras. Platón había
+sostenido que articulamos el mundo en y por el lenguaje, no habiendo
+realidad alguna en las cosas singulares sino el logos, red de
+significados interrelacionados.\\
+Por otro lado, ésta estructura se concreta con ocasión del discurso
+hablado y las referencias que en él intervienen. Para Aristóteles, el
+logos implica esencialmente referencia al objeto.\\
+Hoy decimos que toda lengua es una ordenación abstracta del mundo
+producida por la comunidad, que se actualiza en el discurso
+individual. A través del discurso se manifiesta el mundo que aparece
+como terreno común que todos reconocen y que liga entre sí a todos los
+que hablan.
+
+** El lenguaje como forma de vida
+El lenguaje cumple una función simbolizadora constituyente de un
+cosmos de objetos que es un mundo de significados actualizados en un
+discurso. Nos relacionamos con la realidad a través del
+lenguaje. Tenemos realidad porque pertenecemos y vivimos inmersos en
+el lenguaje como ámbito envolvente. Wittgenstein: el lenguaje es una
+forma de vida. El mundo no se presenta en el lenguaje como un objeto,
+sino que el lenguaje revela su sentido en un *proceso que es, a la
+vez, hermenéutico e histórico*.\\
+
+En este sentido, el pensamiento se sustrae de la estructura
+lingüística con el proceso de interpretar y corregir sus
+interpretaciones. Esto invalida la teoría instrumental del lenguaje,
+basada en el principio de que el lenguaje es un instrumento útil para
+expresar lo pensado. Pero las palabras no son recipientes
+prefabricados para archivar en ellos las ideas. El mismo pensar es
+lingüístico, funciona como lenguaje. Tenemos un ejemplo en el deseo de
+un lenguaje universal de signos y de signos artificiales definidos
+unívocamente.
+
+** Conocimiento y lenguaje en la obra de Wittgenstein
+La obra de Wittgenstein (W.) es un punto de referencia básico para la
+comprensión de la filosofía contemporánea en su conjunto. Su
+pensamiento tiene *dos etapas* diferenciadas por sus dos obras más
+importantes: (/i/) el /tractatus logico-philosophicus/ (1921) y (/ii/) las
+/Investigaciones filosóficas/ (1935-1945).
+
+*** Filosofía y ciencia
+En el /tractatus logico-philosophicus/ (1921) presenta las nociones
+básicas que tendrán una gran influencia en el círculo de Viena y de su
+filosofía neopositivista. Esto es, solo los enunciados formales de la
+matemática y la lógica, los enunciados de las ciencias empíricas,
+pueden tener sentido. Todos los demás, inclusive los de la filosofía,
+deben ser tomados de antemano como absurdos. Sólo los enunciados de la
+ciencia resultan verificables empíricamente. mientras que, respecto de
+la filosofía, no hay modo de comprobar o contrastar con la experiencia
+su contenido concreto. La capacidad de verificación empírica como
+único criterio de todo sentido es, pues, el supuesto básico de la
+labor analítica.\\
+
+Wittgenstein no niega la existencia de todo lo que no puede ser
+expresado con sentido matemática o científicamente. Cuando se han
+formulado y contestado todas las preguntas científicas posibles, los
+problemas de nuestra vida no han sido ni siquiera tocados.\\
+
+Para W. lo que está fuera de los límites del lenguaje, lo que es
+*impensable e indecible*, puede existir, y es lo místico. No se
+rechaza lo metafísico, lo que se niega es la posibilidad de
+contrastarlo, relegándolo a la mística.\\
+
+Las conclusiones para la filosofía son:
+  - Debe renunciar a constituirse como una teoría o compendio de
+    verdades sobre la realidad, sobre el mundo y el hombre.
+  - Cualquier establecimiento de contenidos teóricos sólo corresponde
+    a la ciencia.
+  - Solo debe quedar como una actividad de clarificación mediante una
+    labor de análisis de la estructura lógica del lenguaje.
+  - Le corresponde, cómo análisis formal, la tarea de autodisolver lo
+    que tradicionalmente ha venido siendo, demostrando el sinsentido
+    de los enunciados en que se ha estado expresando.
+
+*** Significado y reglas de uso del lenguaje
+Este planteamiento no es fijo dentro del pensamiento de W. ya que en
+/Investigaciones filosóficas/ se retracta de esta reducción de la
+diversidad del discurso a proposiciones categóricas, ligadas entre sí
+por funciones de verdad, así como la correlación entre estas frases y
+los datos de la observación.\\
+
+Wittgenstein cree que es necesario tener en cuenta la complejidad
+lingüística y desconfiar de los procedimientos que supongan una
+conjunción no problemática entre los elementos del lenguaje y los
+elementos de la realidad. El lenguaje no refleja el mundo ni tiene
+como único objetivo describirlo. Es una forma de conducta entre otras,
+con la pluralidad de funciones: Ordenar, describir, informar, hacer
+conjeturas, etc. cada una de las cuales puede describirse como un
+juego de lenguaje. Las proposiciones son significativas porque son
+expresiones de estos juegos de lenguaje. Los diversos usos del
+lenguaje manifiestan como característica común un cierto aire familiar
+que los asemeja, se someten a reglas, pero cada cual a la suyas
+propias.\\
+
+El significado pues, no en la verificabilidad de lo que se dice, sino
+que hay que buscarlo en el uso que se hace de las palabras. Es decir,
+es el contexto lo que da sentido a las palabras. La mayoría de errores
+filosóficos vienen de confundir los contextos o de juzgar un contexto
+por las reglas de otro. *La tesis principal de las investigaciones
+filosóficas* es que todo lenguaje consiste en multitud de juegos de
+lenguaje. El lenguaje correcto es aquel que observa el recto uso de
+las reglas. Toda palabra tiene sentido si es empleada en su
+contexto. El sentido lo dan las reglas de uso, como las piezas en el
+ajedrez y las reglas de movimiento.
+
+* El proyecto epistemológico del /tractatus/
+** El sentido del lenguaje no puede ser expresado por el lenguaje
+Russell (R.) sostenía una doctrina ontológica que decía que, al final
+del análisis, existe en el universo, están hechos atómicos. Esta
+doctrina es deductiva, no empírica, desde un análisis no-empírico del
+lenguaje, hasta la naturaleza de la realidad que el lenguaje
+describe.\\
+Wittgenstein llevará hasta el límite los principios del atomismo
+lógico de Russell y mostrará sus inconsecuencias e intentará acabar
+con este resto de metafísica subyacente a la obra de Russell.\\
+
+Según el atomismo lógico, una proposición puede ser significativa si o
+bien hay o puede haber un hecho atómico que al que corresponde, o bien
+si es una función de verdad —en caso de ser compleja— de las
+proposiciones de este tipo. Pero la mayoría de proposiciones que el
+atomismo lógico, incluído el del propio Wittgenstein, intentaron
+establecer no son de ninguna de estas dos clases. La mayoría de estas
+proposiciones no afirmaban hechos, sino que intentaban más bien hablar
+sobre hechos y, concretamente, sobre las relaciones entre
+proposiciones y hechos.\\
+
+Así, tales proposiciones no podían ser significativas ya que
+intentaban decir lo que no puede ser dicho. Wittgenstein concluye que
+afirmar que lo que él mismo había dicho era u n sin-sentido. Entender
+su propia obra era caer en la cuenta de que no había dicho nada en
+absoluto.\\
+Wittgenstein termina el tractatus con la frase /de lo que no se puede
+hablar, mejor es guardar silencio/. La propia doctrina atomista lógica
+muestra su carácter autonegador y la falta de sentido de sus propias
+afirmaciones.
+
+** La proposición como unidad de significado
+*** La teoría /pictórica/ del conocimiento
+Para Wittgenstein, la *unidad de significado* es la proposición misma,
+no el término singular. La palabra tiene significado como parte de una
+proposición, no por sí misma. Una proposición es una representación
+(picture, foto) de la realidad. Representa un estado de hechos
+(affairs) o situaciones. Una proposición no puede pintar una imagen de
+la realidad, solo mostrarla porque hay cosas que se escapan de su
+forma. Las proposiciones son de dos tipos, atómicas o moleculares. No
+son posibles las proposiciones reflexivas de la filosofía.\\
+
+En la teoría del significado de W. las proposiciones tienen más peso
+que los términos por sí solos. Pero, al igual que Russell, los signos
+simples (términos?) usados en las proposiciones se llaman nombres. Un
+nombre significa un objeto. El objeto es su significado.\\
+
+Para W., igual que R., la conexión entre el lenguaje y la realidad se
+da en la relación que hay entre las proposiciones atómicas con los
+hechos atómicos. En la representación de un objeto existe una
+correspondencia entre las partes o elementos de la representación y
+las del objeto. Estos elementos no sólo deben estar presentes, sino
+que también su estructura, forma y disposición deben ser los mismos:
+/La configuración de los objetos forma el hecho atómico/.\\
+
+La proposición es capaz de representar (picturing) a esos hechos
+no-verbales (?). Es por esto por lo que el lenguaje puede referirse al
+mundo, puede significar algo distinto de sí mismo. Los elementos de
+estos hechos son, por parte del lenguaje, nombres y signos denotativos
+simples (signos simples de significado), mientras que por parte de la
+realidad, objetos particulares.\\
+
+Un objeto particular no puede ser una composición de hechos, como por
+ejemplo /punto blanco o una pieza roja/. El objeto, aunque pueda tener
+atributos que caractericen una configuración, el objeto en sí no puede
+ser una configuración, debe ser simple, ya que sino podríamos caer en
+contradicción: El mismo punto puede ser blanco o rojo y concluir
+erróneamente que es incoloro.\\
+
+A partir de las proposiciones atómicas se pueden componer
+proposiciones más complejas, las *proposiciones
+veritativo-funcionales*.\\
+
+Entre los posibles grupos de condiciones de verdad hay dos casos
+extremos. En uno cuando las condiciones de verdad son *tautológicas*. Es
+decir, la proposición es verdadera para todas las posibilidades de
+verdad de las proposiciones elementales.\\
+En el otro caso, la proposición es falsa para todas las posibilidades
+de verdad, las condiciones de verdad son *contradictorias*.
+#+begin_quote
+En general, la proposición muestra aquello que dice pero la tautología
+y la contradicción muestran que no dicen nada. Tautología y
+contradicción no son figuras de la realidad. No representan ningún
+posible estado de cosas. En efecto, una permite todos los posibles
+estados de cosas, la otra ninguno.
+#+end_quote
+
+*** La reafirmación del empirismo
+Para decir si una proposición es verdadera o falsa, se debe siempre
+compararla con la realidad. Es imposible decir sólo si desde la
+representación si ella misma es verdadera o falsa. No hay
+representaciones que sean verdaderas a priori.\\
+
+Wittgenstein sostiene los *principios empíricos*: no hay modo de pasar
+de un conocimiento puramente empírico a uno supraempírico. No hay
+relaciones causales que nos permitan pasar de una realidad conocida,
+de la experiencia, a una realidad superior que fuera su causa.\\
+
+Hume, empírico radical, había llegado a la conclusión, mediante el
+análisis psicológico del entendimiento humano, de negar la metafísica
+y a considerar la lógica, la matemática y las ciencias experimentales
+como las únicas ciencias respetables. Russel y Bradley se oponen, en
+nombre de la lógica, al psicologismo de Hume y propugnan un cierto
+tipo de metafísica, sin éxito como hemos visto. Wittgenstein concluye
+que sólo cabe hablar de hechos. Sólo tienen sentido las frases
+atómicas, cuya verdad consiste en la constatación de los hechos, y las
+frases moleculares, cuya verdad depende de la de las
+atómicas. Cualquier reflexión que sobre los hechos quiera hacerse
+resulta una imposibilidad lógica.
+
+** La distinción entre lo dicho y lo mostrado
+Wittgenstein distingue entre lo dicho y lo mostrado, la relación entre
+el lenguaje y los hechos puede demostrarse pero no decirse. El
+positivismo lógico no concibe esta distinción, no hay otra realidad
+que la de los hechos verificables. Wittgenstein y Russell, con
+influencias de la tradición racionalista germánica, difieren del
+empirismo radical de Hume. Pero la metafísica de W. y R. venía
+establecida como la exigencia de una lógica. No se pueden establecer
+proposiciones verdaderas a priori. Los únicos juicios verdaderos de
+modo inmediato son los juicios tautológicos, pero que no dicen nada
+nuevo. En este sentido, la filosofía no tiene objeto propio, sus
+proposiciones no son falsas sino sin-sentido. Los problemas
+tradicionales de la filosofía no son sino pseudo-problemas que surgen
+de no entender la lógica de nuestro lenguaje. La filosofía no es un
+cuerpo doctrinal, sino una actividad. Su tarea consiste en
+aclaraciones, mostrar pero no decir. No da como resultado
+proposiciones verdaderas. La totalidad de las proposiciones verdaderas
+es el cuerpo de la ciencia natural.\\
+
+Aún esta tendencia empírica, W. no es consecuente del todo con lo que
+dice. A pesar de afirmar que /los límites de mi lenguaje son los
+límite de mi mundo/, W. deja un hueco ambiguo para una metafísica y
+una ética mediante las nociones de lo inexpresable o indecibilidad,
+situándolas más allá del mundo de lo expresable. W. lo llama lo
+místico, lo inexpresable es lo místico, de lo que no se puede ni
+afirmar ni negar nada con fundamento.\\
+
+El neopositivismo lógico, se propondrá como objetivo demostrar que
+toda metafísica carece de sentido.
+
+* Conocimiento y juegos de lenguaje
+** Wittgenstein se retracta
+Entre la publicación del tractatus en 1921 y la publicación de su gran
+obra /investigaciones filosóficas/ en 1953, W. no publica nada excepto
+un pequeño artículo. Desde entocnes, W. quiso que el /tractatus/ y las
+/investigaciones/ se publicaran juntas a modo de contraste. Esta obra
+tendrá una enorme influencia en la filosofía analítica. W. abandona la
+noción de significado y se propone como objetivo de la filosofía
+analítica describir los diversos usos o juegos del lenguaje, las
+maneras cómo utilizamos en la práctica el lenguaje, unidas a
+actividades que realizan en un contexto, un medio natural, técnico y
+cultural.\\
+
+Es interesante comparar la multiplicidad de herramientas del lenguaje
+y de sus modos de empleo, la multiplicidad de géneros de palabras y
+oraciones, con lo que los lógicos han dicho sobre la estructura del
+lenguaje.\\
+Hablar el lenguaje forma parte de una actividad o forma de
+vida. Ejemplos: Relatar un suceso, inventar una historia, resolver un
+problema, actuar en teatro, etc.\\
+
+No se trata de analizar las relaciones entre palabras y
+objetos. Wittgenstein se retracta de su perspectiva anterior del
+lenguaje como imagen de la realidad y critica los mitos que esa
+concepción conlleva, en especial el del pensamiento como una especie
+de lenguaje interior, inmaterial y racional que realizaría el ideal
+lingüístico que las lenguas naturales y concretas no consiguen llevar
+a cabo como espíritu o alma. El pensamiento no es más que un uso
+monológico y silencioso del lenguaje, que es fundamental y
+originariamente público, dialógico (relativo al diálogo) y
+social. Así, el pensamiento no es anterior ni esencialmente diferente
+del lenguaje, sino que de él deriva y lo presupone.
+
+** La irreductible diversidad de los usos del lenguaje
+*** El fin del privilegio de la teoría
+El principio básico en las /investigaciones/ es que no existe un
+lenguaje ideal que refleje los únicos hechos existentes, aquellos que
+puedan ser verificados, sino que hay multitud de lenguajes que no
+tienen entre sí nada en común. Ni se unen en un lenguaje superior, ni
+apuntan a una realidad que tras él se oculta. Hay una pluralidad de
+realidades y son estas las que hay que mirar en sí mismas, tratando de
+captar la función que desempeñan en los distintos contextos. Pensar
+que existe un lenguaje ideal común a todos los lenguajes es una
+confusión que el propio lenguaje ha creado. Los mismo análisis
+realizados hasta ahora, no sólo son infructuosos, sino que además son
+los causantes de esta confusión, por haber mantenido la tesis de que
+hay un lenguaje ideal que refleja una realidad subyacente. De esta
+manera W., además de negar la teoría anterior, niega los hechos que
+esta teoría intentó explicar. A partir de aquí W. sostiene que no se
+trata de explicar nada, sino tan sólo de describir.\\
+
+El lenguaje no es algo único e ideal, no es algo divino o
+transcendental que hace participar al hombre en un modelo espiritual e
+inmutable. Es empírico. Es complejo y cambiante. Forma parte de la
+historia natural y cultural de los seres humanos. No tiene sentido
+privilegiar el juego de lenguaje de la explicación de los hechos. Los
+usos descriptivos son también múltiples. Pretender reducir la
+complejidad polimórfica de los lenguajes al lenguaje de la descripción
+teórica es una ilusión y un abuso. La descripción teórica unifica y
+homogeneiza a costa de negar la diversidad y el cambio.\\
+
+*** No hay ningún universo de sentido inmutable
+Lo que caracteriza a los juegos de lenguaje es su carácter social,
+público, el hecho de ser compartidos por un determinado número de
+hablantes que juegan el mismo juego y observan las mismas reglas de
+uso. Su estabilidad depende de esta práctica común, unida a la
+educación y a la costumbre, a la forma de vida, compartidos. lo que
+determina la gramática y la semántica es el uso intersubjetivo y no
+una relación especial el lenguaje con un mundo de referencias
+trascendentes, ni conceptos universales que se captan por la intuición
+o se deducen racionalmente, ni el reflejo de formas esenciales de las
+cosas.\\
+
+Los juegos del lenguaje cambian e incluso desaparecen. No hay un
+universo subyacente a ellos de sentido inmutable. Sólo las reglas de
+uso dan al lenguaje su relativa estabilidad e identidad como
+institución, reglas que gobiernan una actividad común pero que solo
+existen mientras la acción común las respete y las confirme en su
+vigencia. Por seguir una regla, no es más que una práctica habitual
+más allá de la cual no tiene sentido buscar un fundamento único. Esos
+juegos de lenguaje se practican, cambian y, hasta, desaparecen.\\
+
+** El significado es el uso
+*** El abandono del modelo referencial
+Así pues, W. rompe con el núcleo filosófico de su tractatus y el eje
+de la tradición filosófica desde Platón a Husserl. En general, la
+filosofía ha basado el significado en una relación que refiere a las
+proposiciones lingüísticas a realidades no verbales y que el sujeto es
+capaz de captar. Las /investigaciones/ se oponen a esta concepción y
+defienden que el significado no depende de la referencia ni es la
+referencia. EL significado de toda proposición depende de su uso, el
+cual puede ser también un uso referencial, que pretenda designar algo
+extralongüístico.\\
+
+El uso nunca es único. Cualquier palabra remite a una familia de usos
+cuya coherencia es análoga. Es un autoengaño querer reducir el
+significado de una palabra a un concepto unívoco que quedara
+comprendido en su definición. No se puede sustituir la diversidad
+experimentada y practicada de los usos por la unidad pensada del
+significado ideal. Para W. es la fuente del dualismo que opone el
+mundo material, aparente y cambiante del lenguaje, al mundo
+espiritual, racional e inmutable de la realidad.
+
+*** Describir en lugar de explicar
+No se trata de estudiar el lenguaje para hacerlo científico, sino de
+verlo tal cual es y descubrir el uso y función de los lenguajes que
+empleamos en cada situación, si realmente queremos comprender el
+lenguaje. Hay que olvidar todo intento de justificar esencias y
+realidades últimas mediante el establecimiento de un lenguaje
+científico, como pretendía el atomismo lógico. La inicial tarea de la
+filosofía es proporcionar una terapia a esa enfermedad, deshacer los
+embrollos descubriendo sus causas y conseguir una claridad completa.\\
+
+Para esta tarea es preciso advertir que el pensamiento está embrujado
+por el lenguaje. Es preciso aprender a ver los lenguajes en su
+dimensión plural, contextual, vital, para olvidar la necesidad del
+lenguaje ideal. Cada lenguaje se justifica por sí mismo como una forma
+de vida. La vida cambia y con ella los hechos físicos. De igual manera
+los usos y funciones del lenguaje ordinario. Así pues, su nuevo
+principio es /no preguntes por el significado, pregunto por el
+uso/. El lenguaje es una actividad que tiene muchos usos y funciones,
+hay que advertir su complejidad. Ninguna de las palabras que usamos
+tiene un significado fijo, cambia según las situaciones en que se
+usa. Ni tiene una vigencia permanente, desaparece en un momento
+determinado y da lugar al nacimiento de otro significado.\\
+
+Propone un análisis liberado de todo prejuicio teórico, perspectiva
+fundante y unitaria, que hará desaparecer esta noción misteriosa de
+significado y permitirá ver la lógica propia irreductible de cada
+enunciado. Esta lógica vendrá determinada por el contexto del juego de
+lenguaje en uso.\\
+Hasta ahora, los filósofos, especialmente los atomistas lógicos,
+incluido el autor del /tractatus/ han intentado aplicar un conjunto
+único de reglas en orden a construir un lenguaje ideal oculto tras las
+imperfecciones del lenguaje común, a ejemplo del matemático. Y en
+olvidar la diversidad de funciones del lenguaje, han aparecido una
+multitud de perplejidades filosóficas.\\
+
+Hay un paralelismo entre juego de lenguajes, formas de vida y
+aprendizaje de los diversos términos de su uso. El nominalismo
+sostiene la relación nombre-cosa como algo fijo y permanente que se
+opone a la concepción del lenguaje como pura actividad inmanente a la
+propia forma de vida, cambiante en la medida en que ella
+cambia. Aprender algo es ser capaz de hacerlo. Lo que importa es
+descubrir la función desempeñada por cada palabra en el juego del
+lenguaje correspondiente. Solamente en su uso podremos aprender el
+significado de las mismas.\\
+
+Con esta autocrítica expresa que las cosas están bien como están, tal
+como estaban antes de haber sido introducidas por la filosofía las
+conclusiones que engendraron el afán de convertirla en un lenguaje
+ideal. Dejar las cosas como están y tratar de ver como son.
+
+** Lenguaje, conocimiento y realidad
+Algunas dudas emergen en relación a la relación entre lenguaje y
+realidad respecto de la última posición de Wittgenstein. Por un lado
+busca una fundación de los juegos llamados secundarios del lenguaje
+sobre un juego primario formado por expresiones lingüísticas de
+sensaciones en las que manifestaría nuestro contacto con la
+realidad. Por otro lado, defiende la comprensión del lenguaje como
+pura convencionalidad inexorable.\\
+
+No existe una esencia de la palabra, sino un uso y unas reglas que
+determinan las conexiones correctas en el uso de esas palabras.\\
+
+Hay quien sostiene que en las /investigaciones/ es notoria la relación
+de verticalidad entre los juegos de lenguaje y la realidad, no sólo
+entre los juegos de lenguaje, pero también entre estos y la realidad.
+
+*** La verdad como coherencia interna
+Superada la teoría pictórica (/tractatus/) y que se basaba en el
+supuesto de una homología entre proposiciones y realidad, la
+introducción del concepto de juego y el reconocimiento de una
+pluralidad de lenguajes implica que los lenguajes ya no son
+reductibles a ninguna clase de unidad ni por la vía lógica (lenguaje
+como expresión trascendental de la estructur objetiva del
+pensamiento), ni tampoco por la vía ontológica (el lenguaje como
+imagen o expresión de la realidad). El sentido o verdad de un lenguaje
+la determina sólo la conexión sistemática de sus elementos sobre la
+base de uso de reglas que resulta eficaz en la práctica. El sentido de
+un término ni le viene del hecho de ser expresión primaria o
+secundaria de una expresión. sino de una posición funcional en un
+juego de lenguaje. Está en función de un orden introducido por unas
+reglas que son convencionales. Así, el significado no se basa ni en
+los hechos empíricos que representa, ni en las formas a priori de su
+estructura lógica.\\
+
+Para W.  el juego de lenguaje es convencionalidad
+inexorable. Convencionalidad quiere decir que el lenguaje no debe su
+verdad o su significado nada más que al hecho de ser un sistema de
+reglas que funciona objetiva y coherentemente porque es aplicado por
+todos los hablantes al resolver con éxito sus problemas y necesidades
+de comunicación. Así, la verdad de un lenguaje no viene de una
+justificación externa, sino que es su propia coherencia interna que la
+funda. Preguntarse sobre la verdad de un lenguaje es preguntarse por
+las condiciones de funcionamiento de las reglas.\\
+
+El cambio de W. entre el /tractatus/ y las /investigaciones/ es que el
+lenguaje no es una pura reducción a un sistema formal lógico, sino a
+esta convención. Y esto no es posible hasta que no se eliminan todos
+los signos lingüísticos, todo significado intuitivo.\\
+Lo que hay como sustrato del lenguaje no son ciertas esencias. Pero
+tampoco son impresiones ni sensaciones procedentes de una naturaleza
+humana común como realidad última. Lo que hay es vacío, la simple
+coherencia de unas conexiones y de unas relaciones en un sistema que
+nada tienen que ver con la descripción de unos contenidos.
+
+*** La objetividad de un operar común
+Este proceso de reducción del lenguaje a su completa convencionalidad
+y formalización es un proceso inexorable. Porque las reglas del
+lenguaje y su uso son convencionales, su operar resulta inexorable y
+objetivo. La objetividad y eficacia del lenguaje se deben a que no
+podemos no usar sus reglas y que con estas se opera con una exactitud
+inexorable que no hay lugar para reducciones psicologistas de su
+validez, ni para interpretaciones pragmáticas de este funcionamiento
+exitoso. Pues el lenguaje no se realiza privadamente y según a uno le
+convenga, sino que es un operar común. Lo característico de la
+convención es que todos tenemos que jugar el mismo juego con las
+mismas reglas.\\
+
+Es un sinsentido preguntarse por un fundamento de la verdad del
+lenguaje como origen de su validez. Ni el significado ni la validez de
+un lenguaje se demuestra refiriéndose al contenido de sus signos, ni
+al hecho de derivar de un lenguaje ideal, sino que se debe a la simple
+conexión que se da entre esos signos y a las reglas convencionales que
+regulan esa conexión. Son sólo esas reglas las que hacen comprensible
+y comunicable una expresión por el hecho de someterla a un orden e
+integrarla a un juego común.
+
+*** La filosofía como terapia del lenguaje
+Wittgenstein resalta con insistencia el carácter de pura
+convencionalidad que tienen los lenguajes, librándonos de la aureola
+de lo ideal como trasmundo de lo real. Esto significó un giro
+importante del concepto mismo de filosofía. La filosofía no puede ya
+seguir estando animada por la ilusión de encontrar lo ideal más allá
+de lo real ni dentro de lo real. Tampoco puede consistir en la
+búsqueda de una unidad formal deducible como sintaxis universal o como
+expresión de la estructura lógica y trascendental del mundo. La
+pluralidad de los juegos de lenguaje reduce la coherencia y la
+objetividad de cada uno de ellos al funcionamiento de sus reglas, a
+sus operaciones y a sus usos comunes. La filosofía es pues, análisis
+de nuestras múltiples formas de expresión. Sólo puede ser ilustración
+progresiva de las formas del lenguaje, interesada en ampliar
+continuamente la demostración de que el lenguaje no es más que una
+familia de construcciones gramaticales más o menos emparentadas entre
+sí.
+
+La filosofía analítica considera aquellos problemas que no están
+suficientemente aclarados y, por tanto, no resueltos y los elimina
+como problema. Es una manera de curar el lenguaje, da un sentido a la
+filosofía como terapia del lenguaje.\\
+Pero a la filosofía no le corresponde reformar el lenguaje (curarlo)
+sino mostrar simplemente cual es el modo correcto de usarlo. Al hacer
+el análisis, le corresponde delimitar el espacio operativo de cada
+juego lingüístico en su inexorable efectualidad (un llevarse a cabo),
+mostrar como tal juego de lenguaje en concreto tiene una eficacia
+racionalizadora en virtud de la introducción de un orden y de una
+regulación propios.\\
+En vez de curar el empleo ordinario de un lenguaje, lo que debe
+tratarse más bien es de que ese empleo nos cure a nosotros de los
+problemas indecibles que nos ha creado la filosofía.\\
+Ahora ya no se rechaza la apariencia sino que lo que se intenta es
+volver a llevar las palabras de su empleo metafísico a su empleo
+cotidiano, abandonando en esa desacralización del lenguaje que el
+propio concepto de juego como convencionalidad inexorable ya
+representa.
+
+*** El problemático lugar de la crítica
+Como análisis filosófico de un juego de lenguaje, sólo le corresponde
+delimitar su espacio operativo en su inexorable efectividad,
+describirlo en su funcionalidad práctica y señalar el tipo de terapia
+que puede resultar útil en ese juego. Pero esto plantea dos cuestiones.
+  - No es evidente si el análisis se limita a aclarar el
+    funcionamiento del juego lingüístico dado, o si su propósito mismo
+    de acción clarificadora implica cierta dinámica de
+    transformación. Es decir, delimitar este espacio operativo, poner
+    un orden, retrotraer el lenguaje a un estado de hecho, puede ser
+    una manera de transformar y no solo retornar a un estado de
+    hecho. La tarea de clarificar y de disolver problemas puede
+    interferir y transformar el propio lenguaje.\\
+
+    En la estructura del uso de un juego de lenguaje deben estar
+    incluídos también los usos erróneos y equívocos de ese juego. Hay
+    que ser consciente del uso de estos usos de tal modo que
+    clarificar y enseñar a jugar bien en este caso se entienda también
+    como transformar el juego en su efectividad, como parte del mismo
+    juego. Si poner orden es ya un modo de transformar, y se escoge un
+    determinado orden, entre otros muchos posibles, entonces algunos
+    elementos del planteamiento deberían cambiar al tener en cuenta
+    que el juego, después de ordenarlo, ya no será idéntico al que era
+    antes.\\
+
+    Wittgenstein afirma claramente que el orden que puede poner el
+    análisis filosófico en un juego de lenguaje es un simple
+    restablecer. No es la apertura de un nuevo paradigma ni puede
+    representar un cambio del juego normal jugado hasta ahora.
+
+  - Pero esta imagen de estática de los juegos lingüísticos como
+    situación normal puede parecer contradictoria en la línea de la
+    primera cuestión. Permanece como criterio de verdad la adecuación
+    del juego lingüístico a un determinado estado de hecho que ahora
+    se designa como situación normal.
+
+Con la comprensión del lenguaje como pluralidad de juegos
+lingüísticos, hay un desencantamiento de la lógica y de la filosofía
+metafísica como búsqueda de lo esencial y la unidad. Pero el concepto
+mismo de juego se cristaliza, se convierte en una estructura
+estable. \\
+Esto hace difícil concebir usos diversos del juego lingüístico llamado
+normal.
+
+** La experiencia del mundo como un todo limitado
+En la obra de W. se insiste de la impotencia de la filosofía para
+transformar nada. La filosofía no puede afectar al lenguaje que
+analiza, ni puede producir nuevas experiencias. La filosofía sólo
+sirve para poner un orden que no puede ser más que el orden del juego
+normal y según las reglas con las que es jugado hasta ahora, según su
+empleo cotidiano. Se limita a mostrar. El problema de los cambios de
+las reglas en un juego no es formalizable ni practicable en la
+filosofía. Cuando pretenda sobrepasar esos límites se traiciona,
+porque se convierte enseguida en metafísica, en búsqueda de la esencia
+ideal y la unidad. Dentro de sus límites, la filosofía sirve sólo para
+aclarar ese orden. Al desencanto respecto a la lógica corresponde este
+desencanto respecto a la filosofía.\\
+
+Cuando W. se refiere a la mística, se refiere a esa experiencia del
+mundo como todo limitado. En el /tractatus/, expone que los límites
+del lenguaje son los límites del mundo, esa experiencia del límite es
+la que da origen a lo místico. Así, lo místico no es realidad
+trascendente, sino la experiencia radical del mundo dentro de sus
+límites. Esto significa que en el mundo no hay valor (Nietzsche) y que
+el mundo es como es y sucede como sucede. La representación
+mundo-representación ya no puede ser trascendente. Sentir sus límites
+es precisamente lo místico. Pero lo místico no es sólo el conocimiento
+de los límites de la formalización del mundo, sino que es también el
+conocimiento del formalismo mismo como límite.\\
+Excluye de la expresión lingüística toda indicación a un inefable, con
+esto funda la posibilidad de proposiciones dotadas de sentido.\\
+Con esto muestra también negativamente lo inefable como límite. Es
+decir, toma conciencia de que no puede decirse.
+
+Sin lo místico el formalismo tendería a abarcarlo todo. Expulsar lo
+místico significaría creer que no existe nada que callar, con una
+percepción errónea de la esfera del formalismo. Si lo místico no
+obligara a conocer ningún límite, entonces el formalismo se
+presentaría como verdad y eliminaría todo límite. Lo místico es el
+primer paso entre el /tractatus/ hacia el punto de vista del juego de
+lenguaje que desarrolla en las /investigaciones/. Reconocer todo lo
+que es necesario callar es esencial para definir los límites entre los
+que es posible describir algo.
