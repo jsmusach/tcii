@@ -132,5 +132,213 @@ son de dos clases:
      que nada dicen respecto del mundo. (o sus negaciones, las
      contradicciones.)
   2. Aquellas proposiciones que no comparten figura lógica con la
-     realidad que prentenden representar.
+     realidad que pretenden representar.
      
+Esto último sucede de dos maneras. Porque se la da a un signo un
+sentido falso, una mala orientación, construyendo enunciados que
+contienen signos carentes de significado, como sucede con las
+proposiciones mal construidas o con las de carácter metafísico. O
+porque apuntan a objetos que quedan fuera del mundo, trascienden el
+mundo, queriendo expresar lo inexpresable, como pasa con las
+proposiciones sobre ética y aquellas que quieren esclarecer el sentido
+del mundo, las proposiciones metafísicas.
+
+Así pues, sólo las proposiciones delas ciencias empíricas tienen
+sentido. La lógica consta únicamente de tautologías, y toda
+proposición sobre ética o metafísica es una proposición carente de
+sentido. El análisis filosófico ayuda a esclarecer el sentido de las
+proposiciones del lenguaje ordinario; las del lenguaje filosófico las
+declara carentes de sentido.
+
+*** La ciencia habla de la realidad, la filosofía habla del lenguaje
+El principal criterio de diferenciación consiste en afirmar que sólo
+la ciencia habla con legitimidad y sentido acerca dela realidad
+extra-lingüística, mientras que la filosofía sólo tiene la tarea de
+esclarecer, unificar, sistematizar y analizar el lenguaje
+científico. El trabajo científico produce la representación
+lingüística o simbólica adecuada a la realidad. La filosofía es una
+actividad de segundo orden, metalingüística, que tiene por objeto el
+lenguaje y el discurso de las ciencias. Sólo excluyendo la ambición
+ontológica o metafísica de la filosofía tradicional, puede asignares
+la labor a la filosofía de analizar con ayuda de la lógica formal el
+lenguaje científico de la ciencia.\\
+
+Los *enunciados referenciales* son aquellos que se refieren a objetos
+que se pueden identificar. Poseen contenido y sentido. Si los objetos
+referidos no son lingüísticos los enunciados son *realistas u
+objetivos*. Si sí lo son, entonces se llaman *metalingüísticos*.\\
+Uno de los objetivos principales del análisis lógico del lenguaje es
+descubrir a los enunciados metalingüísticos con apariencia realista y
+reformularlos correctamente a fin de que pongan claramente de
+manifiesto que se refieren a palabras y no a cosas.
+
+En el neopotivismo, la wittgensteiniana concepción pictórica del
+lenguaje se expresa mediante las siguientes distinciones.
+  1. Proposiciones con sentido y pseudoproposiciones. Sólo tiene
+     sentido un enunciado que pueda ser calificado de verdadero o
+     falso. La verificabilidad constituye el criterio del
+     sentido. Cuando una palabra posee un significado, se dice que
+     designa un concepto, mientras que si esta significación es sólo
+     aparente y en realidad no a posee, entonces es un
+     pseudoconcepto.\\
+     Las condiciones para que una proposición tenga significado son:
+     + Que las notas empíricas de los términos incluidos en la
+       proposición sean conocidas.
+     + Que haya sido estipulado de qué proposiciones protocolarias es
+       derivable la proposición a examinar.
+     + Que las condiciones de verdad para esa proposición hayan sido
+       establecidas.
+     + Que dispongamos de un método de verificación.
+
+  2. Enunciados analíticos y enunciados empíricos. Para los
+     neopositivistas, el principio de verificación se aplica a un
+     enunciado sustancialmente de dos formas.
+     + Determinando su coherencia lógica interna mediante el análisis
+       de la posibilidad de reducirlo a enunciados más elementales.\\
+       Se actúa así con los lenguajes formales con los que la verdad
+       se decide sin recurrir a la experiencia porque es determinable
+       a priori.\\
+
+     + Recurriendo a la experiencia, que afecta a enunciados
+       directamente referidos a la realidad y a los que integran las
+       ciencias de la naturaleza.\\
+       Son enunciados cuya verificación requiere su confrontación con
+       los hechos extralingüísticos a los que remiten.\\
+       Es una verificación empírica y a posteriori.
+
+     Los del primer tipo no aportan ninguna información verdaderamente
+     que no estuviera ya comprendida en la sintaxis y la semántica del
+     lenguaje utilizado. Están desprovista de sentido, como las
+     tautologías en la lógica.\\
+     En cambio, los enunciados empíricos aportan informaciones sobre la
+     realidad fáctica y extralingüística.\\
+     En cualquier caso, todo enunciado pertenece a una categoría o a la
+     otra.\\
+
+     Una distinción de esta misma distinción es la que se establece
+     entre leyes empíricas y leyes teóricas:
+       1. Leyes empíricas son las que pueden ser confirmadas
+          directamente mediante observaciones empíricas. Son leyes
+          acerca de hechos observables. Contienen términos que designan
+          hechos observables por los sentidos.\\
+	  Se las obtiene mediante la generalización de los resultados
+          de observaciones.\\
+	  No sólo incluyen leyes cualitativamente simples —todos los
+          cuervos son negros—, sino también leyes cuantitativas que
+          surgen de observaciones simples.\\
+	  Se las usa para explicar hechos observados y predecir sucesos
+          futuros observables.
+       2. Leyes teóricas o hipotéticas son las que contienen términos
+          que no se refieren a hechos observables. Son leyes acerca de
+          entidades como moléculas. átomos, electrones, etc. que no
+          pueden ser medidos de manera simple y directa.
+	 
+  3. Enunciados que expresan juicios éticos o estéticos. Al considerar
+     el lenguaje básicamente informativo se determinan como ilegítimos
+     y sinsentido los enunciados que expresan sentimientos o
+     valores.\\
+     Los preceptos morales sólo expresan emociones positivas o
+     negativas respecto de acciones y de situaciones
+     descriptibles. Estos usos lingüísticos no presentan interés para
+     la ciencia no para la filosofía.\\
+
+     En esta posición radical en favor del discurso científico como
+     idealmente objetivo y universal y este desprecio por las
+     expresiones de la subjetividad explican la ausencia de compromiso
+     filosófico y ético-político de esta filosofía con la
+     sociedad. Sólo el desarrollo de la ciencia y del espíritu
+     científico y analítico, lógico y objetivo, cabe esperar un
+     progreso real para la humanidad. Mientras ese progreso se
+     realiza, nadie está obligado a tomar posición en el terreno moral
+     o político. Cualquier discurso filosófico o científico, que
+     presenta valores o normas propiamente dichas como si se tratara
+     de hechos objetivos o de realidades susceptibles de ser descritas
+     de manera verdadera o falsa y de ser conocidas, cae en la falacia
+     naturalista. Este sofisma consiste en la confusión entre hechos y
+     valores, entre lo que es y lo que debe ser.
+
+
+** El lenguaje unificado de la ciencia
+El ideal de una ciencia unificada es característico del pensamiento
+moderno desde Descartes, que se plantean construir una matemática
+universal. El neopositivismo retoma este objetivo y lo reformula en el
+plano del lenguaje. todas las ciencias han de tener en común la
+utilización de un lenguaje. Se espera la superación de la diversidad
+de las ciencias si se descubre o se construye ese lenguaje al que se
+puedan reconducir los diferentes lenguajes científicos. La unificación
+de las ciencias requiere la construcción de un lenguaje universal y
+unitario de la ciencia.\\
+
+Carnap en /La estructura lógica del mundo/ (1928) defiende como
+condición básica de ese lenguaje que sus enunciados básicos se
+refieran a sensaciones y experiencias sensoriales y no a objetos
+físicos, que sólo son construcciones hipotéticas a partir de las
+sensaciones. Las cosas son elaboraciones lógicas que realizamos sobre
+la base de nuestro contenidos sensoriales. Lo propio de las
+proposiciones científicas debe ser la posibilidad de que puedan quedar
+reducidas a un lenguaje compuesto de símbolos de los contenidos
+sensoriales.\\
+
+El problema es que garantiza la objetividad de la ciencia ni su
+exigencia universal. Se basaría en experiencias subjetivas de cada
+individuo, pudiendo diferir. Los enunciados básicos de este lenguaje
+no serían comunes más que en apariencia.\\
+Neurah dió un giro distinto con su planteamiento fisicalista. El mundo
+está constituido por objetos que existen con independencia de mi
+experiencia. A esos objetos se refieren directamente los términos y
+enunciados del lenguaje científico. Construir un lenguaje básico para
+la ciencia representa descubrir los enunciados elementales y los
+objetos o hechos elementales constitutivos de la realidad. Luego se
+podrá traducir cualquier enunciado a ese lenguaje básico relativo a
+estados  procesos del mundo físico.\\
+
+En el seno del fisicalismo, durante el s. XX se cuestiona la
+naturaleza referencial o realista de su propio lenguaje. Por otra
+parte, fracasa también en su empeño por reducir fisicalistamente el
+lenguaje de las ciencias humanas, como la psicología. El programa
+neopositivista de unificación de las ciencias por la unificación de
+sus lenguajes se queda en mera aspiración.
+
+** La crítica de la metafísica
+El análisis lógico-positivo del lenguaje responsabiliza del sentido o
+bien a errores sintácticos en los enunciados, o bien a abusos
+semánticos. Es decir, son enunciados sin sentido aquellos en los que
+se combinan palabras que pertenecen a categorías diversas, pero que
+considerados por separado o utilizados correctamente, tienen
+significado. También son sin sentido los enunciados que incluyen
+palabras sin una referencia determinable, como los enunciados
+metafísicos.\\
+
+El neopositivismo reduce la metafísica a un conjunto e errores
+sintácticos y de abusos semánticos del lenguaje. Desde la perspectiva
+lógica, los enunciados metafísicos o bien parecen despojados de
+sentido, o bien sin el sentido o el alcance que se les quiere
+atribuir.
+  1. La primera diferencia estaría en la ambivalencia misma de la
+     palabra ser. A veces se utiliza como cópula que antecede a y se
+     relaciona con un predicado —yo soy el autor de este libro—,
+     mientras que en otras designa existencia —yo soy. Este error
+     resulta agravado por el hecho de que los metafísicos carecen de
+     una idea clara de esta ambivalencia.
+  2. El segundo error está en la forma que adquiere el verbo en su
+     segunda significación, la de existencia. Esta forma verbal
+     muestra ficticiamente un predicado no existente. La existencia no
+     es una propiedad. A este respecto sólo la lógica moderna sería
+     totalmente consecuente al introducir el signo de existencia en
+     una fórmula sintáctica tal que no puede ser referido como un
+     predicado a signos de objeto, sino sólo a un predicado.
+
+Es decir, desde la antigüedad, la mayor parte de los metafísicos se
+habrían dejado seducir por la forma verbal de la palabra ser, formando
+pseudopreposiciones como /yo soy/, /Dios es/, etc. Pero lo
+característico de la actitud física sería un determinado modo de
+confusión de las palabras y las cosas. La labor del neopositivista
+frente a este lenguaje será reconducir sus proposiciones a
+descripciones o recomendaciones concernientes al lenguaje y su uso.
+La filosofía deja de ser metafísica para reducirse a metalingüística y
+transformarse en crítica y análisis lógicos del lenguaje. Este giro
+lingüístico debería permitir también a los filósofos entenderse,
+puesto que compartirían un punto de vista común (el metalingüístico) y
+una referencia común (el lenguaje).
+
+* Investigación científica y desarrollo del conocimiento: Popper
