@@ -89,7 +89,7 @@ teoría del lenguaje.\\
 La última proposición, la enigmática frase De lo que no se puede
 hablar mejor es callarse, cierra el libro marcando el límite de lo que
 se puede pensar y decir (la proposición).\\
-Aunque la mayor parte del tractatus habla de la lógica y lenguaje (de
+Aunque la mayor parte del /tractatus/ habla de la lógica y lenguaje (de
 la proposición), los párrafos iniciales tratan del mundo y de la
 visión metafísica del mundo en términos del atomismo lógico
 (Russell).\\
@@ -283,7 +283,7 @@ El problema es que garantiza la objetividad de la ciencia ni su
 exigencia universal. Se basaría en experiencias subjetivas de cada
 individuo, pudiendo diferir. Los enunciados básicos de este lenguaje
 no serían comunes más que en apariencia.\\
-Neurah dió un giro distinto con su planteamiento fisicalista. El mundo
+Neurah dio un giro distinto con su planteamiento fisicalista. El mundo
 está constituido por objetos que existen con independencia de mi
 experiencia. A esos objetos se refieren directamente los términos y
 enunciados del lenguaje científico. Construir un lenguaje básico para
@@ -342,9 +342,9 @@ puesto que compartirían un punto de vista común (el metalingüístico) y
 una referencia común (el lenguaje).
 
 * Investigación científica y desarrollo del conocimiento: Popper
-** La crítica a la apistemología inductiva
+** La crítica a la epistemología inductiva
 La tradición empirista tiene como método fundamental de la ciencia
-modern la inducción para establecer conceptos y teorías. Popper
+moderna la inducción para establecer conceptos y teorías. Popper
 rechaza los tres principios básicos del empirismo relativos al
 conocimiento:
   1. Discute el *método inductivo* como método fundamental de desarrollo
@@ -352,12 +352,12 @@ conocimiento:
      humana para alcanzar verdades universales válidas que se
      generalizan a partir de la observación repetida de casos
      particulares.\\
-     Para Popper no se pueden verifcar proposiciones o teorías de
-     carácter universal a partir de proporsiciones particulares que no
+     Para Popper no se pueden verificar proposiciones o teorías de
+     carácter universal a partir de proposiciones particulares que no
      las contradigan —la observación de muchos cuervos negros no
      implica que todos los cuervos sean negros.
   2. No cree que la mente, en el proceso del conocimiento, adopte
-     sólamente una *actitud pasiva y receptiva*. La mente no es una hoja
+     solamente una *actitud pasiva y receptiva*. La mente no es una hoja
      de papel en blanco en la que la percepción de entrada a las
      sensaciones que se abstraerían para formar conceptos.
   3. Rechaza el *principio de verificación* como criterio de sentido
@@ -368,7 +368,7 @@ conocimiento:
      Es necesario un nuevo criterio que separe la ciencia y la
      metafísica, *demarcación*, establezca las distintas características de uno y
      otro saber.
-
+     
 ** El problema de la demarcación
 Este surge al intentar distinguir las diferencias entre la teoría de
 Einstein y las teorías del marxismo, el psicoanálisis y la psicología
@@ -379,7 +379,7 @@ primitivos que con la ciencia, se asemejaban más a la astrología que a
 la astronomía.\\
 
 Popper sostiene que la diferencia es que las teorías de Einstein &
-cia. podían ser refutadas por un acntecimiento que se predijera
+cia. podían ser refutadas por un acontecimiento que se predijera
 partiendo de ellas, mientras que las otras resultaban siempre
 confirmadas por cualquier experiencia posible.\\
 Sólo las primeras eran auténticas teorías científicas en la medida en
@@ -391,11 +391,11 @@ devenir de la historia del hombre.\\
 
 La diferencia fundamental entre unas i otras es que las primera no
 asumen que el carácter científico de sus teorías viene dado por la
-acumulación de hechos que reforzan el sentido de la teoría descartando
-los que no lo hicieran, sino mediante la determinación de una
-experiencia decisiva, una prueba en forma de predicción deducida de la
-teoría —pero no deducido de la teoría rival, y que pudiera ser o no
-precisamente confirmada por la observación.\\
+acumulación de hechos que refuerzan el sentido de la teoría
+descartando los que no lo hicieran, sino mediante la determinación de
+una experiencia decisiva, una prueba en forma de predicción deducida
+de la teoría —pero no deducido de la teoría rival, y que pudiera ser o
+no precisamente confirmada por la observación.\\
 
 Este punto de partida es el que permite manifestar y ahondar en la
 diferencia entre su criterio y el criterio positivista de
@@ -406,30 +406,27 @@ empíricos y todos los otros enunciados. Así, no se trata de un
 problema de sentido o de significación, ni de verdad o aceptabilidad,
 sino de demarcación.\\
 
-Per al mismo tiempo, el criterio de demarcación envuelve un problema
+Por al mismo tiempo, el criterio de demarcación envuelve un problema
 ontológico de envergadura. Popper se centra en la cuestión del
 desarrollo de la ciencia, siendo su referencia polémica las nuevas
 ciencias sociales y humanas.
 
 ** El aspecto metodológico
-
-
-
 Popper entiende la filosofía como teoría del conocimiento científico o
 epistemológico. El problema fundamental de la epistemología no es el
 de la estructura de la ciencia, sino el del desarrollo de la ciencia
 —siempre será un asunto a resolver el de a qué cosa hemos de llamar
 una ciencia. La epistemología no debe ser propiamente una lógica de la
 ciencia, sino un lógica de la investigación científica, una lógica del
-procedimiento sagún el cual se desarrolla el conocimiento
-científico. La epistemlogía se reduce a metodología de la ciencia.\\
+procedimiento según el cual se desarrolla el conocimiento
+científico. La epistemología se reduce a metodología de la ciencia.\\
 Popper lo compara con el ajedrez, de la misma manera que que es
 posible definir el ajedrez mediante sus reglas, la ciencia empírica
-puede definirse por medio de sus regals metadológicas.\\
+puede definirse por medio de sus reglas metodológicas.\\
 
 
-Esta metodología e la ciencia deberá clariicar el concepto mismo de
-ciencia, aunque su problema fundmental será el del desarrollo del
+Esta metodología e la ciencia deberá clarificar el concepto mismo de
+ciencia, aunque su problema fundamental será el del desarrollo del
 conocimiento. No se trata de precisar un único método, sino que es
 apropiado usar tantos métodos necesarios para avanzar en la resolución
 del problema dado.\\
@@ -445,17 +442,17 @@ Viena son métodos exclusivos de la teoría del conocimiento:
      precariedad de estos mismos y porque tampoco tiene como objetivo
      abordar la cuestión del desarrollo de la ciencia.
 
-El único modelo que se puede postular es el de la discución racional
+El único modelo que se puede postular es el de la discusión racional
 común a toda pretensión de racionalidad, la ciencia y la filosofía,
 que consiste en exponer claramente los problemas y discutir
 argumentativa y críticamente las soluciones propuestas.
 
 ** El aspecto filosófico
-Popper, mediante su criterio de demarcación, trata de dsitingir entre
-dos tipos de eunciados, de manera que podamos saber a cual nos
+Popper, mediante su criterio de demarcación, trata de distinguir entre
+dos tipos de enunciados, de manera que podamos saber a cual nos
 referimos cuando hablamos de filosofía de la ciencia. Define así su
-problema de la denarcación:
-  1. Es el problema de delimitar lo que es la ciencia epírica respecto
+problema de la demarcación:
+  1. Es el problema de delimitar lo que es la ciencia empírica respecto
      de lo que es sólo pseudociencia. Cuando debe ser considerada
      científicamente una teoría o cuál sería su criterio para
      definirla como ciencia. No se trata de responder a la cuestión de
@@ -474,53 +471,53 @@ Este intento de identificar este problema como el problema
 metodológico de fijar una convención sobre lo que deba entenderse por
 ciencia empírica, *desplaza al ámbito de discusión de la epistemología
 a la discusión de la coherencia* de unas reglas metodológicas.\\
-Pero los criteros de coherencia están definidos por las propias reglas
-del método científico. Supone pues, la renuncia al análisis del
+Pero los criterios de coherencia están definidos por las propias
+reglas del método científico. Supone pues, la renuncia al análisis del
 concepto de ciencia, de definir lo que habrá que entender por
 experiencia y por realidad.
 
 Esto ha dado pie a algunos *críticos* a denunciar que es inevitable
 que lo que quede demarcado como ciencia dentro de la epistemología de
 Popper será conocimiento de realidad y lo que queda fuera de la
-ciencia será ilusión, engaño o mitología, por más que Popper se
-empenye a hacer ver que su problema de demarcación es diferente al
-problema positivista de separar enunciados con sentido de los
-enunciados sin sentido.\\
+ciencia será ilusión, engaño o mitología, por más que Popper se empeña
+a hacer ver que su problema de demarcación es diferente al problema
+positivista de separar enunciados con sentido de los enunciados sin
+sentido.\\
 
 En cualquier caso, con la idea de demarcación se eleva una determinada
-conceptción del método de la ciencia natural a método del conocimiento
+concepción del método de la ciencia natural a método del conocimiento
 científico y racional. Se produce una cierta confusión entre
 epistemología y metodología coo consecuencia previa de la
 desvalorización de un tipo de racionalidad, e.g. ciencias humanas,
 frente a otro, ciencias naturales.\\
 Más que la reducción de la racionalidad a la racionalidad científica,
-lo caracterísico de Popper es una concepción *empirista y positivista*
-de la ciencia y de la filosofía, y de la razón. El problema del
-desarrollo del conociiento desemboca en el problema general de la
-racionalidad.
+lo característico de Popper es una concepción *empirista y
+positivista* de la ciencia y de la filosofía, y de la razón. El
+problema del desarrollo del conocimiento desemboca en el problema
+general de la racionalidad.
 
-** La falsabilidad como criterio de demaración
+** La falsabilidad como criterio de demarcación
 
 *** Actitud científica y actitud dogmática
-Popper el metodo científico engloba el empleo de la hipótesis de
+Popper el método científico engloba el empleo de la hipótesis de
 alcance general la deducción de enunciados particulares que afirman
 posibilidad de observación de un hecho determinado, la comprobación en
 la medida de lo posible y la decisión de abrirse a comprobaciones
-ulteriores en funcion de la evolución del conocimiento, la experiencia
+ulteriores en función de la evolución del conocimiento, la experiencia
 y la ciencia.\\
 
-Así, el criterio de dientificidad como criterio de demarcación se
+Así, el criterio de cientificidad como criterio de demarcación se
 basará fundamentalmente en la prueba de falsabilidad para una
 teoría. Es decir, la comprobación en circunstancias precisas en las
 que podría verse uno obligado a abandonar la teoría.\\
-Una actitud científica debe afrontar este tipo de priebas. Lo que pasa
+Una actitud científica debe afrontar este tipo de pruebas. Lo que pasa
 con las teorías psicoanalíticas y marxistas es que tratan de evitar
 este tipo de pruebas decisivas utilizando diversos procedimientos:
-  1. Empleando una termiología abstracta y generalista que no se
+  1. Empleando una terminología abstracta y generalista que no se
      corresponda con hechos observables, pero que cumpla una función
      esencial en la teoría.
   2. Utilizando conceptos que permiten neutralizar observaciones
-     capaces de contradir e incluso refutar la teoría.
+     capaces de contradecir e incluso refutar la teoría.
   3. Realizar una observación selectiva de datos o de hechos que sólo
      descubran y se describan en función de la teoría.
 
@@ -530,7 +527,7 @@ contradicciones, antítesis. Pero no crean problemas, ya que el
 freudismo o marxismo se refuerzan con ellas. Estas teoría no pueden
 ser refutadas por la evidencia de una incoherencia o de un
 conflicto. Lo que no va en sentido de la teoría queda excluido.\\
-Se trata de la auseencia de distanciamento crítico, típico de la
+Se trata de la ausencia de distanciamiento crítico, típico de la
 creencia, de la ideología, de la fe, etc. y que inmuniza a la teoría
 en la que se cree haciéndola infalible. De ahí el dogmatismo que se
 refuerza por la habilidad para interpretarlo todo siempre en la
@@ -540,11 +537,107 @@ dirección ortodoxa.
 El criterio de la demarcación de Popper es la falsabilidad,
 refutabilidad o contrastabilidad de las teorías. Se trata de la
 alternativa al principio positivista de verificabilidad y a la
-metodolgía induccionista. La falsabilidada supone:
+metodología induccionista. La falsabilidada supone:
   1. Un modo concreto de entender la ciencia empírica al que debe
-     responeder a tal criterio.
+     responder a tal criterio.
   2. Un modo de entender el valor de la epistemología desde la que
      habrá que comprender la función de tal criterio.
 
+En cuanto al *criterio de delimitación* de los enunciados científicos
+de los no científicos, hay dos aspectos a tener en cuenta: su carácter
+propiamente empírico y su carácter evolutivo.\\
+El *carácter empírico* dela ciencia implica que los enunciados
+científicos nos proporcionan información sobre la experiencia y que
+son capaces de explicar la experiencia.\\
+El *carácter evolutivo* de la ciencia implica también deos notas de los
+enunciados científicos: Que tienen un carácter hipotético, i.e., no
+tienen una validez definitiva, y que tienen un carácter progresivo,
+i.e., que suponen un aumento real de nuestro conocimiento.\\
 
+La fasabilidad, como norma metodológica, hará referencia a la
+estructura lógica de los enunciados científicos y, por otra, a los
+procedimientos de la investigación científica —a las reglas
+metodológicas que se utilizan para manejar enunciados científicos. \\
+Afirmar que una teoría pertenece a la ciencia empírica es afirmar algo
+acerca de algo que no es ni tautológica —que no afirma nada—, ni
+contradictoria —lo afirma todo—, ni metafísica —afirma algo que no
+puede ser comprobado en la experiencia.\\
+Enunciado científico es, pues, enunciado que afirma algo sobre la
+experiencia. La forma de saberlo es contrastando el enunciado con la
+experiencia.\\
+El problema que surge es saber cómo se puede llevar a cabo esta
+contrastación.\\
 
+Una teoría científica no es directamente contrastable con la
+experiencia, ya que esta es particular y concreta, mientras que la
+teoría es universal y abstracta. Sin embargo, los enunciado básicos
+—enunciados deducidos de una teoría que describen hechos de la
+experiencia— sí pueden ser directamente comparados con la
+experiencia.\\
+*Contrastar una teoría* con la experiencia es deducir enunciados
+singulares a partir de ella y verificar en la práctica estos
+enunciados. \\
+Pueden pasar dos cosas:
+  1. Que los enunciados singulares sean refutados por la
+     experiencia. La teoría queda también refutada.
+  2. Que los enunciados singulares sean verificados por la
+     experiencia. La teoría no queda verificada, sino solo probada
+     provisionalmente.
+
+Los enunciados teóricos sin enunciados universales, que comprenden
+infinitos casos de enunciados particulares. La verdad de un enunciado
+universal no se puede dar por la verdad de un enunciado particular.\\
+De esta manera parece que la falsabilidad, como criterio de
+demarcación, es útil para dar cuenta del carácter empírico de las
+teorías empíricas.\\
+
+Pero para llegar a identificar este primer aspecto del carácter
+empírico de la ciencia con la falsibilidad de los enunciados
+científicos se han llevado a cabo varias reducciones.\\
+Solo podemos saber si un enunciado habla acerca de la experiencia si
+habla acerca de hechos singulares, y si es posible que lo que afirma
+acerca de hechos singulares sea falso.\\
+
+Esto tiene como consecuencia una limitación empirista del concepto de
+ciencia que deja fuera de la racionalidad científica a todo conjunto
+de enunciados que no se refieran a experiencias o hechos. Se dejan
+fuera los enunciados filosóficos y muchos enunciados metafísicos.\\
+Sin embargo, los enunciados metafísicos, aunque no falsables, juegan
+un papel importante en la ciencia, pero en la medida que, mediante la
+evolución de la ciencia, lleguen a ser falsables.\\
+
+La distinción entre falsabilidad y falsación se corresponde con la
+distinción con la distinción entre el problema de la demarcación y el
+problema del método de la ciencia.\\
+Todo sistema empírica tiene que ser, además, falsable. Los enunciados
+que satisfacen la condición de coherencia son incapaces de efectuar
+discriminación alguna entre dos enunciados cualesquiera. Los que no
+satisfacen la condición de falsabilidad no son capaces de efectuar
+discriminación entre dos enunciados cualesquiera que pertenezcan a la
+totalidad de todos los enunciados empíricos básicos posibles.
+
+** La concepción de la ciencia
+*** Enunciados básicos y teorías
+El primer aspecto a determinar es la relación entre ciencia y
+experiencia. La ciencia se concibe como un conjunto organizado de
+enunciados. El problema de la relación entre la experiencia y la
+ciencia se formulará como problema de las relaciones entre enunciados
+teóricos y enunciados de hechos, i.e., entre teorías y enunciados
+básicos.\\
+Las teorías se caracterizan respecto de los enunciados básico por ser
+falsables, y éstos respecto de a la teoría por ser sus posibles
+falsadores. Lo relevante es el método de llevar a cabo la
+contrastación entre unos y otros, el método de la falsación de la
+teoría o de su sometimiento a falsación.\\
+
+Contrastar la teoría será contrastar los enunciados teóricos con los
+enunciados básicos. Pero esto no resuelve el problema del empirismo
+lógico, el de la justificación del carácter empírico de los enunciados
+básicos mismos, el problema de la relación entre lenguaje y
+experiencia, a través de la relación entre enunciados y hechos y
+experiencia de hechos. Este problema se desdobla en la epistemología
+de Popper *en dos problemas*: El problema de la aceptación de
+enunciados básicos para la falsación de una teoría y el problema de la
+justificación de esa aceptación.
+
+*** Aceptación de enunciados básicos
