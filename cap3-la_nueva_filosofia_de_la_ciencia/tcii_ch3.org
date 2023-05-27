@@ -641,3 +641,128 @@ enunciados básicos para la falsación de una teoría y el problema de la
 justificación de esa aceptación.
 
 *** Aceptación de enunciados básicos
+Los enunciados básicos cumplen dos funciones en el sistema científico:
+  1. obtener una representación exhaustiva de todos los enunciados
+     básicos lógimanete posibles.
+  2. Los enunciados básicos aceptados constituyen la base para la
+     corroboración de la hipótesis. Si contradicen la teoría,
+     admintimos que nos proporcionan motivo suficiente para la
+     falsación de ésta. únicamente en el caso de que corroboren una
+     hipótesis falsadora.
+
+La fórma de como deben aceptarse los enunciados básicos para que
+cumplan su función de contrastación empírica, Popper señala dos reglas:
+  1. No aceptar enunciados básicos esporádicos, que no esten en
+     conexión lógica con otros enunciados.
+  2. Se aceptan enunciados básicos como constatación de teorías cuando
+     se suscitan cuestiones esclarecedoras de ésta.
+
+Estas dos reglas són circulares en el sentido de que la aceptación de
+enunciados básicos se lleva a cabo con vistas a la contrastación de
+teorías, y por esto, precisamente, no se aceptan enunciados básicos
+aislados.\\
+Los enunciados básicos son enunciados existenciales aislados. Se
+refieren a acontecimientos individuales irrepetibles. Por lo tanto,
+son incapaces de ser objetivos si se los toma aisladamente. Es decir,
+las teorías no son enteramente justificables o verificables, pero sí
+siempre contrastables. La objetividad de los enunciados científicos
+descansa en el hecho de que pueden contrastarse intersubjetivamente
+—que sucede en la comunicación intelectual entre dos sujetos.\\
+
+A partir de un enunciado básico aislado lo único que podemos inferir
+son enunciados estrictamente existenciales, que no són contrastables
+ni falsables. Sólo con los enunciados básicos que están en relación
+con otros de carácter más teórico a partir de los cuales se puedan
+deducirse, se puede garantizar que sean objetivos, *contrastables
+intersubjetivamente*, indispensable para que puedan servir como
+enunciados de contraste empírico de las teorías.
+
+*** Ciencia y experiencia
+La ciencia, según Popper, es un conunto de enunciados lógicamente
+estructurados y de cuyas relaciones se ocupa la epistemología. Es como
+un sistema de disposiciones y que puede ser materia de estudio de la
+psicología, puede estar unido a sentimientos de creencia o de
+convicción: quizá en un caso al sentimiento de sentirse obligado a
+pensar de una manera determinada y, en otro, al de certidumbre
+perceptiva.\\
+El epistemólogo tiene que *prescindir de estos sentimientos* y de su
+intensidad y adoptar el único camino que existe para asegurar la
+validez de los razonamientos lógicos, i.e., prepararlos mediante el
+análisis —en el caso de las ciencias analíticas— o la presentación de
+hechos —en el caso de las ciencias empíricas— para su contrastación.\\
+Las relaciones lógicas sólo se dan entre enuinciados, es imposible
+pretender la fundamentación lógica de enunciados por algo que no son
+enunciados, i.e. por experiencias.\\
+
+Es necesario pues, *definir experiencia*. Popper acepta el principio
+empirista según el cual sólo captamos los hechos mediante la
+observación, aunque no justifica ni fundamenta la verdad de ningún
+enunciado. La experiencia no nos proporciona conocimiento, sólo lo
+hace en la medida en se afirma un enunciado que describe el
+hecho. Pero el enunciado, ya por serlo, trasciende la observación
+empírica, inmediata. Toda observación está mediatizada ya por la
+teoría, de modo que las observaciones perceptivas puras son
+imposibles.\\
+
+#+begin_quote
+La decisión de aceptar un enunciado básico y darse por satisfecho con
+él tiene una conexión causal con nusetras experiencias, especialemente
+con las perceptivas. Pero no se justifican los enunciados básicos por
+medio de ellas. Las experiencias pueden motivar una decisión la
+adopción o rechazo de un enunciado, pero ningún enunciado básico puede
+quedar justificada por ellas.
+#+end_quote
+
+La experiencia es el resultado de decisiones y de interpretaciones
+libres. Los hechos aparentes de la experiencia son siempre
+interpretaciones a la luz de teorías, por lo que tienen carácter
+hipotético, conjetural de todas las teorías.\\
+Las observaciones, y particularmente los enunciados de observaciones y
+los resultados experimentales, son siempre interpretaciones de los
+hechos observados realizadas a la luz de teorías.
+
+*** La superación del dualismo realidad-teoría
+Si se tiene contacto con el mundo a través de una teoría, con lo que
+se tiene contacto es con la teoría, no con el mundo. Si se afirma que
+a través de la teoría se da una existencia independiente del mundo, se
+tiene que poder distinguir, en la propia teoría, què es lo teórico y
+que es el mundo —de lo contrario no serà independiente. Esta
+dificultad, que surge con el dualismo realidad-teoría,
+realidad-lenguaje, desaparecería con la conceptción khuniana de las
+tradiciones científicas. Los ap priori de la experiencia, de toda
+experiencia posible, son hechos del lenguaje. el sujeto, científico,
+es una encrucijada de discursos, su propia consitencia es el mundo
+como mundo de la tradición que les constituye como lenguaje. De esta
+manera, el yo es siempre es mundo y no hay lugar para estos dualismos.
+
+*** Decisionismo y convencionalismo
+Popper en contraste con el círculo de Viena sostiene que es imposible
+reducir enunciados básicos a la experiencia directa y, en cuanto que
+son enunciados teóricos, es imposible reducirlos a cualquier tipo de
+experiencia singular.\\
+
+Los enujnciados básicos son los únicos que pueden ser falsadores de
+teorías. Su justificación de su aceptación es imposible, sólo queda la
+opción de de aceptarlo o no. Es decir, la aceptación de los enunciados
+básicos recae sobre el científico. Es fácil que la comunidad
+científica se ponga de acuerdo sobre esta decisión. Es una aceptación
+convencional y no definitiva. Esto introduce la posibilidad de una
+regresión infinitia pero que no resulta perjudicical, ya que no se
+pretende probar ningún enunciado por medio de la teoría, sino que
+solamente se trata de una posibilidad lógica que siempre se verá
+detenida por lo convenido de los científicos en un momento
+determinado, en el que cadena de contrastaciones se detiene.\\
+
+Así, no es posible responder al problema del conocimiento por medio de
+ninguna teoría científia, i.e., falsable.\\
+La cuestión de que si esta metodologái nos proporciona un conocimiento
+empírico válido, no solo formalmente sino realmente, es una cuestión
+que sólo puede resolverse mediante la fe metafísica en la
+inmutabilidad de los procesos naturales. El método científico
+presupone la inmutabilidad de los procesos naturales o el principio de
+uniformidad de la naturaleza.
+
+*** La actitud refutadora como supuesto del carácter empírico de la ciencia
+
+
+
