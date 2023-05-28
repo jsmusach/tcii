@@ -1,0 +1,17 @@
+#+LATEX_CLASS: article
+
+# -*- mode: org; -*-
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt, twocolumn, spanish]
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage[margin=.75in]{geometry}
+#+LATEX_HEADER: \setlength\parindent{0pt}
+
+#+Title: Apuntes de Teoría del Conocimiento ii
+#+SUBTITLE: IV La problemática del conocimiento histórico
+#+AUTHOR: Jordi Serra
+
+* Constitución del método hermenéutico como método del conocimiento histórico
+** Hermenéutica teológica y hermenéutica filológica
+
+A partir del renacimiento es necesario un método hermenéutico en dos
+ámbitos culturales distintos: el filólogo y el teológico.
