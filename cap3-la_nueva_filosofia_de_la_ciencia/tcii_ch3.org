@@ -763,6 +763,330 @@ presupone la inmutabilidad de los procesos naturales o el principio de
 uniformidad de la naturaleza.
 
 *** La actitud refutadora como supuesto del carácter empírico de la ciencia
+Del decisionismo de Popper car en una cierta arbitrariedad, que es el
+que él critica en las teorías convencionalistas. Para salir del
+psicologismo positivista, se acerca primero al convencionalsismo y,
+para superar las sus consecuencias, su salida es un cierto
+pragmatismo. Es decir, trata de corregir su convencionalismo
+insisitiendo en que la contrastación responde a una actitud, decidida,
+de falsar, de refutar una teoría.
 
+La actitud refutaroda es lo que diferencia entre al convencionalismo
+de Popper del convencinalismo clássico, y es la moralidad del
+científico la única base del carácter empírico de los enunciados. Su
+teoría del conocimiento sostiene que la base empírica de todas las
+teorías son los intentos de refutación (tests). És el presupuesto
+último del carácter empírico de la ciencia, sólo esta actitud permite
+el desarrollo. Empirismo y desarrollo quedan así conectados
+metodológicamente. La garantía empírica de la ciencia es la actitud
+moral del científico.
+
+** Desarrollo del conocimiento científico
+
+*** Historia de la ciencia e investigación científica
+Para la evolución y desarrollo de la ciencia es necesario:
+  1. Su carácter abierto y nunca definitivo
+  2. Su carácter progresivo en virtud del cual nuestro conocimiento va
+     aumentando y extendiéndose cuantitativamente a cada vez más
+     fenómenos o aspetos de la realidad
+
+La *epistemología* de Popper se caracteriza por el progreso de la
+ciencia para explicar la ciencia actual y tratar de darle una
+explicación que sirva a ese progreso de oritentación y guía. \\
+El *desarrollo del conocimiento* es un *fenómeno histórico* que
+exiguirá una teoría de la historia de la ciencia, para así poder ser
+explicado y guiado. Pero también un *fenómeno del proceso de
+investigación científica* y exigirá una teoría de la investigación
+científica y una metodología consecuente con dicha teoría.\\
+Los elementos constitutivos necesarios de la epistemología de Popper
+son:
+  1. Una teoría de la historia ed la ciencia. Ésta deberá comprender
+     una teoría de los límites del conocimiento científico y una
+     teoría del progreso del conocimiento científico —i.e. una teoría
+     del aumento cuantitativo y cualitativo de la ciencia, en la cual
+     irá incluida una explicación de la diferencición histórica de las
+     ciencias.
+  2. Una teoría de la investigación científica. Deberá comprender una
+     teoría del caracater provisional de nuestro conocimiento, i.e.,
+     una teoría de las relaciones entre nuestro conocimiento universal
+     y nuestra experiencia. Pero también una teoría del aumento de
+     nuestro conocimiento, del aprendizaje, del descubrimiento de
+     teorías y fenómenos empíricos y de la construcción de leyes y
+     teorías.
+  3. Una guia eficaz para promover el desarrollo de la ciencia. Habrá
+     de proporcionar directrices para una política científica, i.e.
+     planificacíon de la investigación científica a nivel social,
+     planicificación que habrá de tener en cuenta tanto el carácet
+     siempre provisional del conocimiento científico, su fiabilidad,
+     como la continua necesidad del aumento cuantitativo y cualitativo
+     de la ciencia. Pero también normas para la investigación
+     científica, i.e., normas que garanticen la crítica, metodología
+     del antidogmatismo, y normas que posibiliten el descubrimiento
+     científico.
+
+*** La idea de un acercamientl a la verdad
+Pero Popper se limita al nivel de la investigación científica, en la
+que aporta un ametodología en los términos convencionalistas ya
+expuestos cuya normas para impulsar el desarrollo del conocimiento
+cinetíficos son:
+  1. Es preciso inventar teorías cada ves más falsables, i.e., teoría
+     que permitan hablar de hechos nuevos.
+  2. Es preciso intentar siempre refutar estas teorías.
+
+Estas mismas reglas metodológicas sirven también para explicar el
+desarrollo de la ciencia. Vienen a reflejar que si la ciencia se
+desarrolla es porque los científicos se inventan teorías cada vez más
+falsables y porque intentan continuamente falsar dichas teorías —el
+*aspecto negativo* del desarrollo de la ciencia.\\
+El *aspecto positivo* —el aumento del conocimiento— Popper intenta
+poner de acuerdo su metodología falsacionista con una teoría realista
+del aumento del conocimiento científico. Interpreta el conocimiento de
+la ciencia como un acercamiento a la verdad absoluta a través del
+concepto de verosimilitud.\\
+
+Doble sentido de la idea de verdad. Por una parte, la entiende como el
+sentido clásico realista, como correspondencia con los hechos. Por
+otra, en sentido idealista, como verdad absoluta inalcanzable, como
+principio regulador.\\
+Si se entiende el progreso de la ciencia en función de un acercamiento
+a la verdad absoluta, se debe medir esta aproximación y sólo puede ser
+con supuestos a priori: el progreso de la ciencia no dependerá del
+grado de adecuación de nuestro conocimiento a la realidad, sino de la
+cantidad de enuncados básicos, de hehcos, que nuestras teorías
+permiten inferir.\\
+
+El problema del *aumento del conocimiento* no consiste sólo en que
+cada veza nuestras teorías se refieran a más hechos, sino en que cada
+vez conocemos más y mejor la realidad.\\
+Para eso, Popper acaba asmitiendo el éxito temporal de las teorías
+científicas. Es decir, termina admitiendo, no sólo que el progreso
+consiste en que tenemos teorías cada vez más universales, sino en que
+algunas de estas teorías tienen éxito en sus predicciones, que son
+provisionalmente verificadas.\\
+El falsacionismo no es, pues, en rigor, una teoría del progreso de la
+ciencia, sino una simple metodología antidogmática junto a la cual
+aparece una constatación empírica del progreso científico como aumento
+del éxito de l aciencia en su explicación de la realidad.
+
+*** Probabilidad y corroborabilidad
+Para Popper, el aumento del conocimiento ceintífico así como su éxito
+tiene que ser un punto de llegada —mientras que para la lógica
+inductivo constituye el centro de la peistemología. La demotración de
+que podemos avanzar en el conocimiento de la realidad con actitudes e
+instrumentos falsadores.\\
+
+Una teoría que se ha tratado de falsar pero que no ha quedado falsada,
+sigue siendo una teoría válida, aunque no se la puede dar por
+verdadera ya que puede resultar falsa en un futuro. Al ser un
+enunciado universal, no puede ser nunca definitivamente varificada,
+siempre será una conjetura provisional.\\
+Es preciso cambiar el concepto de verdad por el de probabilidad. Al
+atribuir una probabilidad a un hipótesis etamos haciendo una
+evaluación de la misma que puede ser verdadera o probable. Esto nos
+lleva a un /cul de sac/:
+
+#+begin_quote
+En cuanto a la evolución de las teorías podemos afirmar que es
+verdadera o que es probable. Si se la considrea verdadera tiene que
+ser un enunciado sintético verdadero a priori. Si se la toma como
+probable, necestiamos una nueva evaluación, una evaluación de la
+evaluación, de orden superior. Entonces estamos atrapados en una
+regresión infinita. La apelación a la probabilidad de la hipótesis es
+incapaz de mejorar la precaria situacio´n de la lógica inductiva.
+#+end_quote
+
+Esta posición tiene relación con la crítica de Popper a la
+epistemología inductiva, pues creer en la lógica de la probabilidad
+supone creer que se llega a la evaluación a través de un principio de
+inducción que adscribe probabilidades a las hipótesis inducidas.\\
+Pero si se vuevle a atribuir una probabilidad a este principio
+estaremos en un regreso al inifinito. Si por el cintrario se le
+atribuye la verdad, nos enfrentamos con el dilema de lelegir entre la
+regresión infinita y el apriorismo.\\
+Es decir, la lógica inductiva no nos sirve para caracterizar una
+hipótesis cuando ésta ha sido contrastada con la experiencia y ha
+resisitido la prueba. No podemos decir de ella que sea verdadera y ni
+siquiera podemos decir que sea probable. Lo único que podemos deicr es
+que está más o menos corroborada.\\
+
+Que una teoría esté corroborada implica sólo que tal teoría es
+aceptable de manera provisional. No dice nada acerca ni de la verdad
+ni de la proabilidad.\\
+Así, decir que una teoría está corroborada cuando es refutable pero
+que no ha sido refutada por los intentos hasta el momento, es decir
+que se ha aceptado una serie de enunciados deducibles de ella y hemos
+tomados esta decisión porque estos enunciados no eran deducibles de
+nuestro anterior conocimiento falsamente falsable.\\
+
+En conclusión, el conocimiento necesita, en último término, instancias
+extralógicas —la sinceridad de nuestros intentos por refutar las
+teorías, base del falsacionismo.\\
+El progreso de la ciencia depende de la universalidad creciente de
+nuestras teorías, pero también de la sinceridad de uestros itentos de
+refutación.\\
+Sin embargo, estas condiciones sólo garantizan que la ciencia no de
+detenga, no explican que aumente nuestro conocimiento.
+
+*** El mundo 3
+Lo que diferencia al ser humano del resto de seres vivos es que
+gracias al lenguaje, que permite la representación y la crítica, puede
+desarrollarse el proceso de aprendizaje y de progreso del conocimiento
+sin involucrarse físicamente en él. El desarrollo de la ciencia se
+produce:
+  1. Los científicos inventan y someten a prueba las teorías
+     destinadas a resover problemas que se plantean a partir de
+     toerías existentes.
+  2. Entre las teorías se produce una competencia que viene a ser como
+     una lucha por la supervivencia. Unas teorías son eliminadas, bien
+     porque no sobreviven a una prueba de falsabilidad, bien porque
+     las sustituyan otras teorías más poderosas capaces de resolver
+     más problemas.
+
+
+Popper tiene varias tesis del mundo 3:
+  1. En el mundo 3 podemos descubrir nuevos problemas que estaban allí
+     antes de ser descubiertos y antes de que se hiciesen
+     conscientes. Esto es, antes de que en el mundo 2 apareciese algo
+     correspondiente a ellos.
+  2. En algún sentido el mundo 3 es autonomo. Podemos hacer en este
+     mundo descubrimientos teóricos del mismo modo de que podemos
+     hacer descubrimientos geográficos en el mundo 1.
+  3. Tesis fundamental: casi todo nuestro conocimiento subjetivo
+     (mundo 2) depende del mundo 3 (virtualmente), de las teorías
+     formuladas lingüísticamente.
+
+La plena conciencia de sí mismo depende ed todas estas teorías
+(mundo 3) y de que los animales, aunque sean capaces de tener
+sentimientos, sensaciones, memoria, conciencia, no poseen plena
+concidencia de sí mismos que constituye uno de los resultados del
+lenguaje humano y el desarrollo del mundo 3 esepcíficamente humano.\\
+
+El desarrollo del conocimiento científico, se desarrolla fuera del
+organismo humano. El conocimiento científio es relativamente autónomo
+respecto de los individuos, no está inscrito en el genoma ni en el
+cerebro. El conocimiento está en los libros y bases de datos
+disponibles para las nuevas generaciones que continuarán desarrollando
+a través de la invención y de la crítica. Este conjunto de
+conocimiento es el que Popper llama mundo 3, Una producción
+específicamente humana por medio el lenguaje. Es el mundo de los
+problemas y de las hipótesis teóricas.
+
+** La apuesta por un racionalismo crítico
+Popper sostiene que la posibilidad de encontrar puntos de referencia
+últimos en los que basar nuestro saber es una ilusión. Propone una
+actitud racionalista crítica que acepte que cualquier teoría es
+provisional, revisable, superable.\\
+
+Este mismo carácter de provisionalidad afecta al racionalismo crítico
+mismo, que no puede afirmar de manera universalmente obligatoria que
+haya que adoptar una catitud racional de experimentación y de
+discusión argumental. Optar por la razón no es una cuestión racional,
+sino una decisiónde la que sólo podemos decir que da buenos
+resultados, pero no que sea lógicamente necesaria a priori.\\
+Se trata pues de un racionalismo suspendido en un abismo de
+irracionalidad, ya que en favor de la decisión por la razón no caben
+argumentaciones no demostraciones racionales.\\
+
+Se trata de una tesis muy controvertida, que ha sido objeto de debate
+en polémicas entre Popper y la escuela de Frankfurt (Habermas), que
+defiende la posibilidad y la necesidad de apuntalar e incluso de
+fundar racionalmente la elección a favor de la discusión racional
+universal.
+
+
+
+* La ciencia en la historia y en la sociedad
+
+** El rechazo de la concepción dominante de la ciencia
+La nueva teoría de la ciencia —Kuhn, Laktatos, Polanyi, Hanson,
+Feyerabend— somete a duras críticas los siguientes aspectos de lo que
+llaman /imagen dominante de la ciencia/ (desde Descartes hasta Popper):
+  1. La idea de un método universal y único que sería el propio de la
+     ciencia moderna (e.g. el método inductivo).
+  2. La idea de un criterio universal de cientificidad que permitiría
+     dsitinguir rigurosamente la ciencia de las pseudociencias o
+     teorías no científicas (e.g. criterio de falsabilidad)
+  3. La idea de un progreso lineal, continuo y acumulativo de la
+     ciencia, un progreso en línea recta sin rupturas,
+     discontinuidades no revoluciones. El desarrollo del conocimiento
+     es entendido como una acumulación de conocimientos cada vez más
+     amplia. Una teoría reemplazaría a otra teoría incluyéndola, por
+     lo que sería más potente que la anterior, que contiene más
+     verdad.
+  4. La idea de realismo y de la objetividad de la ciencia. La ciencia
+     sería una descripción cada vez más precisa de la realidad
+     objetiva, a la que se aproximaría a la manera de una imagen cada
+     vez más precisa.
+
+Las trasnformaciones profundas en el seno de la nueva epistemología
+científica —la imposibilidad de separar al sujeto y al objeto en la
+investigación; el rechazo de un concepto estático de verdad y su
+superación por una verdad históricamente situada; la caída de un
+método como acceso a la verdad— configuran un contexto de referencia
+desde el que se tratan de superar ciertos principios dogmáticos de la
+teoría tradicional del conocimiento. Este giro de la episteme
+contemporánea impulsa una mayor conciencia de los procesos históricos
+de constitución de la razón.
+
+** Kuhn: El devenir de la ciencia como sucesión de paradigmas
+
+*** El concepto de paradigma
+Un paradigma es un ideal común de explicación, un conjunto de formas
+simbólicas, un moelo teórico y una serie de métodos para la solución
+de problemas empleados en la formación de los investigadores. Es el
+marco en cuyo interior se desarrolla la actividad científica en un
+momento dado. Constituye una especie de matriz común gracias a la cual
+los especialistas hablan de las mismas cosas en los mismos términos y
+adoptan las mismas actitudes. Es como la matriz simbólica de una
+comunidad científica:
+
+*** Ciencia normal y revolución científica
+La actividad científica se desarrolla en el marco de un paradigma
+vigente que es el que define ciencia norma en unmomento dado. En la
+evolución histórica de la ciencia se distinguen períodos de ciencia
+normal, marcados por la aceptación general de un aparadigma, y
+períodos de ciencia normal, marcados por la aceptación general de un
+paradigma, y períodos de revolución, en los que hay varios paradigmas
+en competición. La elección de uno o de otro no depende de criterios
+lógicos o metodológicos, sino del conjunto de valores del grupo social
+al que el científio pertenece.\\
+
+El ejercicio de la ciencia normal consiste en aplicar el paradigma
+dentro del que se trabaja y resolver los problemas que se presentan
+sin cuestionar el paradigma mismo. Cuando surgen experiencias u
+observaciones que cuestionan el mismo paradigmo, se suele pensar que
+es un error de cálculo o de experimentación. Este sería un punto que
+se opone a la noción de Popper de falsación.\\
+Según Kuhn, para ser un buen científico se tiene que tener bien
+asimilado el paradigma en el que se ejerce. Así, el espíritu crítico
+no sería una característica de la investigación científica normal.\\
+Sólo cuando los contraejemplos no buscados aumenten y resulten cada
+vez más difíciles de ignorar se empieza a producir un cuestionamiento
+del paradigma pudiéndose iniciar un período de revolución.(E.g.,
+revolución copernicana, con el macanicismo que culmina con
+Newton. Otro ejemplo el paso de la física Newtoniana al relativismo ed
+Einstein.)\\
+
+Puesto que los paradigmas son incomensurables, lo componentes del
+paradigma antiguo ejan simplemente de existir en el nuevo. Esto
+significa que diferentes paradigmas implica necesariamente fenómenos
+distintos, aunque se pueda compartir terminología (el nombre no hace
+la cosa, planeta, estrella, gen etc.). Así, no hay continuidad ni
+profundización en el desarrollo del saber.
+
+
+*** La crítica al modelo fundacionista de la ciencia
+La metodología de validadciónn de los neopositivistas son sólo válidos
+en un período de ciencia normal, que se ejerce en un paradigma
+dado. En los períodods de revolución en el que copiten varios
+paradigmas, no hay estructuras lógicas o metodológicas para el
+asentimiento a uno u otro paradigma. La elección depende sobretodo de
+los sistemas de valores presentes en los entornos a los que los
+científicos ejercen. El paso de un pradigma a otro no se explica desde
+un punto de vista lógico, no hay secuencias de modificaciones
+regulares, explicables, cada una en función de la precedente, sino
+cambios súbitos y masivos tras los cuales sobrevive un nuevo período
+de ciencia normal durante el que los criterios de logicidad estan de
+nuevo en vigor hasta otra nueva revlución.\\
 
 
