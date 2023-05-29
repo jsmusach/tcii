@@ -187,3 +187,218 @@ Estos métodos y formas de interpretacioón se condicionan mutuamente,
 de tal manera que ningún método existe sin el otro y ninguna de las
 formas de interpretación tiene una preeminencia absoluta sobre las
 otras.\\
+El *método adivinatorio* es definido como intuición inmediata o
+captación de la inmediatez del sentido del texto, únicamente posible
+para un espíritu afín que comparte con el autor un sentimiento vivo.\\
+El *método comparativo* indica un camino para la cmprensión de una
+totalidad a través de una serie de conocimientos singulares y
+contrastados entre sí.\\
+
+Estos dos métodos tiene su aplicación concreta:\\
+La *interpretación gramatical*, que es la objetiva. Está referida al
+sentido objetivo de las palabrase e investiga la regularidades del
+lenguaje y las posibilidades de sus formas de expresión, por lo que
+presupone la participación de los intérpretes y el autor en un juego
+de lenguaje común. Shcleiermacher caracteriza este primer modo como un
+proceso negativo y general, en cuanto que señala los límites de la
+reconstrucción.\\
+La *interpretación técnica*, que es la subjetiva, también denominada
+psicológica. Intenta captar positivamente lo individual y subjetio del
+autor en el uso que hace de las palabras. Trata de comprender el valor
+significativo de lo dicho. Ésta se situa en la esfera del pensamiento
+o ámbito del proceso creador interno del autor.\\
+
+Estas dos formas de interpretación con los dos métodos, tienen como
+tarea común la reconstrucción de la unidad de la obra como unidad de
+lo general (lenguaje común del escritor y el intérprete) y de lo
+particular (lo individual). Sólo la reconstrucción de esta unidad
+original es lo que determina el rango de objetividad. El objetivo no
+es asignar motivos o causas a las intenciones edl autor, sino
+reconstruir el pensamiento mismo ed otra persona a través de la
+interpretación de su discurso.
+
+*** Comprender el autor mejor de lo que él mismo se comprendió
+La comprensión implica la reconstrucción de una
+proeducción. Necesariamente aparecerán en éste proceso aspectos que
+pudieron haber pasado desapercibidos para el autor
+original. Comprendiendo las formas particulares en su nexo de
+relaciones, las palabras en sus cambios semánticos, según el uso
+lingüístico del autor, poemos decir que comprendemos mejor al autor de
+lo que él mismo se había comprendido.\\
+
+El círculo hermenéutico se está siempre ampliando, pues el conjunto de
+todo es relativo y la integración de cada cosa en relaciones cada vez
+mayores afecta también a su comprensión. La comprensión del intérprete
+puede considerarse mejor, puesto que expresa una opinión frente una
+realización de su contenido, enciarra un poca más de conocimiento.\\
+El lenguaje es un campo expresivo y su importancia en la hermenéutica
+que es que el interprete puede considerar sus textos como puros
+fenómenos de expresión, al margen de sus pretensiones de verdad
+(Gadamer).
+
+*** Una contradicción insalvable
+El gran problema de la hermenéutica de Schleiermacher es la
+conciliación, en una hermenéutica general, las dos formas de
+interpretación, gramatical y técnica. Sin conocerse sus obras tardías,
+se pensaba que consideraba estas formas en pie de igualdad. Eso
+planteaba el problema de cómo se podrían practicar ambas en el mismo
+tiempo. Pero Schleiermacher decía que centrarse en la lengua común es
+olvidar al escritor en su individualidad, mientras que comprender el
+autor singular implica olvidar su lenguaje.\\
+
+Esto es, o bien se percibe lo común, o bien se percibe lo singular. La
+primera inerpretación sería objetiva: Se dirige al lenguaje común,
+pero también negativa: fijaría los límites de la comprensión.\\
+La segunda interpretación, sería técnica —por la cual se alcanza la
+subjetividad del autor que usa la lengua como un instrumento de su
+individualidad—, pero por otro lasdo sería positiva —alcanza el acto
+de pensamiento que produce el discurso. Así que son excluyentes y
+piden aptitudes distintas. En sus últimos escritos, caracteriza la
+segunda interpretación como psicológica, pasando entonces los
+elementos críticos al método comparativo.
+
+** La aplicación del método hermenéutico al estudio de la historia
+De la teoría de la hermenéutica de Schleiermacher, dos conclusiones:
+  1. Que la perfección última de todo conocimiento, de toda
+     intepretación está en la comprensión de la totalidad en la que se
+     insertan las creaciones individuales.
+  2. Que cada texto individual no posee un valor autónomo. Más bien un
+     material mediador para el conocimiento de la totalidad.
+
+     
+*** El planteamiento de Hegel
+Hegel hace una aplicación concreta de estas dos conclusiones en su
+concepción idealista de la historia universal. Los principios básicos
+de esta transposición son tes:\\
+La *individualiad* sólo deermina en su significado propio desde el
+conjunto. No puede, pues, haber otra historia que la historia
+universal. A través del esfuerzo de los individuos, la historia camina
+hacia una meta de plena autoconciencia y absoluta comprensión.\\
+La *libertad* tiene su expresión completa y adecuada en la totalidad
+histórica. Los individuos actúan insertos en ésta mecanicamente hacia
+la meta final.\\
+La *historia* es percibida como un contexto unitario si se la piensa
+teleológicamente, aunque no se haya acabado. Esto es, desde la meta
+final a la que se dirige. Hegel mantiene así la visión cristiana de la
+historia como historia de la salvación, que se había secularizado en
+las concepciones ilustradas para las que el final condiciona el
+sentido de la historia.\\
+
+Así, Hegel llena de contenido metafísico el principio hermenéutico de
+que la comprensión de lo individual debe producirse por referencia a
+la totalidad. Aboca una metafísica de la historia universal curo
+sentido unitario depende de una hipotética meta final dogmáticamente
+establecida.
+
+*** La reacción de la Escuela historicista
+La escuela histórica da respuesta a la concepción hegeliana con una
+fundación hermenéutica de la historiografía. Sus principios son
+tres:\\
+La *investigación histórica concreta* es lo que puede conducir a una
+comprensión histórica universal. La determinación de la historia
+universal como contexto unitario de sentido no puede hacerse más que a
+partir del etudio de sus momentos individuales.\\
+No hay ningún *final* ni ningún *fuera de la historia* que le otorgue
+dogmáticamente su sentido. No se puede desarrollar el pensamiento
+histórico mientras pervivan los prejuicios clasiscistas, mientras se
+piense la historia a la luz de un pasado o de un porvenir con el valor
+de patrón modélico más allá de la historia.\\
+La *Idea* o la libertad no encuentran su expresión absoluta en la
+totalidad de la historia, sino que cada época tiene su propia
+existencia y su propia perfección. La Idea sólo alcanza
+representaciones parciales en cada momento histórico. A través del
+cambio incesante de los destinos humanos, la plenitud y la
+multiplicidad de lo humano se conuce a sí misma hacia una realidad
+cada vez mayor.\\
+
+Es decir, entre Hegel y la escuela histórica hay una diferencia
+esencial en la aplicación historiográfica de la teoría
+hermenéutica. Los autores de esta escuela no llenan el principio
+hermnéutico con ningún contenido. Piensan en la totalidad de la
+historia universal simplemente como la idea formal de la máxima
+variedad y multiplicidad de lo humano. El sentido de la historia no
+viene de fuera, está en sí misma.
+
+*** La concepción de la historia de Rake
+Para Hegel, el conocimiento de la historia universal equivale a la
+plena autoconciencia del presente histórico del presente histórico
+como momento del camino del espíritu hacia sí mismo. Este camino del
+espíritu le confiere sentido a la historia universal. Conocer este
+camino desde dentro es concer la totaliad de la historia.\\
+
+Para Ranke esto es una pura especulación escatológica. La estructura
+formal de la historia de Ranke tiene esots seis principios:\\
+Cada momento de la historia tiene su valor y su perfección
+propia. Esots momentos forman un nexo histórico. Lo que sigue
+representa el efectto de lo que le ha precedido. Lo único que se
+mantiene a través del cambio de los destinos humanos es la
+productividad de la vida.\\
+Llama a los momentos del nexo histórico ecenas de la libertad. Los
+concibe como decisiones que dan forma a la historia.\\
+Estas decisiones que van haciendo la historia no son, ni libertad
+absoluta, ni puro movimiento mecánico predirigido. Son libertad frente
+a la resistencia de la necesidad.\\
+La necesidad es el poder de lo acaecido ya, y de los otros que actúan
+en contra de la propia decisión. La necesidad es algo que precede al
+comienzo de cualquier actividad, restingiendo la posibilidad y
+excluyendo muchos objetivos como imposibles.\\
+La necesitat no es una fuerza distinta de la decisión libre, sino que
+procede de ella. Lo que ha devenido ya no se puede suprimir sin más,
+sino que delimita el ámvito de toda nueva actividad emergente, y es
+consecuencia de una actividad anerior.\\
+Esta dialéctica de libertad y necesidad es lo que consituye el nexo
+histórico. Al mantenerse acaecido ya como fundamento, condiciona la
+nueva actividad y la vincula en la continuidad de un nexo. Lo que ha
+sido ya consitutye un nexo de lo que será.\\
+
+Lo que impulsa el deveneir histórico y le da una unidad no es la
+sibjetividad de los individuos, sino decisiones históricas
+recognocibles en sus efectos. La individualidad de los sujetos está
+conformada por esas fuerzas históricas.\\
+Lo que da sentido al acontecer no son las ideas o proyectos de los que
+actúan, sino los juegos ed fuerzas resultantes ed las decisiones, que
+porducen continuidad.\\
+
+Presupuestos aprióricos:\\
+La historia es un curso acumulativo imposible de reconstruir
+apriorísticamente. Luego, el supuesto de que la historia es un todo,
+aunque no esté completo. Acumular implica un baremo en base al que se
+reúnen acontecimientos heterogéneos. Un baremo a priori que guía su
+reunión desde el principio. Por tanto la idea de la unidad de la
+historia no es independiente de una comprensión de contenido.\\
+Ranke rechaza el postulado pariórico de un telos que se pudiera
+descubrir fuera de la historia, o de un plan subyacente al devenir
+histórico. Ninguna necesidad a priori domina la historia. Pero la
+estuctura del nexo histórico es pensada teleológicamente. Se mantiene
+como objetivo orientador de la continuidad histórica y artífice de su
+unidad. El éxito es lo que permito acumular. Que algo triunfe o
+fracase decide sobre el sentido de esta acción. Además, el éxito o
+fracaso hace que nexos completos de hechos y acontecimientos queden
+llenos de sentido o carentes de él. Los elementos del nexo histórico
+se determinan pues, desde una teleología encubierta que los reúne y
+excluye lo que no tiene significado.\\
+El conocimiento histórico no es un mero conocimiento empírico de datos
+históricos. Es una condición de la conciencia histórica misma. La
+condición de existencia misma de una historia es la continuidad de la
+cultura (memoria). La ciencia histórica misma no es otra cosa que el
+intento de comprenderse a sí misma como unidad histórica
+universal. Sus ser está determinado por el saberse. El hundimiento de
+nuestra tradición cultural occidental, que acabaría con su
+continuidad, no significaría una catástrofe dentro de la historia
+universal, sino el fin mismo de esta historia (por pérdida de
+memoria).\\
+La continuidad es la esencia misma de la historia. Al rechazar un
+telos escatológico, fuera de la historia, como soporte del proceso y
+del sentido histórico, se ve obligado a referir el sentido limitado de
+los momentos históricos a un espíritu divino al que las cosas le
+serían conocidas en su pleno cumplimiento. Los fenómenos de la vida
+histórica se entenderán en la comprensión como manifestaciones ed la
+vida total, de la divinidad.\\
+Y la última, el conocimiento es más que un conocimiento humano. A
+través de él se participa en la vida misma de la divinidad. Se realiza
+por participación inmediata: /Lo que interesa al histriador no es
+referir a la realidad a concepto, sino llegar al punto en que la vida
+piensa y el pensamiento vive/.
+
+* El intento de dilthey de una fundamentación hermenéutica de las ciencias del espíritu
+
