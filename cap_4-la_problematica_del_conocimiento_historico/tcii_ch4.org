@@ -13,5 +13,177 @@
 * Constitución del método hermenéutico como método del conocimiento histórico
 ** Hermenéutica teológica y hermenéutica filológica
 
-A partir del renacimiento es necesario un método hermenéutico en dos
-ámbitos culturales distintos: el filólogo y el teológico.
+A partir del renecimiento se hace necesario un *método hermenéutico*
+en dos ámbitos culturales, el filológico y el teológico.\\
+
+En el *ámbito filológico*, como instrumento para redescubrir la
+filología clásica antigua. El sentido genuino de ésta se había vuelto
+ambígua e inasequible al amodarse al mundo cristiano.
+
+En el *ámbito teológico*, es necesaria para la autodefensa de la
+comprensión reforista de la Biblia contra el ataque de los teólogos
+tridentinos, sosteniendo que la comprensión de la Biblia debería
+determinarse por la tradición dogmática de la Iglesia. Los
+reformadores creían que su sentido genuino queda oculto por ella.\\
+
+La hermenéutica intenta poner al descubierto el sentido original de
+los textos mediante una serie de principio y reglas. La reflexión
+sobre el procedimiento de la hermenéutica, deja de ser preceptiva y
+plantea el problema de fondo de la comprensión. Este proceso se puede
+caracterizar con cinco pasos:\\
+
+La *idea luterana* de una comprensión de la Sagrada Escriutra, relación
+circular entre totalidad e individualidad. Según Lutero, no hace falta
+la tradición, ni tampoco una técnica especial para alcanzar la
+adecuada comprensión de la Biblia. Es el conjunto el que debe guiar la
+comprensión de cada pasaje individual. El conjunto sólo puede
+aprehenderse cuando se ha llevado a cabo la comprensión literal de lo
+individual. La comprensión de un texto debe realizarse a partir del
+contexto, con sentido unitario del conjunto al que pertenece.\\
+
+*Postulado de Ernesti*: Desvinculación de la hermenéutica y todo
+dogmatismo y convertirse en un método puramente ceintífico. Para los
+teólogos de la Reforma, la Sagrada Escritura es la palabra divinia
+revelada. Esto introduce en su comprensión un dogmatismo
+determinante. Para Ernesti, la cmprensión adecuada de la Biblia exige
+el reconocimiento de una diversidad de autores y su carácter de libro
+histórico.No debe haber diferencia entre la interpretación de lobros
+sagrados y profanos y no debe haber más que una hermenéutica.\\
+
+Los *filólogos humanistas* cultivan la idea de reconocer en los textos
+clásicos verdaderos y genuinos modelos. El humanista quire comprender
+a sus modelos para imitarlos y asemejarse a ellos. Esta relación
+dogmático tuvo que relajarse para dejar sitio a una hermenéutica más
+independiente.\\
+
+La historia universal se convierte en el contexto en el que se muestra
+el  verdadero  y  relativo  significado de  los  objetos  individuales
+contextualemente. Comprender es preguntarse de como el autor ha llegdo
+a decir lo que dice. Sólo a partir del todo ed la historia se entiende
+plenamente cada  detalle. Ese todo  sólo puede entenderse  edsde estos
+detalles.\\
+
+
+Se entrelazan la evolución del método hermenéutico y el del
+científico-natural. El método hermenéutico se apropia la objetividad y
+la independencia de la actitud científico-natural respecto de la
+tradición, a la Biblia y a los clásicos.\\
+El método científico-natural se plantea con una tarea de labor de
+interpretación, de desciframiento del libro de la naturaleza por la
+influencia del principio hermenéutico de comprender por el contexto.
+
+** El proyecto de Scheleiermacher de una hermenéutcia universal
+*** El arte de evitar malentendidos
+Scheleiermacher fue el primero en intentar fundamentar explícitamente
+la teoría del método hermenéutico y un planteamiento reflexivo del
+problema de la comprensión y sus condiciones. De tradición filológica
+tomó conciencia a partir de traducir las obras de Platón y de estudios
+del Nuevo Testamento, de la necesidad de corregir las diferencias de
+los métodos interpretativos, con una hermenéutica universal, capaz de
+preceptuar los principios generales y la metodología adecuada de la
+justa comprensión.
+#+begin_quote
+La hermenéutico como arte de comprender no existe como una materia
+general. Sólo tenemos una pluralidad de hermenéuticas especializadas.
+#+end_quote
+
+Se propone elaborar una hermenéutica centrada en el acto de
+comprender, caracterizándola como un arte o técnica ed la
+comprensión. Todo objeto de interpretación pertenece a la
+hermenéutica. Comprender e un fenómeno autónomo particular en el que
+intervienen elementos subjetivos y objetivos dentro de un proceso
+regido por leyes propias y distinto de la explicación.\\
+Tres aspectos relevantes de la hermenéutica:
+
+El esfuerzo para comprender se produce cuando no existe una
+comprensión inmediata, cada vez que puede darse un malentendido. Según
+Spinoza, el recurso hermenéutico al contexto histórico sólo sería
+preciso cuando el contenido de un texto resulta inconcebible —e.g. no
+tendría sentido interpretar la geometria de Euclides segun constumbres
+del momento histórico.\\
+El punto de partida de la hermenéutica universal de Scheliermacher es
+la idea de que la posibilidad del malentendido es universal. Por eso
+también la define como el arte de evitar el malentendido.\\
+
+Esto es así porque lo que se trata de comprender no es
+fundamentalemnte la libertad de las palabras y su sentido objetivo,
+sino la individualiad de una producción original, el pensamiento en el
+individuo. Bajo esta sensibilidad de lo individual y concreto está la
+actitud romántica que proclama una esencia común de la humanidad y una
+mutua comprensión a través de ideas racionales.\\
+
+En consecuencia, la hermenéutica es un comportamiento adivinatorio, un
+entrar dentro de la constitución espiritual del autor. No bastan regla
+objetivas de interpretación gramatical, sintácticas o lógicas. Sólo se
+comprende adecuadamente retrocediendo hasta la génesis misma de las
+ideas.
+
+*** La comprensión como acto adivinatorio de congenialialidad
+
+Esta definición de la hermenéutica como acto adivinatorio implica una
+concepción particular edl objeto y del acot de comprender. El conjunto
+de ideas que intentamos comprender como discurso o coo texto no
+representan un contenido objetivo, sino una representación, una
+consturccion estética. De aquí que la poseía pueda servir de
+paradigma. Lo que se trata de comprender no es un pensamiento objetivo
+común, sino un pensamiento individual, exteriorización de una esencia
+individual. Por eso no se pueden proponerse reglas para este acto de
+comprensión. La producción original es el acto creador del ingenio
+productor del sentido, de los usos lingüísticos, los estilos
+literarios, etc.\\
+
+En Schleiermacher el modo de crear propio del artista genial
+constituye el modelo de toda producción espiritual y de toda
+comprensión recreadora e esa producción. No concible la interpretación
+como la simple aplicación de determinadas reglas a textos para su
+adecuada comprensión. Se trata de hacer una auténtica reconstrucción,
+reproducción o experimentación por uno mismo del proceso mental
+creativo que, en el autor, ha tenido como consecuencia la producción
+del texto.\\
+Cada acto de comprensión ha de suponer una inversión del acto creador
+o una reconstrucción de la construcción por la que el que comprende
+penetra, a través de las estructuras expresivas lingüísticas
+(reconstrucción gramatical), en la vida del autor (reconstrucción
+técnico-psicológica).
+
+*** La fundamentación del método mediante una metafísica de la vida
+En schleiermacher, lo que fundamenta una congeniadora es una
+*metafísica de la vida* como vinculación previa a todas las
+individualidades. Su presupueto metafísco es que cada individuo es una
+manifestación del vivir total /cada cual lleva en sí algo de los
+demás, lo que hace posible la adivinación por compparación con uno
+mismo/. Cada individualidad es una manifestación concreta de la vida
+universal, de modo que el intérprete participa de las mismas fuerzas
+vivas que animan al autor. Es como si cada individuo llevara en sí
+mismo algo de cada uno de los demás. Esto permite por vía de
+comparación y de transposición el desarrollo de la comprensión
+adivinatoria.\\
+
+Desde esta metafísica de la vida, la individualidad del intérprete y
+la del autor ya no se contrastan como dos hechos incomparables y
+extraños, sino que ambos se han formado sobre la base de la naturaleza
+humana común que hace posible la comunidad misma de los hombres en el
+discurso y la comprensión.\\
+En esta base común es la que nos permite comprender, desde nuestra
+propia autoconciencia, no sólo las palabras y gestos del otro, sino
+también su manera de ser.
+
+*** El círculo hermenéutico
+La comprensión se hace sobre la base de la totalidad de la vida, pues
+cada creación no es sino un momento vital en el nexo total de la
+vida. Esta totalidad no está dada de antemano a modo de canon
+dogmático. Comprender es siempre *moverse en círculo*: un contante
+retorno de las partes al todo y viceversa.\\
+
+La reconstrucción y el carácter provisional de la tarea hermenéutica
+se mueven en círculo entre un todo y sus partes. Sobre este movimiento
+circular se apoya la pretensión metodológica del comprender y las
+pautas o criterios que han de regularlo. Schleiermacher concreta
+reglas de su hermenéutica metódica y distingue *dos métodos*, el
+comparativo y el adiviniatorio, así como *dos formas de
+interpretación*, la gramatical y la técnica.\\
+
+Estos métodos y formas de interpretacioón se condicionan mutuamente,
+de tal manera que ningún método existe sin el otro y ninguna de las
+formas de interpretación tiene una preeminencia absoluta sobre las
+otras.\\
