@@ -402,7 +402,46 @@ piensa y el pensamiento vive/.
 
 
 * El intento de Dilthey de una fundamentación hermenéutica de las ciencias del espíritu
+** Introducción
+Wilhelm Dilthey es el fundador del historicismo. Su obre influye en
+autores posteriores —Heidegger, Weber, etc.\\
 
+El contexto en el que se desarrolla la obra de Dilthey es el de la
+decadencia de los grandes sistemas metafísicos del pasado y el
+consiguiente auge del espíritu positivista. Dilthey intenta
+fundamentar las ciencias del espíritu o ciencias históricas —en
+situación precaria respecto de las ciencias de la naturalza— mediante
+un trabajo de complementación de la crítica kantiana de acuerdo con la
+analogía /razón pura/-/razón histórica/. Dilthey, al mismo tiempo que
+sostener una tarea de fundamentación gnoseológica de las ciencias del
+espíritu, advierte de la dificultad de sistematizar las expresiones
+históricas en la unidad de una historia que pueda ser entendida como
+ciencia unversalmente válida sin recurrir a teorías filosóficas de
+base, apoyándose sólo en actitudes apropiadas frente al material
+histórico mismo.\\
+Su solución pasa por distinguir entre las operaciones cognoscitivas
+básicas de *explicación y comprensión*.\\
+La explicación opera en las ciencias naturales. La comprensión en las
+ciencias del espíritu, o ciencias hermenéuticas.\\
+
+
+Su concepción de la comprensión deriva hacia un intento de
+fundamentación psicológica que será fuertemente contestado por
+Husserl.\\
+Para D., el yo en el que se fundamente el conocimiento histórico, se
+constituye como experiencia o conexión dinámica de ámbitos
+psíquicos. Así, queda abierto el problema de coniciliar la dimensión
+subjetiva del mundo histórico con la exigencia de objetividad
+científica que conlleva el empleo de un método de investigación
+científica.\\
+Para resolverlo, identifica mundo humano e historia. Esto es, el plano
+subjetivo del conocimiento histórico con las formas objetivas del
+espíritu. Así, la validez de los criterios de interpretación no puede
+basarse en principios absolutos, externos a la finitud e historicidad
+del hombre. La pretensión de la fundación epistemológica que trate de
+constituir las ciencias del espíritu como explicación sistemática y
+universal es ilusoria.
+ 
 ** El problema epistemológico de las ciencias históricas como crítica de la razón histórica
 
 *** Una aplicación de la crítica kantiana
@@ -669,4 +708,209 @@ significado cognitivo sino expresivo.\\
  espíritu absoluto, sino otra expresión de la vida.Las diversa
  concepciones filosóficas del mundo no son sino expresión del
  polifacetismo, interna riqueza y variedad de la vida que se
- desarrolla en ellas.
+ desarrolla en ellas.\\
+
+ Dilthey cree haber superado la metafísica. En realidad lo único que
+ hace es colocar la conciencia histórica en un lugar del hegeliano
+ saber absoluto, cuando la conciencia histórica no puede ocupar este
+ lugar. Si la vida es la realidad creadora e inagotable, entonces la
+ constante transformación del nexo de significados que es la historia
+ implica la exclusión de un saber que puede alcanzar objetividad. La
+ conciencia histórica no es más que un ideal utópico que contiene un
+ esí mismo una contradicción.
+
+
+* La objeiviad del conocimiento hiistórico: condiciones y límites
+
+** La infinitud potencial de la razón histórica
+
+Dilthey intenta legitimar el conocimiento de lo históricamente
+condicionado como conocimiento científico y objetivo, a pesar del
+propio condicionamiento. Recurre al concepto de estructura o
+significado que constituye su unidad y sentido desde su propio centro,
+tomado de la hermenéutica —el viejo postulado de la hermenéutica es el
+de comprender un texto desde su propio centro. Dilthey, según este
+sentido, cree posible pensar en un concimiento de nexos históricos
+cada vez más amplios, hasta un conocimiento histórico universal. Pero
+este esquema presupone que es posible superar la vinculación a un
+punto de partida por parte del intérprete, que es la pretensión de la
+conciencia histórica.\\
+
+El problema es cómo es posible tal comprensión inagotable para la
+naturaleza histórica limitada. Dilthey se diferencia de Hegel en que
+afirma la necesidad de mantener la conciencia de la propia
+finitud. Aceptó el concepto hegeliano de espíritu infinito, pero bajo
+la forma del ideal de una razón ilustrada que maduraría históricamente
+hacia la genialidad de la comprensión total.\\
+
+La infinitud potencial del espíritu no es en la especulación, sino en
+la razón histórica donde se actualiza. La conciencia de la finitud no
+significa un limitación de la conciencia, sino la posibilidad de la
+vida para elevarse sobre toda limitación. Piensa en una comprensión
+histórica extendida sobre todo lo que está dado históricamente,
+universal, en cuanto está fundada en la totalidad e interna infinitud
+del espíritu.\\
+Significa suponer una semejanza natural entre todos los hombres y
+ampliar las propias vivencias, como punto de partida, transponiendo su
+estrechez con la infinitud del mundo histórico revivido. Las
+limitaciones impuestas a la universalidad de la comprensión por la
+finitud histórica de nuestro ser son sólo de naturaleza subjetiva.
+
+** El método comparativo
+La verdadera comprensión es posible por la simpatía. En virtud de
+ella, se superan los límites que impone la comprensión de la
+causalidad subjetiva de las preferencias y afinidades. Por simpatía
+entiende una vinculación congenial e intuitiva que hace
+espontáneamente posible para el historiador una comprensión muy
+laboriosa y difícil de alcanzar de otro modo. Siguiendo a
+Schleiermacher y Ranke, mediante el método comparativo se superarían
+las barreras contingentes que representa el círculo de las propias
+experiencias y se ascendería así a verdades de mayor generalidad. Pero
+la comparación hace las cosas explícitamente simultáneas, que no es
+compatible con la idea de un conocimiento histórico. El método
+comparativo no puede ser legitimado como método del conocimiento
+histórico.
+
+* El conocimiento histórico como autoconodido
+Dilthey no considera la vinculación del hombre finito e histórico a su
+punto de partida como una restricción de las posibilidades del
+conocimiento histórico-científico. La conciencia histórica tendría que
+realizar en sí misma la superación de la propia relatividad hasta
+alcanzar la objetividad de un concimiento universal.\\
+El problema es cómo justificar la esta pretención sin implicar un
+concepto de saber absoluto, filosófico, por encima de toda conciencia
+histórica.\\
+
+La escuela histórica se perfila como crítica a esta prentesión de la
+conciencia folosófica de contener en sí la verdad entera de la
+historia del espíritu. Su reivindicación de la conciencia histórica,
+frente al apriorismo de la conceptción hegeliana, se basa en al
+evidencia de que la conciencia hhumana no es un entendimiento infinito
+para el que todo puede ser simuláneo y presente por igual. La
+indentidad absoluta ed conciencia histórica y finita. No le es dado
+desembarazarse del nexo de efectos que es la historia.\\
+
+Dilthey dá respuesta a las cuestiones sobre la diferncia entre la
+conciencia histórica de Dilthye y el saber absoluto de heger, así como
+la elevación de la conciencia histórica sobre sí misma y hacerse capaz
+de un concimiento hostórico objetivo.\\
+La conciencia no es tanto un debilitarse de sí mismo
+para fusionarse con el todo ed la vida que nos subyace (Ranke), cunto
+una progresiva posesión de la propia posibilidad de comportarse
+históricamente. El conocimiento histórico no consiste en una pura
+aplicación a la tradición de los patrones de la propa comprensión de
+la vida. Sería la relación reflexiva de comprensión de lo particular
+desde lo general, y viceversa. Esto es, una forma de autoconocimiento.
+
+** La estructura hemrenéutica de la vida
+
+El intento de Dilthey de fundmentar científicamente el conocimiento
+hitórico se resolvería en la tarea de hace comprensible, desde la vida
+misama, cómo surge la conciencia científica sobre la base del
+autoconocimiento. Es decir, Dilthey parte de la vida, que ya contiene
+el saber y estár referida a la reflexión.\\
+El distanciamiento respecto al nexo de nuestro propio hacer es lo que
+hace posible la reflexión.\\
+Primero se forma una concepción natural de la vida sobre sí misma,
+antes de toda objetivación científica.\\
+Ésta se objetiviza en la sabiduría de refranes y leyendas, pero sobre
+todo en las grandes obras de arte, en las que algo espiritual se
+desprende de su creador.\\
+El arte es pues, un órgano especial de la cmprensión de la vida. En
+él, la vida se abre con una profundidad inaccesible a la observación,
+a la meditación y a la teoría.\\
+
+Cualquier expresión de la vida opera ya un cierto saber y es
+reconocible en ella una cierta verdad.\\
+Todas las formas de expresión son en su conjunto conformacione de
+espíritu objetivo.\\
+En el leguaje, las constumbres, las normas jurídicas, el individuo
+está siempre elevado por encima de su particularidad. La entrega de
+objetivos comunes, la dedicación a una actividad para la comunidad
+libera al hombre de la particularidad y de lo efímero.
+
+* La ciencia como hecho de la vida
+
+Tanto la formas prerreflexivas de expresión como en la reflexión, el
+saver de la vida aspira a la estabilidad. Dilthye concibe la
+objetividad del conocimiento histórica, y del conocimiento científico
+en general, como meta suprema de la tendentica natural de la
+vida. Mediante el método experimental se produce la elevación, por
+encima de la contingencia subjetiva de la observación, hasta el
+conocimiento de la regularidad de la naturaleza. Las ciencias del
+espíritu intentan también elevarse metódicamente por encima de la
+contingencia sibjetiva del propio punto de partida y de la tradición
+propia, hasta alcanzar la objetividad del conocimiento básico.\\
+
+El nexo de vida y saber es un dato originario. La filosofía no puede
+consistir en un intento de fundamentación teórica desde la unidad de
+un principio especulativo. La filosofía es una objetivación más de la
+vida que contínua el camino de la auto-reflexión histórica. Por eso no
+le afecta la objeción de relativismo. Esta objeción sólo puede
+proceder de un intelectualismo al que, la fundamentación de la
+filosofía en la vida, quita toda base.\\
+Las constumbres, religión etc, son expresión de un saber de la vida
+sobre sí misma. El ascenso del individuo al espíritu objetivo se
+realiza a través de su entrega a la tradición.\\
+
+El impulso científico surge de la necesidad interna a la vida de
+estabilizar, en un medio incesante de la percepciones sensoriales, de
+los deseos y sentidos, algo fijo y estable que haga posible un modo de
+vida continuado y unitario. Este rendimiento del pensar es inmanente a
+la vida y se realiza en las objectivaciones del espíritu que sustentan
+al individuo en la medida en que éste se entrega a la objetividad de
+la cultura.
+
+* La influencia en Dilthey del ideal científico del positivismo
+Las refelxiones espirituales sobre la fundamentación de las ciencias
+del espíritu no son del todo congruentes con su enraizamiento en la
+filosofía de la vida. Estas reflexiones se orientan más bien desde un
+ideal científico propio de la Ilustración y de reminiscencias
+cartesianas que no entiende el saber y la reflexio´n desde la
+imanencia general del saber en la vida, sino como un movimiento
+orientado frente y contra la vida.\\
+Dilthey entiende la certeza propia de las ciencis del espíritu como la
+perfección de la certeza vital de la vivencia. Hay que poner en duda
+prejuicios, dogmatismos, etc. hasta llegar a resultados seuros.\\
+La necesidad de un conociiento estable sigue teniendo el carácter de
+necesidad de protección frente a las tremendas realidades de la
+vida.\\
+El espíritu humano que busca protección y seguridad, debe oponer a la
+insondabilidad misteriosa de la vida, a su rostro temible, la
+capacidad ceintíficamente formada de la comprensión. Ésta debe abrir
+la vida en su ralidad socio-histórica tan por copmleto que el saber
+proporcione protección y seguridad en este uso persona, a pesar del
+misterio de la vida.\\
+La objetividad del conocimiento histórico no puede ser la de las
+ciencias inductivas, sino que se adquiere de una forma distinta. La
+fundamentación de las ciencias del espíritu en la filosfía de la vida
+quiere hacer valer esto. Pero el positivismo epistemológico, al que
+D. no logra escapar, avaba por anular la peculiaridad condicionante
+del conocimiento histórico.\\
+
+Dilthey, en un sentido schleiermacheriano, intenta poner en
+consonancia la forma de conocimiento de las ciencias del espíritu con
+los modelos metodológicos de la ciencias de la naturaleza. Pretende
+ponerlas a la altura de la objetividad válida en las ciencias de la
+naturaleza.\\
+Para ello, la hermenéutica romántica le sirve porque no tiene en
+cuenta la esencia histórica de la experiencia. Presuponía que el
+objeto de la comprensión es el texto que hay que descifrar y
+comprender en su propio sentido. El encuentro con el texto es un
+autoencuentro del espíritu. Pensando el mundo histórico como un texto
+que hay que descifrar, cree haber justificado epistemológicamente las
+ciencias del espíritu.\\
+Sin embargo, en la medida que la hermenéutica romántica le servía de
+modelo, se vio obligado a reducir la historia a historia del espíritu,
+y a medio afirmar y medio negar la filosofía hegeliana.\\
+
+La significación de la epxeriencia vital, individual y general para el
+conocimiento de las ciencias del espíritu es importante, pero incapaz
+de verificación. Necesita de ser perfeccionada por la inducción
+metadológica de la ciencia. La escisión interna que acarcteriza el
+esfuerzo de D. se debe a la coacción que ejerce en él el ideal
+metódico de la ciencia moderna. Sin embargo, la tarea no puede ser
+otra que la de describir más adecuadamente la experiencia operante en
+las ciencias del espíritu y la objetividad que en ellas puede
+alacanzarse.
+
