@@ -10,7 +10,7 @@
 #+SUBTITLE: V Conocimiento, comprensión e interpretación
 #+AUTHOR: Jordi Serra
 
-* Introducción
+* Introducción.
 
 ** La hermenéutica como método y como estructura el ser
 Originalmente la palabra hermenéutica designaba la metodología propia
@@ -52,6 +52,28 @@ biología. Cuando se da la comprensión, se produce una convergencia
 entre el horizonte del intérprete o lector y el horizonte que expresa
 la obra.
 
+*** La circularidad de la comprensión según Schleiermacher
+cuando Chleiermacher supera la particularidad de la reconciliación de
+antigüedad clásica y crsitianismo y concibe la tarea de la
+hermenéutica esde una generalidad formal, logra establecer la
+concordancia con el ideal de objetividad propio de las ciencias
+naturales, pero sólo al precio de renunciar a hacer valer la
+concreción de la conciencia histórica dentro de la teoría
+hermenéutica. Frente a esto la descripción y fundamentación
+existencial del círculo hermenéutico por Heidegger representa un giro
+decisivo. En el s. XIX ya se hablaba de la estructura circular de la
+comprensión, pero siempre en el marco de una relación formal entre lo
+individual y el todo. El movimiento circular de la comprensión va y
+viene por los texots y acaba superándose en la comprensión completa de
+los mismos. Con Schleiermacher la teoría culmina en una teoría del
+acto adivinatorio mediante el cual el intérprete entra de lleno en el
+autor y resuelve desde allí todo lo extraño del texto. Heidegger
+describe este círculo en forma tal que la cmprensión del text se
+encuentre determinada continuadamente por el movimiento anticipatorio
+de la precomprensión. El círculo del todo y las partes no se anulan en
+la comprensión total, sino que alcanza en ells su realización mása
+auténtica.
+
 ** Una filosofía de la lectura
 Esta idea de fusión de horizontes ha hecho surgir toda una filosofía
 de la lectura, desarrollada por un conjunto de autores al que se
@@ -83,9 +105,281 @@ sentido de que el mundo que proporne o que proyecta se define como el
 correlato intencional de una secuecia de frases, del cual queda hacer
 un todo para que un tal mundo sea intencionado.\\
 
+Segun la escuela, a diferencia del objeto que ser percibe en la
+observación, el objeto textual no llena intuitivamente esas
+expectativas del sujeto, sino que tan sólo induce a
+trasnformarlas. Este proceso de expectativas es el que se produce como
+reefectuación de las referencias de la obra. Comprender una obre exige
+un viajar a lo largo de ells, abriéndose a la nuevas expectativas que
+tienden a modificar las propias.\\
+
+A la vez que hace de la obra literaria una obra, la obra que sólo se
+construye en la interacción de su escritura con la acción de
+comprenderla. El todo de una obra escrita no puede percibirse de u na
+vez. A lo largo del proceso de su lectura se produce un juego de
+intercambios entre las expectativas modificadas y los recursos
+transformados. No basta con una lectura frase a frase del conjunto
+para poder imaginarse un sentido. La obra exige que se le dé una
+forma. Y esta es la función propia de la lectura.
+
+** La hermenéutica y las humanidades
+Que aporta o puede aportar a la cultura de nuestra sociedad
+tecnificada la hermenéutica como un de los movimientos que han hecho
+de la defensa de las humanidades su principal impulso y razón de
+ser.\\
+Las humanidades se han constituido como ciencias de la cultura o de la
+herencia de las tracucuines reinterpretadas. Uno de los problemas
+principales de este tipo de ciencias es el de la recepción de la
+tradición, el de cómo comprender las grandes obras filosóficas,
+literarias o artísticas del pasado de tal manera que sea posible
+reefectuar su mundo en el presente, imitarlo como modo de apropiarse
+su fuerza renovadora. Esta es la cuestió´n fundamental que llevado la
+hermenéutica a constituirse básicamente como un saber de la
+interpretación.\\
 
 
+Gadamer es un ejemplo de este tipo de preocupación. Ha polariozadoen
+buena medida la discusión contemporánea sobre la hermenéutica de las
+tradiciones. Esta discusión ha ido delimitando sus posiciones a través
+de algunas de las polémicas teóricas actuales. E.g., la disputa del
+positivismo en la sociología alemana, la controversia entre
+hermenéutica y crítica de las ideologías también en Alemania, la
+polémica sobre el estructuralismo en Francia, etc. Lo más destacables
+de estas discusiones sea el intento de superar la antinomia entre
+ciencias positivas y humanidades, al poderse de manifiesto tanto los
+límites epistemológicos de las ciencias formales y empíricas como las
+posibilidades del modelo lingüístico para conferir a las ciencias
+humanas el estatuto de verdadera ciencia.
 
+** La oposición entre explicación y comprensión
+Dilthey con la prpuesta de las dos cientifidades, la de las ciencias
+de la naturaleza —que con su método matemático-experimental y sus
+éxitos en la aplicación a la técnica aparecía como el máximo ideal
+moderno de conocimiento— frente a las ciencias espirituales como un
+saber precario y de segundo orden, que no había encontrado aún el modo
+de consolidarse y reafirmarse, la distancia entre las ciencias y las
+humanidades parecía insalvable.\\
+Dilthey pretende proporcionar a las ciencias humanas el mismo carácter
+de cientificidad que ya poseían las ciencias de la naturaleza que Kant
+había sistematizado.\\
+El problema era como resolver la paradoja de cómo hacer una ciencia
+objetiva y universalmente válida, no sólo del hombre, sino del hombre
+individual, con su dinámica psíquica concreta y sin renunciar a toda
+la riqueza de sentido que encierran sus aspectos diferenciales.\\
+
+El ámbito de la naturaleza es el de los objetos que son suceptibles de
+someterse a una explicación de tipo matemático o a los cánones de la
+lógica inductiva. La ciencias de la naturaleza puede vertebrarse en
+torno a un método matemático o a un método inductivo, ya que sus
+fenómenos mantienen relaciones de causa-efecto.\\
+Pero el ámbito de lo humano es el de lo histórico, donde los
+acontecimientos no están gobernados determinísticamente y siguiendo
+leyes causales que puedan predecirse, sino que en él interviene la
+libertad.\\
+Luego, las ciencias humanas o históricas no podrán adoptar un método
+explicativo, inductivo o matemático como las ciencias de la
+naturaleza, sino que habrán de articularse en torno a la comprensión,
+a una capacidad de captar una vida ajena que se expresa a través de la
+objetivaciones que reprenta la cultura.\\
+
+
+Es decir, Dilthey dice que es posible un concimiento de lo individual
+objetivo y universalmente válido. Pero debe tomarse la comprensión
+como la operación cognoscitiva específica de este tipo de ciencias,
+mientras que la explicación sería la operación cognoscitiva propia de
+las ciencias de la naturaleza.\\
+Pero esta diferenciación entre explicación y comprensión encierra
+graves problemas y es imposible de fundamentar en la comprensión unas
+ciencias humanas con el mismo carácter que tienen las ciencias de la
+naturaleza.
+
+** La verdad de la obra como sentido objetivo de las intenciones de l autor
+Dilthey debe recurrir a una metafísica de la vida para dar contenido a
+su concepto de comprensión. La vida es la fuerza o la energía
+originaria de todo lo que existe, que se despliega creando y
+destruyendo los seres, objetivándose en este fluir de formas, de los
+acontecimientos o de las interpretaciones.\\
+Con esta metafísica de base, una obra literaria puede definirse como
+un sistema organizado que la cultura ofrecea partir de ese fenómeno
+originario que es el de la teleología de la objetivaciones de la
+vida.\\
+La comprensión de esta obra literaria sería la acción, de un lectir,
+de descifrar los contenidos psíquicos o vitales del autor a partir del
+texto en el que sus vivencias se exteriorizan.\\
+
+toda interioridad se mostraría en signos externos que pueden ser
+percibidos y comprendidos en cuanto signos de una vida ajena o de un
+psiquismo extraño y las expresiones de la vida pueden ser tratadas
+científicamente mediante el método hermenéutico, como los objetos de
+la naturaleza pueden ser tratados científicamente por el método
+matemático o el inductivo.\\
+
+Por ejemplo, el psicoanálisis. Se autocomprende como una ciencia del
+hombre individual y de su dinamismo psíquico concreto, a través de la
+comprensión y la interpretación de los signos o los lengujes en los
+que ese psiquismo se objetiva. Esta ciencia se vertebra en torno a un
+método hermenéutico que utiliza un conjunto de guías teóricas o
+modelos categoriales tipificados.
+
+** La tipificación metodológica de modelos categoriales y el paso de lo común a lo singular
+
+Dilthey proponia construir una topología mediante la identificación
+empírica de aspectos comunes en los casos individuales o de conexiones
+regulares entre ellos. Al disponer de una categorías generales, se
+puede conceptualizar y hacer una ciencia en el ámbito de la vida
+individual.  Es decir, D. consturye un modelo científico serio, basado
+en la idea de intencionalidad de Husserl y del postulado del carácter
+idéntico del objeto intencional. Pero en esta propuesta de
+clasificación se advierten las grandes limitaciones de su concepción
+de las ciencias humanas y de su método hermenéutico.\\
+
+Las tipologías no van más allá de un caracter clasificatorio y
+propedéutico. Crean un marco de referencia qe puede servir de hilo
+conductor para identificar una obra literaria situándola por
+referencia a una época o a obras literarias.\\
+La autentica comprensión comenzaría propiamente en el punto mismo en
+el que una clasificación de este tipo termina, se trata de pasar del
+tipo a lo concreto. El sentido del texto o de la obra literaria es
+siempre un sentido singular, no algo genérico o común.\\
+Este era el punto de partida de la distinción diltheyana entre
+ciencias de la naturaleza y ciencias del espíritu, para pasar de lo
+común a lo singular.\\
+
+Toda obra literaria se presta a una clasificación tipológica por el
+horizonte común con otras obras que comparte. Pero cualquier obra
+literaria no asume sólo el horizonte de temas y de problemas en el que
+surge. Las tipologías no son sólo procedimientos metadológicos
+inocentes que prepearan el encuentro del lector con la obra,
+orientándolo hacia esa región en la que podrá comprenderal. También
+puede extraviar por el ladode las abstracciones, de la que la historia
+de la literatura está llena. En lugar del núcleo de una obra, se
+conoce tan sólo su spuerfície, su etiqueta exterior.\\
+
+Dilthey está muy condicionado por el ideal científico propio de la
+Ilustración, construido sobre una relación sujetóbjeto. Así, el lector
+comprende la verdad de la obra literaria cuando accede a la
+objetividad de las intenciones del autor y de sus vivencias
+psicológicas. La verdad de la obra o tiene por qué coincidir con las
+intenciones subjetivas de su autor, sino que tiene un significado
+autónomo.\\
+
+Hoy ya no se comparte esta dicotomia diltheyana entre ciencias de la
+naturaleza y ciencias del espíritu, explicación y comprensión.\\
+Se intenta que comprensión y explicación converjan en un único arco
+hermenéutico capaz de integrarlas en un concepción global de la
+lectura como reapropiación del sentido. Una lectura de comprensión es
+la que permite ir más allá de una semántica superficial para alcanzar
+la semántica profunda del texto.
+
+* La ontología de la comprensión
+
+** El caracter hermenéutico de la existencia
+Dilthey sitúa el problema de las ciencias del espíritu en el primer
+plano de la preocupación epistemológica, señalando el método
+hermenéutico, abriendo una línea de reflexión aún abierta. De esta
+línea se derivan los planteamientos de Gadamer, que elevan la
+hermenéutica al grado de ontología —no tiene sentido como método, como
+una simple y extrínseca via a la verdad, sino sólo si es ya ella misma
+el proceso en el que se manifiesta la verdad.\\
+
+Frente a Dilthey, Heidegger introduce la novedad de que comprender no
+es una actividad humana cualquiera, sino que es la estructura
+ontológica fundamental de la existencia con un carácter radicalemente
+hermenéutico.\\
+Heidegger afirma que la sustancia de toda manifestación humana, acción
+o comportamiento es comprender.
+#+begin_quote
+El modo propio de ser del hombre es existir como intérprete o
+desvelador del ser.
+#+end_quote
+#+begin_quote
+La comprensión es el modo originario de actualizarse del ser-ahí como
+ser-en-el-mundo.
+#+end_quote
+
+En la expresión /ser-en-el-mundo/, mundo no significa el mundo como
+conjunto de las cosas, ni que el hombre exista en el mundo. Sino que
+significa el mundo de los significados fijados por el lenguaje y que
+precede siempre a toda comprensión, haciéndola posible, pero
+estableciendo al mismo tiempo sus límites.\\
+Decir que el hombre es ser-en-el-mundo es decir que todo hombre
+desarrolla su existencia envuelto en un horizonte de significaciones
+lingüísticas del que dependen sus posibilidades de comprensión y de
+realización existencial. Es señalar la competencia lingüística como
+estructura que hace posible la comprensión al mismo tiempo que la
+limita.
+
+** La complicación del sujeto y objeto en el acto de interpretar
+El giro ontológico heideggeriano es también un giro lingüístico que
+permite articular la estructura temporalizada de la historia en el
+marco de una ontología hermenéutica.\\
+Comprender (/ser y tiempo/) es la estructura ontológica fundamental
+del hombre que en toda acción se desplaza constantemente de diversas
+maneras. Comprender es la sustancia de toda manifestación humana.\\
+La existencia es concebida como hermenéutica: El modo propio de ser
+del hombre es existir como intérprete o desvelador del ser.\\
+
+La hermenéutica es una realidad ontológica desvelada por el análisis
+fenomenológico de la autocomprensión del ser. Existir es comprenderse
+o interpretarse en el mundo.  El comprender indica el movimiento
+fundamental de la existencia que la constituye en su finitud y en su
+historicidad, y que abraza todo el conjunto de la experiencia del
+mundo. No es ambigüedad o exageración sistemática de un aspecto
+particular decir que el movimiento de la comprensión es algo universal
+y constitutivo. Está en la naturaleza misma de las cosas.\\
+
+Desde la fenomenología del comprender, H. manifiesta la imposibilidad
+de seguir manteniendo como contrapuestos los conceptos de objetividad
+y subjetividad, y la necesidad de admitir la cimplicación o
+pertenencia recíproca de sujeto y objeto. Desde la contraposción es
+imposible de saltar de un ámbito a otro (contra Husserl y
+Dilthey). Ellos manifiestan el cul-de-sac a que había llegado la
+metafísica, y que Heidegger atribuye al olvido del ser como lugar
+originario de la mutua pertenencia de sujeto y objeto.\\
+Para H. el comprender, modo originario de actualizarse el ser-ahí como
+ser-en-el-mundo, se acutaliza en un círculo hermenéutico que indica
+esencialemnte la peculiar pertenencia de sujeto y objeto en la
+interpretación y que ya no pueden ser llamados de tal modo, pues ambos
+términos han nacido y se han desarrollado dentro de una perspectiva
+que implica la separación y contraposición del ser que con ellos se
+expresa.
+
+
+** La estructura de la precompensión
+Lo primero que queda invalidado es la tesis clásica de un saber de la
+verdad como conocimiento inmediato, atemporal e inmutable del ser de
+las cosas.\\
+Con la condición ontológica de la existencia como hermenéutica,
+H. obliga a reconocer que toda comprensión ha de verse siempre
+mediatizada por una interpretación. Frente a la hipótesis filosófica o
+científica de un conocimiento de la verdad como conocimiento de la
+esencia o de las leyes que rigen el universo, H. señala que lo que se
+produce es un círculo hermenéutico entre la estructura de la
+precomprensión —característica de la condición ontológica del
+ser-en-el-mundo— y la explicación que la comprensión lleva a cabo.\\
+
+El sentido de anticipación de H. es análogo el que Gademer atribuye al
+concepto de prejuicio, reivindicando su sentido positivo como
+posibilitador de la comprensión: Al interpretar un texto se actualiza
+siempre un proyecto.\\
+Se puede comprender en la medida en que se establece una estrucura de
+anticipación, un preconcepto como proyecto de una totalidad que
+permita dar sentido a las partes del texto.\\
+Una obra o un texto sólo exhiben su sentido cuando se leen o
+contemplan con cierta expectativa, anticipació de una totalidad en la
+que cobran sentido los elementos como parte de la misma. Esta
+anticipación manifiesta evidentemente la finitud de nuestro
+comprender, pero no sólo su limitación, como indicaba D., sino también
+su posibilidad misma.\\
+
+Para la teoría tradicional del conocimiento, la verdad de u n hecho o
+de un proceso debía ser un sentido objetivo (Dilthey) de naturaleza
+que pudiera asumirse como universalmente válido y verdadero para
+todos. Lo que garantiza esta objetividad y universalidad de la verdad
+era la separación entre sujeto y objeto como polos independientes y
+autónomos en la relación de conocimiento.
+
+** La compensión como fusión de horizontes
 
 
 
@@ -107,4 +401,3 @@ cervells que imposen la línia de ERC. L'abstenció pot ser una eina
 aferri només per interessos partidaris i sense perdre l'esperança de
 construir el relat de la situació política del país. A més que es
 mostren molt curtits en política, a voltes insensibles.
-
