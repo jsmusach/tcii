@@ -1,0 +1,110 @@
+#+LATEX_CLASS: article
+
+# -*- mode: org; -*-
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt, twocolumn, spanish]
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage[margin=.75in]{geometry}
+#+LATEX_HEADER: \setlength\parindent{0pt}
+
+#+Title: Apuntes de Teoría del Conocimiento ii
+#+SUBTITLE: V Conocimiento, comprensión e interpretación
+#+AUTHOR: Jordi Serra
+
+* Introducción
+
+** La hermenéutica como método y como estructura el ser
+Originalmente la palabra hermenéutica designaba la metodología propia
+de la interpretación de la Biblia, que se hacía en función de una
+explicación lingüística e histórica, si bien no se limitaba sólo a
+esto. El término se generaliza después de designar la tarea de
+interpretación científica de textos clásicos o difíciles.\\
+
+En los dos últimos siglos, Chleiermacher y, sobre todo, Dilthey,
+introducen ente término en su teoría de las ciencias del epíritu para
+designar la metodología que de debe seguir la comprensión en su tarea
+de asimilación de las formas de la cultura.\\
+En el pensamiento de Heidegger y de Gadamer, la hermenéutica deja de
+ser una simple metodología para pasar a aludir a una determinada
+concepción ontológica de la realidad.\\
+
+Para Heidegger, comprender es la estrucura ontológica fundamental del
+hombre el cual no hace más que proyectarse de diversas
+maneras. Comprender es la sustancia de toda manifestación humana. Es
+lo que trata de decir cuando afirma que el modo propio de ser del
+hombre es existir como intérprete o desvelador del ser. Desde esta
+perspectiva, la hermenéutica se convierte en una realidad ontológica
+desvelada por el análisis fenomenológico de la autocomprensión del ser.\\
+
+Pero será Gadamer quién elaborará las líneas básicass de esta
+ontología hermenéutica. En su obra /Verdad y método/ alude ya a su
+intento de superación de la distinción entre la comprensión, como
+operación propia de las ciencias humanas o ciencias del espíritu, y la
+explicación como operación cognoscitiva propia de las ciencias de la
+naturaleza.\\
+Los acontecimientos humanos e históricos se rigen por las leyes del
+mecanismo casual. Se hace difícil, si no imposible, aplicar el método
+científico, matemático-experimental a este ámbito.\\
+La comprensión es un acto de conocimiento específico que tiene lugar a
+través de la interpretación, y que tiene el carácter de una fusión de
+horizontes. Comprender un texto o una obra de arte es un modo de
+conocer distinto al modo de conocer de ciencias como la física o la
+biología. Cuando se da la comprensión, se produce una convergencia
+entre el horizonte del intérprete o lector y el horizonte que expresa
+la obra.
+
+** Una filosofía de la lectura
+Esta idea de fusión de horizontes ha hecho surgir toda una filosofía
+de la lectura, desarrollada por un conjunto de autores al que se
+conoce como *Escuela de Constanza*. En esta escuela, precisando el
+pensamiento de Gadamer, añaden que lo que la lectura de un texto o de
+una obra requiere es una labor de refectuación de las referencias
+potenicales que contiene, desde la nueva situación del lector que la
+lee.\\
+Esto significa que una obra exrita debe ser comprendidad, también, en
+su totalidad. No consiste en una simple sucesión de frases situadas en
+un mismo pie de igualdad, ni independientes. Es un todo, una
+totalidad. La relación entre todo y partes requiere una comprensión
+circular, ya que el supuesto de circularidad está implicado en el
+reconocimiento de las partes y de sus relaciones. De hecho, los
+distintos motivos o temas de una obra nunca están a la misma altura.\\
+Esto lleva a sostener que una obra literaria está siempre inacabada en
+un doble sentido.
+
+Primero, porque ofrece diferentes visiones esquemáticas que el
+intérprete está llamado a conocer. Toda obra presenta lagunas, lugares
+de indeterminación que el lector debe cubrir con una labor de
+interpretación. Por muy articuladas que puedan estar las visiones
+esquemáticas propuestas en la obra para su ejecución por el lector, la
+obra es siempre como una partitura musical, susceptible de ejecuciones
+diferentes.\\
+
+Por otro lado, una obra escrita está siempre inacabada también en el
+sentido de que el mundo que proporne o que proyecta se define como el
+correlato intencional de una secuecia de frases, del cual queda hacer
+un todo para que un tal mundo sea intencionado.\\
+
+
+
+
+
+
+
+
+Molt d'acord del què diou d'en Junqueras, Però en Mas es va veure,
+també, en la seva màxima expressió manipuladora de la voluntat de la
+gent. Només per poder tenir una eina a Madrid.
+
+L'estat espanyol, n'és un de molt tòxic. No hem de supeditar el nostre
+objectiu de llibertat al de la seva destrucció. No, nosaltres a la
+nostra, independentment del què passi col·lateralment.
+
+Jo havia menystingut a en Joan. Sempre em pensava que era un titella
+articulat per en Junqueras. Amb el tuit d'ahir entenc que és un dels
+cervells que imposen la línia de ERC. L'abstenció pot ser una eina
+útil si no és per desídia. Sembla que les inquietuds estan aflorant.
+
+És molt trist que en un país, el partit que en té la presidència, s'hi
+aferri només per interessos partidaris i sense perdre l'esperança de
+construir el relat de la situació política del país. A més que es
+mostren molt curtits en política, a voltes insensibles.
+
