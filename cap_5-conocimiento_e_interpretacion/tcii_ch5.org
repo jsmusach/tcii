@@ -10,8 +10,7 @@
 #+SUBTITLE: V Conocimiento, comprensión e interpretación
 #+AUTHOR: Jordi Serra
 
-* Introducción.
-
+* Introducción
 ** La hermenéutica como método y como estructura el ser
 Originalmente la palabra hermenéutica designaba la metodología propia
 de la interpretación de la Biblia, que se hacía en función de una
@@ -122,6 +121,8 @@ transformados. No basta con una lectura frase a frase del conjunto
 para poder imaginarse un sentido. La obra exige que se le dé una
 forma. Y esta es la función propia de la lectura.
 
+
+* La hermenéutica metódica
 ** La hermenéutica y las humanidades
 Que aporta o puede aportar a la cultura de nuestra sociedad
 tecnificada la hermenéutica como un de los movimientos que han hecho
@@ -271,8 +272,8 @@ lectura como reapropiación del sentido. Una lectura de comprensión es
 la que permite ir más allá de una semántica superficial para alcanzar
 la semántica profunda del texto.
 
-* La ontología de la comprensión
 
+* La ontología de la comprensión
 ** El caracter hermenéutico de la existencia
 Dilthey sitúa el problema de las ciencias del espíritu en el primer
 plano de la preocupación epistemológica, señalando el método
@@ -344,7 +345,6 @@ términos han nacido y se han desarrollado dentro de una perspectiva
 que implica la separación y contraposición del ser que con ellos se
 expresa.
 
-
 ** La estructura de la precompensión
 Lo primero que queda invalidado es la tesis clásica de un saber de la
 verdad como conocimiento inmediato, atemporal e inmutable del ser de
@@ -380,24 +380,375 @@ era la separación entre sujeto y objeto como polos independientes y
 autónomos en la relación de conocimiento.
 
 ** La compensión como fusión de horizontes
+Desde de la persepctiva de Heidegger que vincula el hombre con su
+mundo lingüístico, no existe nunca un sujeto autónomo y puro, separado
+de un mundo de objetos independientes de él.\\
+Toda relación cogniscitiva exige la actualización de esa estructura de
+significados lingüísticos que es la estructura de la precomprensión,
+lo qu eel sujeto conoce no es algo totalmente exterior a él, sino algo
+cuyo significado está en la lengua en la que él mismo es o está, y de
+la que participa.\\
+
+El conocimiento no es más que interpretacioón o reinterpretación de
+significados lingüísticos. Comprender un texto no es un acto del
+sujeto en virtud del cuál éste descubre la objetividad de las
+intenciones y vivencias del autor. Sino que equivale a apropiarse de
+la perspectiva de mundo que contiene y qe se da en ella de manera
+lingüística. Esto es, será la fusón del horizonte o mundo lingüístico
+del lector con el horizonte o mundo lingüístico de la obra.\\
+Cambia el concepto de verdad: El grado de validez de una lectura como
+apropiación no se mide en función de la mayor o menor adecuación entre
+lo que el lector comprende y lo que el autor objetivamente quiso
+decir, sino en función de hasta qué punto esa lectura constituye para
+el lector una experiencia verdadera o experiencia de verdad.
+
+** La verdad como experiencia verdadera
+Gadamer elabora el concepto de experiencia verdadera polemizando con
+el significado que la experiencia había adquirido en la teoría
+empirsta anglosejona del conocimiento. Las ciencias empíricas intentan
+depurar la experiencia hasta dejarla libre de todo rastro de
+historicidad, Gadamer parte de las connotaciones etimológicas de
+existencia, el verbo viajar y riesgo. Concibe la experiencia como un
+tipo de encuentro con otra realidad, con algo capaz de producir en el
+sujeto una verdadera transformación.\\
+
+Experiencia de verdad o experiencia verdadera sería un acontecer que
+transforma la conciencia del sujeto, la ensancha o la empobrece, la
+modifica o invierte etc. Es un acontencer que saca el sujeto fuera de
+los límites en los que en ese momento vive, y lo introduce en
+realidades distintas, en otros mundos, proyectándole en horizontes más
+comprensivos y haciendo, en consecuencia, que cambien posiciones
+iniciales.\\
+
+Se convierte en el núcleo central de su dialéctica más
+íntima. Apropiación de un senttido: Apropiarse de un sentido nuevo a
+través de la lectura, significa hacer que algo que era extraño se
+convierta en una propiedad mía, en algo propio de mi.\\
+La apropiación no es posible si el individuo no se abre a ese sentido
+y se deja transformar por él.\\
+
+* La justificaión de la conciencia histórica
+
+** La tradición como estructura de la historia
+Análogamente a la ontología de la comprensión se imponen en la lectura
+como recepción de la tradición, como *articulación de la experiencia*
+histórica. En las nociones preheideggerianas de conocimiento
+histórico, la objetividad estaba garantizada de éste y su
+universalidad era el distanciamiento introducido por la separación
+temporal, permitiendo una reconstruccion del pasado a partir de una
+lectura filológica-positiva de los documentos transmitidos.\\
+
+Del mismo modo que no existe un sujeto y un objeto independientes y
+autónomos de la relación de conocimiento, sino un círculo hemrnéutico
+y una fusión de horizontes, tampoco existe un *pasado* *autónomo*
+totalmente separado del presente. La historia no es una sucesión
+mecánica ed acontecimientos en la que el pasado puede tener un
+significado objetivo y determinado de una vez por todas. No hay un
+pasado como algo irreversiblemente pasado y al margen ya del presente
+y el futuro. Cualquier momento histórico está mediatizado por la
+totalidad de los otros momentos. El sentido del presente depende en
+buena medida del pasado y del futuro. No hay un presénte íntegramente
+contemporáneo, como tampoco hay un futuro desligado del presente y del
+pasado.\\
+
+Entre la historiador y el pasado que trata de conocer, no existe
+ningún vacío que separe y sea garantía de la objetividad del
+conocimiento, sino la *cadena* *de* *la* *tradición*: la mediación del
+sucederse de la interpretaciones y reinterpretaciones del pasado
+dentro de la cual se inserta también la interpretación de este sujeto
+historiador. Al proyectar la condición de pertenencia del individuo a
+su mundo lingüístico sobre la perspectiva de la temporalidad
+histórica, la historia aparece claramente como un proceso de
+constitución, disolución y reconstitución continua de los horizontes
+lingüísticos que son tradiciones o mundos en los que la comprensión y
+la comunicación son posibles.\\
+
+Toda obra y acontecimiento permanece en sus efectos, creando el
+conjunto de estos el ámbito de la *tradición envolvente* que hace
+posible la comprensión. El objeto de la comprensión no es ningún
+significado objetivo, sino un lenguaje en el que el pasado nos habla
+como un tú. Se reinterpreta continuamente el pasado proyectando sobre
+élk un horizonte histórico. Por lo que se puede decir querecibimos la
+tradición entrando en un diálogo en el que nos vemos envueltos.
+
+** La noción de pertenencia
+La inerpretación es la articulación del intérprete y lo comprendido,
+significa que antes de todo acto explícito de conocimiento,
+cognoscente y conocido, intérprete e interpretado se pertenecen
+recíprocamente. Lo conocido está ya dentro del horizonte del
+cognoscente, sólo porque el cognoscente está a su vez dentro del mundo
+que lo conocido determina.\\
+
+Este ámbito de pertenencia recíproca de sujeto y objeto es el
+*ser-ahí*. No lo define como sujeto contrapuesto al mundo, sino como
+ser-en-el-mundo articulado como comprensión y preocupación.\\
+El mundo no significa ni la totalidad de las cosas naturales ni la
+comunidad de los hombres, sino la totalidad del horizonte que se
+anticipa a la comprensión y como mundo de significados fijados por el
+lenguaje.\\
+El ser-ahí es en el mundo envolvente en un horizonte de significados
+que posibilita la comprensión como estructura de anticipación.\\
+Gadamer, en este planteamiento heideggeriano, examina conjuntamente la
+analítica de la comprensión y la temporalidad observándo que no es
+sólo el /ahí/ del /ser-ahí/ lo que se confirma en los tres estadios
+temporales de la preocupación, sino su poder-ser total.\\
+
+no exite un pasado, un presente y un futuro autóctonos y definidos,
+sino que todo momento está mediatizado por la totalidad de la
+temporalidad.\\
+Gadamer justifica la conciencia histórica por referencia a la temática
+heideggeriana del círculo hermenéutico. Su aportación se puede
+concretar en los siguientes puntos:
+  - Vínculo entre prejuicio , tradición y autoridad, en un primer
+    plano fenomenológico.
+  - Interpretación ontológica de esta secuencia a partir del concepto
+    de conciencia de la historia de los efectos.
+  - Las consecuencias epistemológicas extraídas, consecuencias
+    metacríticas, según las cuales una crítica exhaustiva de los
+    prejuicios o ideologías es imposible en ausencia del punto cero
+    desde el que ella pudiera ser hecha.
+
+*Pertenencia y círculo hermenéutico*. El círculo hermenéutico no es
+ formal, no es subjetivo ni objetivo, sino que describe la comprensión
+ como la interpretación del movimiento de la tradición y del
+ movimiento del intérprete. La anticipación de sentido que guia
+ nuestra comprensión de un texto no es un acto de la subjetividad,
+ sino que determinda desde la comunidad que nos une con la
+ tradición.\\
+ En nuestra relación con la tradición, esta comunidad está sometida a
+ un proceso de continua formación. No es un presupuesto en el que
+ estamos siempre, sino que lo instauramos en cuanto comprendemos,
+ participamos del acontecer de la tradición y continuamos
+ determinándolo así desde nosotros mismos.\\
+ El círculo de la comprensión no oes en este sentido un circulo
+ metodológico sino que describe un momento estructural ontológico de
+ la comprensión.\\
+ Sin embargo, el sentido de este círculo que subyace a toda
+ comprensión posee una nueva consecuencia hermenéutica llamada
+ anticipación de la perfección. También esto es evidente un
+ presupuesto formal que guía toda comprensión. Significa que sólo es
+ comprensible lo que representa una unidad perfecta de sentido. Se
+ hace esta presuposición de la perfección cada vez que se lee un
+ texto, y sólo cuando la presuposición misma manifiesta como
+ insuficiente cuando el texto no es comprensible, dudamos de la
+ transmisión e intentamos adivinar cómo puede remediarse.
+
+ 
+** El modelo del diálogo
+El hombre siempre está sujeto al círculo de la comprensión. Nuestra
+comprensión está más condicionada por nuestros prejuicios que por
+nuestros juicios. Es ilusorio quere eliminar los prejuicios. no
+significa aceptar cualquier prejuicio como hecho ineluctable, sino tan
+sólo reconocer que el hilo conductor del discurso humano se desarrolla
+siempre desde la tradición, puesta en juego contiuamente en la medida
+en que el discurso se desarrolla siempre de modo abierto y nuevo hacia
+el futuro.\\
+
+La tematización de la experiencia del juego no es aqui casual. El
+juego constituye uno de los modelos más significativos y
+característicos de comprensión del proceso hermenéutico. Es un proceso
+que implica en él a los jugadores más allá de los propósitos y
+provisines de ellos. Buen jugador es el que no se acoge a esquemas
+preconcebidos, sino que se entrega al juego mismo.\\
+Análogamente, la comprensión no es una visión que se destaca
+intemporalmente de una realidad concluída y perfecta, que deha intacta
+tanto la realidad comprendida como el horizonte del que comprende. Al
+contrario, comprender es siempre un acontecer que modifica en su
+transcurso tanto al que interroga como a lo interrogado. El diálogo es
+propiamente la forma más esencial y auténtica de comprensión.\\
+
+Gadame ha estudiado el significado hermenéutico del diálogo de Platón
+y de la ética de Aristóteles. El diálogo no es para Platón una forma
+más o menos eficaz de persuasión o de enseñanza, sino el momento mismo
+de descubrimiento de la verdad y del esfuerzo de entenderse con
+otros. No es posible entenderse con los demas sobre algo si no es
+alcanzando juntos una verdad que se manifiesta en un movimiento
+dialógico y dialéctico. Gadamer considera sujestivo y actual el
+problema metodológico de la ética de Aristóteles. En ella es saber es
+visto como un constante esfuerzo por poner a prueba perspectivas cuyo
+significado y valor no puede demostrarse de modo universal y
+necesario, sino que emerge siempre sólo en virtud de una aplicación
+condicionanate, no sólo del resultado de la acción, sino también del
+carácter del hombre.\\
+
+Gadamer recurre al lugar en el que se actualiza el lenguaje. Es en el
+discurso con los otros y con nosotros mismos donde acontece la fusión
+de horizontes en la que consiste comprender, y que tiene un carácter
+de mayor alcance que el de un proceso puramente psicológico o
+gnoseológico. A partir de Platón, se ha cometido el error de plantear
+el problema del lenguaje en términos de la exactitud y no de verdad,
+abriendo el camino a sucesivos proyectos de construcción de lenguajes
+artificiales. El defecto común de todo esto es el entender el lenguaje
+como producto de un pensamiento reflexionante, incluso considerarlo
+como constitutivo de nuestra relación con el mundo. El mundo, en el
+lenguaje, no se presenta como objeto, sino que revela su sentido en un
+proceso que es hermenéutico e histórico. El proceso hermenéutico es el
+único y constante correctivo con el que el pensamiento se sustrae al
+dominio de la estructura lingüística. La hermenéutica tiene sentido
+sólo si es ya ella misma el proceso en el que se manifiesta la verdad
+y no una simple y extrínseca via de acceso a ella.
+
+** La polémica reivindicación del prejuicio y de la autoridad
+Para Gadamer, del estudio de los diálogos de Platón y la ética de
+Aristóteles, todo interpretar tiene carácter dialógico. Es decir, toda
+comprensión y toda interpreteación se producirán de acuerdo con la
+diálectica de la pregunta y la respuesta.\\
+concluía que el diálogo no es tanto una forma eficaz de persuación o
+de enseñanza, sino el momento mismo de descubrimiento de la verdad y
+del esfuerzo por entendernos con los demás.\\
+
+*Resumen de la hermenéutico ontológica*. Ningún individuo puede
+abstraerse del mundo lingüístico en el que se ha formado. Todo lo que
+conocemos está mediatizado por el juego intepretativo de las
+posibilidades del lenguaje.\\
+ Esa naturaleza lingüística de la experienca afecta también al
+concepto de la tradición, poniéndose de relieve el carácter mediador
+del lenguaje desde la perspectiva de la temporalidad histórica.\\
+
+Los textos, documentos, las cosas dichas y hechas en el pasado son
+mundos que podemos recibir y comprener como horizontes de experiencia
+posible para el lector o el intérprete de hoy.\\
+ Para Gadamer la recepción de la tradición tiene estructura de
+diálogo, lo transmitido nos plantearía pregutnas y se faría él a sí
+mismo la respuesta. El conjunto de respuestas con la nuevas preguntas
+y las nuevas interpretaciones a que dan lugar constituyen la
+/historia/ /efectual/ como diálogo en el que nos vemos envueltos.
+
+
+En este contexto podemos comprender con presición la reivindicación de
+Gadamer de los prejuicios, autoridad y tradición:
+
+Gadamer *reivindica el prejuicio* como estructura de la
+precomprensión. Filosofía del juicio en la que el prejuicio aparece
+como lo opuesto a la razón. No es tanto un polo opuesto a una razón
+sin presupuestos, sino un componente inevitable de toda comprensión,
+ligado a la condición histórica del hombre.\\
+
+El prejuicio tiene un sentido positivo como precomprensión y como
+posibilitador de la comprensión.\\
+Por ejemplo, al interpretar un texto se actualiza siempre una
+proyección de sentido. Se puede comprender en la medida que se dispone
+de una estructura de anticipación, un preconcepto como proyecto de una
+totalidad que permite dar sentido a las partes del texto. Esta
+anticipación manifiesta la finitud de nuestro comprender, al mismo
+tiempo que lo hace posible. Esto conduce a la reivindicación de la
+autoridad.\\
+
+Gadamer *reivindica la autoridad* como fundamento del prejuicio. Es
+falso que haya solo prejuicios infundados. El prejuicio contra el
+prejuicio procede de una prevención contra la autoridad cuando se la
+identifica con dominio y violencia. Pero la autoridad no tiene por qué
+tener necesariamente como cintrapartida la obediencia ciega. Sólo
+cuando es tiránica e impersonal, la autoridad se funda en acto de
+sumisión y de obediencia de la razón.\\
+
+La respuesta a la autoridad puede ser también el reconocimiento,
+ligado a la idea de que lo que dice la autoridad compentente no
+siempre es arbitrario e irracional, sino que puede ser aceptado como
+criterio superior de quien sabe más, de un especialista o de un
+maestro.  Esto conduce a que la tradición tiene la autoridad, la
+tercera reivinidicación.
+
+Gadamer *reivindica la tradición*. Para Gadamer lo consagrado por la
+tradición transmitida tiene un peso de autorida que determina nuestro
+ser histórico y nuestra formación y, nuestras posibilidades mismas de
+existencia.\\
+
+Pgadamer no opone tradición y razón. Los argumentos de autoridad, o el
+recurso a la tradición transmitida, contribuyen a una interpretación
+libre. Esta autoridad de la tradición puede pasar por la criba de la
+duda y la crítica.\\
+
+
+Hantes de ser criticada, una tradición exige ser recibida, asumida y
+transmitida. La dependencia de la intepretación se pone de relieve en
+la definición misma de la comprensión como fusión de horizontes. El
+horizonte del presente lo compone nuestro mundo lingüístico o
+ideológico, transmitido por la tradición, que, como estructura de la
+precomprensión, es el horizonte a partir del cual la comprensión es
+posible.
+
+** El concepto de historia de los efectos
+El punto de vista de Gadamer es el de las ciencias de l espíritu, el
+de las humanidades como ciencias de la cultura o de la herencia de las
+tradiciones reinterpretadas. Sus momento críticos estan siempre por
+debajo de del reconocimiento de la autoridad de la tradición. La
+instancia crítica se desarrolla como un momento subordinado a la
+conciencia de dependencia respecto de los significados de la
+precomprensión, que siempre precede y envuelve a toda interpretación.\\
+
+El aspecto hermenéutico de la conciencia histórica. Todas las
+corrientes históricas que parten de Schleiermacher y se prolongan a
+través de Ranken hasta Dithley, cometen el error de ver la historia
+desde un modelo subjetivista. Las épocas individuales y el mismo curso
+de la historia son consideradas como una totalidad orgánica que se
+trata de entender desde las partes al todo, y de ésta a las partes.\\
+
+Se ha esforzado para cmprender la individualidad y la unicidad de los
+fenómenos históricos desde su interior. Se tratado de alcanzar los
+aspectos más profundos y las intenciones escondidas para comprender
+una obra mejor que su propio autor.\\
+Dilthey prevalece el interés por la reconstrucción del pasado como
+interés por el concimiento de la vida en sus expresiones, planteándose
+el problema de cómo superar el hiato entre el carácter expresivo y el
+carácter significativo de la vida misma, entre el significado pensado
+psicológicamente y su expresión histórica. Faltaba, pues, toda
+posibilidad de una integración de los significados en la conciencia
+hemrenéutica, de una explicitaión viva del sentido del proceso
+histórico en su mediación concreta con el presente y con el futuro.\\
+
+Aquí Gadamer se vueve contra Hegel, desde el análisis heideggeriano de
+la finitud de la conciencia y comprensión histórica.\\
+De Hegel, acepta el buscar el sentido dialéctico de la conciencia
+histórica como movimiento en la que se despliega el sentido mismo de
+la vida. No se acepta que la búsqueda y explicitación de este sentido,
+en la tensión pregutna-respuesta, pueda o deba resolverse en una
+pretendida construcción especulativa y total de la historia.\\
+Para mostrar la estructura hermenéutica del realizarse de la historia
+en su facticidad, amplía el análisis fenomenológico de la comprensión
+y la temporalidad de Heidegger, desarrolla la *idea de mediación* con
+relevancia ontológica en el nivel del lenguaje como esfera de la
+pertenencia y de la tradición.\\
+
+Entre el historiador y el pasado que trata de interpretar no existe
+ningún vacío, sino la cadena de la tradición o mediación de las
+transmisión de la interpretaciones y reinterpretaciones dentro de la
+cual se inserta la del propio historiador. Toda obra o acontecimiento
+permanece en sus efectos, creando el conjunto de estos efectos el
+ámbito de la tradición envolvente que hace posible la comprensión
+histórica.\\
+El objeto de la experiencia hermenéutica no es ingún significado
+objetivado, sino un lenguaje en el que el pasado nos habla como un tú,
+un diálogo en el que nos vemos envueltos. La apertura que implica la
+experiencia hermenéutica tiene estructura de una pregunta. Cuando algo
+de adapta a la opinión ya existente surge la pregunta, sin que sea
+posible alejarla manteniéndose en el modo habitual.
+
+Todo interpretar y pensar tienen uncarácter dialéctico-dialógico. Un
+texto sólo puede ser interpretado, comprendido, como respuesta a una
+pregunta. Todo pensar tiene la estructura de la pregunta-respuesta.\\
+La historia es como un compañero en un proceso de comunicación igual
+que el tú lo es para el yo. Tanto la historia como su intérprete están
+envueltos en un mismo proceso o diálogo que es la tradición, ámbito de
+pertenencia de historia e intérprete.\\
+
+La tradición como el juego del diálogo, tiene una dinámica interna que
+nos-es. todo comprender debe pensarse menos como una acción de la
+subjetividad que como el insertarse, tener conciencia de estarlo, en
+el acontecer de la tradición. El sentido de la experiencia
+hermenéutica es tomar conciencia de nuestras determinaciones
+históricas de que no existe comprensión libre de todo prejuicio y que
+formamos parte de un coloquio ilimitado en el que no existe la última
+palabra, no existe ningún saber absoluto definitivo. Todo saber impone
+nuevas preguntas que exigen nuevas experiencias que manifiestan la
+limitación de nuestro saber anterior. La tradición en la que estamos
+envueltos es un diálogo siempre abierto. Considerarlo cerrado es una
+pretensión ilusoria.
+
+* La hermenéutica postgadameriana
+
+** La reefectuación de las referencias potenciales de la obra
 
 
 
 
-Molt d'acord del què diou d'en Junqueras, Però en Mas es va veure,
-també, en la seva màxima expressió manipuladora de la voluntat de la
-gent. Només per poder tenir una eina a Madrid.
-
-L'estat espanyol, n'és un de molt tòxic. No hem de supeditar el nostre
-objectiu de llibertat al de la seva destrucció. No, nosaltres a la
-nostra, independentment del què passi col·lateralment.
-
-Jo havia menystingut a en Joan. Sempre em pensava que era un titella
-articulat per en Junqueras. Amb el tuit d'ahir entenc que és un dels
-cervells que imposen la línia de ERC. L'abstenció pot ser una eina
-útil si no és per desídia. Sembla que les inquietuds estan aflorant.
-
-És molt trist que en un país, el partit que en té la presidència, s'hi
-aferri només per interessos partidaris i sense perdre l'esperança de
-construir el relat de la situació política del país. A més que es
-mostren molt curtits en política, a voltes insensibles.
