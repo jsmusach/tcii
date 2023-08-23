@@ -1,0 +1,272 @@
+#+LATEX_CLASS: article
+
+# -*- mode: org; -*-
+#+LATEX_CLASS_OPTIONS: [a4paper, 10pt, twocolumn, spanish]
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage[margin=.75in]{geometry}
+#+LATEX_HEADER: \setlength\parindent{0pt}
+
+#+Title: Apuntes de Teoría del Conocimiento ii
+#+SUBTITLE: Sobre Nietzsche y la filosofía del espíritu libre
+#+AUTHOR: Jordi Serra
+
+* Etapa intermedia de Nietzsche
+El año 1876 es un año importante en la vida de N. y de su obra. Es un
+año de crisis que se distancia de su vida de juventud, resaltando
+diferencias ideológicas con su pensamiento previo debido a la
+maduración propia de su pensamiento. Esto se manifiesta con un
+distanciamiento de la senda en la que el wagneriarismo habí
+evolucionado y empezó el distanciamiento con el propio Wagner, con
+quién rompió definitivamente dos años después.
+
+El desarrollo de esta crisis se influido por la grave enfermedad que
+contrae este mismo año. Hay quien sostiene que la contracción de la
+enfermedad supuso un aceleración del cambio de su pensamiento. En 1879
+abandonó el mundo de la filología clásica y el mundo académico y
+empezó una nueva vida como filósofo errante.\\
+
+Empezó la redacción de /Humano, demasiado humano/ en la que ya se
+expresa el espíritu nuevo de N. y el distanciamiento con Richard
+Wagner.
+
+La crisis tenía varios frentes. El más importante era el del
+replanteamiento de su condición académico-social. Nietzsche se alejaba
+críticamente cada vez más de su profesión académica y pedagógica de
+filología clásica. De hecho N. ya buscaba un método con el que pudiera
+formular con más eficacia el tipo de crítica que ya estaba ejerciendo
+un tanto difusamente y que se puede detectar en sus escritos de
+juventud.\\
+
+El núcleo de la preocupación espiritual de N., en el que se
+entremezclan su disgusto con la profesión de filólogo académico, el
+malestar de sus malas relaciones con W. y el sufrimiento de la
+enfermedad, con constituye su lucha por dominar el método genealógico
+del que una primera y madura formulación se expresa en la publicación
+de /Humano, demasiado humano/. Durante los años previos a la
+publicación de ésta obra, N. se obsesiona, debate e intenta analizar
+genealógicamente los prejuicios en los que la filología clásica
+académica se asienta y la imagen de Grecia que de ella emana.\\
+
+Con ello revela de qué modo madura la orientación de su reflexión
+filosófica. Con el desenmascaramiento de la falsedad de los prejuicios
+de la filología y de las razones de esa falsedad, ahonda en la que
+será la misión más importante e insistente de toda su obra: La crítica
+a la modernidad como época de la decadencia y del nihilismo.\\
+Si bien, la noción de nihilismo no la expresa de manera explícita aún,
+es con esta con la que revela el sentido de nuestra diferencia con los
+griegos, y de ahondar en la reivindicación del clasicismo de la
+Antigüedad frente al mundo moderno.\\
+
+
+En /Humano, demasiado humano/, /Aurora/ y /la gaya ciencia/ desarrolla
+y madura su pensamiento ensayado en las obras de su juventud. El uso
+crítico de un método de análisis y explicación conduce a una filosofía
+que se comprende como crítica de la cultura. Nietzsche expone un
+concepto de filosofía como hermenéutica de la interpretación en la que
+las ideas no son verdaderas o falsas, sino signos que delatan la
+naturaleza.\\
+Se deduce pues, que allí donde se coloque a la naturaleza en lugar de
+la cultura, se tratará siempre de una construcción de la cultura
+misma. Esto equivale a afirmar que no existe ningún origen
+esencial. Se busca la procedencia y no el origen. No existe ninguna
+esencia en el punto de partida, sino el proceso ininterrumpidamente
+recurrente de una sucesión de apariencias o máscaras.\\
+
+En el pensamiento del N. joven expresa el concepto griego clásico de
+cultura es modélico por ser de una naturaleza, /physis/, artística. En
+/el nacimiento de la tragedia/ nos habla del sueño y la embriaguez
+como impulsos artísticos de la /physis/. Hay en esta manera de
+entender la naturaleza, los principios de su genealogía, pues esta la
+entiende, expresa, como una fisiología de la cultura que remita a una
+articulación interna de la /physis/ entendida como vida que traduce en
+los estados corporales creativos: el sueño y la embriaguez.\\
+
+Las fuentes determinantes de todo pensamiento y de toda creación
+cultural son de naturaleza no racional y no consciente. Esta tesis se
+formula de tres maneras. La primera en su etapa juvenil, romántica con
+la que expresa la /metafísica de artista/ y las nociones de lo
+apolíneo y dionisíaco. Una segunda que se inicia con /Humano,/
+/demasiado humano/, que gira en torno al esfuerzo por comprender lo
+pulsional fuera de la metafísica. En esta fase madura la idea de que
+no hay instintos o impulsos como fuerzas en sí. Y una tercera de las
+obras escritas a partir de /Así habló Zaratustra/, cuando se formula
+ya la tesis en el marco de la hipótesis de la voluntad de poder.\\
+
+En los escritos de juventud, Nietzsche ensaya una ordenación de las
+artes en la tragedia antigua no explicable en virtud de una lógica
+racional, sino que remite a otra lógica más profunda que tiene que ver
+con una fisiología de los impulsos artísticos dentro de una
+determinada concepción del ser humano y de su dinámica
+cuerpo-espíritu.\\
+La explicación se refiere a cómo surge la creación artística a partir
+de la oposición dual de lo apolíneo y dionisíaco —impulsos de la
+naturaleza— y su tensión polarizada.\\
+Nietzsche aplica estas categorías de lo apolíneo y dionisíaco a la
+interpretación del conocimiento y de las demás esferas o formas de
+cultura —i.e., religión, política etc.\\
+El contraste con este modo de explicación lo ofrece el análisis de
+Sócrates y Platón, con la ilusión de una autonomía de lo racional como
+realidad en sí. Si Sócrates, con su ironía, dejaba perplejos a sus
+interlocutores, era porque les pedía que dieran razón, que explicasen
+racionalmente un comportamiento o una situación que revelaba, en
+realidad, un instinto.\\
+
+Nietzsche piensa ya en su juventud que las explicaciones racionales
+son la parte emergida de una pulsión, de un proceso pulsional que está
+actuando debajo y que es donde radica el verdadero sentido de lo que
+se trata. Esta relación entre la pulsión y las formas de la cultura es
+pensada bajo la influencia de Shopenhauer, en el sentido de que la
+forma, el fenómeno, la representación, lo apolíneo es la apariencia o
+la aparición de lo dionisíaco, el fondo pulsional o energía básica del
+mundo y del cuerpo.\\
+Con la evolución de su pensamiento, Nietzsche empieza a pensar que esa
+forma apolínea, esa representación en la que consisten las formas de
+la cultura no es el reflejo, la imagen de la fuerza en sí de la
+naturaleza presente en cada individuo, sino traducciones, como en el
+sueño, producidas por esa fuerza incognoscible e inalcanzable en
+lenguajes ontológicamente diferentes. Dice que con las palabras no se
+llega jamás a la verdad ni a una expresión de adecuada; prueba de ello
+es la multitud de lenguajes existentes, ya que si no fuese así, no
+habría tantos. Sostiene que la cosa-en-sí es totalmente
+inaprehensible. El lenguaje designa solo las relaciones de las cosas
+con los seres humanos y para su expresión recurre a la metáforas más
+atrevidas.\\
+
+En consecuencia, no se puede hacer del instinto un principio en
+sí. Las pulsiones o instintos son dispositivos variables que se forman
+a partir de determinadas condiciones históricas y de su evolución. Son
+el resultado de un aprendizaje y de un conocimiento llevado a cabo por
+la cultura y el proceso de socialización.\\
+En suma, los instintos so algo que se ha construido, y por tanto son
+variables no son principios ontológicos innatos, los mismos en todos
+los seres humanos.\\
+Son el resultado de incorporar, de introducir en el propio cuerpo
+mediante un determinado tipo de educación y entrenamiento, formas muy
+básicas de valorar o estimar, de sentir atracción o repugnancia ante
+determinadas acciones o ideas.\\
+Los valores de nuestra moral son el resultado de esa educación
+impuesta al cuerpo, durante un tiempo muy largo, de estimaciones que
+desde muy antiguo se han sentido como buenas o malas, u que se han
+venido incorporando y transmitiendo luego de generación en generación
+a lo largo de los siglos. La fuerza de los conocimientos no reside en
+su grado de verdad, sino en su antigüedad, en el hecho de estar
+incorporados, en su carácter de condiciones de la vida.\\
+
+La pulsión, el instinto son productos de esas primitivas valoraciones
+o interpretaciones y, una vez incorporadas, funcionan en nosotros como
+las disposiciones con las que valoramos e interpretamos la realidad.\\
+Hay aquí un proceso circular consistente en que con nuestra formas
+instintivas de evaluar nosotros valoramos e interpretamos la
+realidad. A su vez , esas formas instintivas nuestras de valorar son
+ellas mismas el producto de valoraciones e interpretaciones
+originarias.\\
+
+A la luz de esta condición deberán interpretarse dos características
+básicas de la pulsión. La primera, su carácter imperativo: La pulsión
+es una presión más o menos fuerte, a veces irresistible y, en todo
+caso, imposible de anular o neutralizar salvo por la puesta en juego
+de otros impulsos que desvíen la fuera del primeo hacia otras metas
+que no sean las de su satisfacción inmediata —proceso de
+sublimación. Los valores son tendencias incrustadas en la vida misma
+del cuerpo capaces, por tanto, de ejercer una fuerza destinada a
+orientar nuestro comportamiento de manera imperativa, es decir,
+obligándonos a realizar cierto tipo de actos e impedir la realización
+de otros.\\
+
+La segunda característica de la pulsión es que de este modo regula el
+comportamiento de los individuos con una seguridad incomparablemente
+mayor a como podría hacerlo la razón. Por su carácter imperativo, la
+pulsión o el instinto ejerce su acción de modo infalible, automático y
+sin la menor vacilación, en contraste con lo que sucede con una acción
+guiada por la reflexión racional y la conciencia. Hay así una estrecha
+relación entre la eficacia perfecta, la seguridad, de la pulsión
+irresistible y el carácter infraconsciente de su regulación.\\
+
+Resumiendo: La perspectiva genealógica Nietzschiana mira las
+formaciones de la conciencia o de la cultura en su condición de
+lenguajes figurados, de síntomas en los que se traducen los dos
+procesos fisiológicos en virtud de los cuales la vida desarrolla su
+impulso fundamenta de autoexpandirse u autoproyectarse creativamente
+en las formaciones de cultura.\\
+El propósito del método genealógico es, pues, desvelar, a partir de
+cualquier manifestación consciente o de cualquier proceso de la
+cultura, la actividad inconsciente de los instintos que los originan, y
+comprender todas sus manifestaciones conscientes como textos a
+descifrar en cuanto semiótica profunda de los estados del cuerpo.\\
+
+Desde una perspectiva metafísica dual, que caracteriza nuestra
+tradición occidental y que distingue una determinada valoración moral
+entre espíritu y cuerpo, surge la siguiente cuestión. El método
+crítico de Nietzsche significa algo más que una burda reducción del
+conocimiento, de la cultura y del espíritu y de la conciencia a meros
+subproductos derivados de procesos fisiológicos.\\
+
+Pero N. intenta salir de esta visión platónico-dualista, sin la
+presión del desprecio moral del cuerpo que el ser humano representa.\\
+Se podría ver el cuerpo como el fenómeno entero del cuerpo, superior a
+nuestra consciencia, a nuestro espíritu, a nuestro pensar, sentir,
+querer conscientes como el álgebra a la tabla de multiplicar.\\
+Cuando se ve al ser humano como un todo de cuerpo-espíritu entonces no
+hay problema en comprobar que la conciencia o el espíritu aparezcan,
+en ese todo, como una parte más.\\
+
+Llega a la misma conclusión desde la perspectiva de lo
+apolíneo-dionisíaco. Dionisos era el nombre que, entre los griegos,
+habría recibido la energía elemental de autoafirmación de la vida que
+se caracteriza principalmente por la sobreabundancia de fuerza y la
+desmesura. Apolo, en cambio, designaría las formas luminosas de la
+apariencia que seducen a existir formas que nacen y se sumergen de
+nuevo en el flujo terrible y anonadante del devenir, en aquella
+voluntad de devenir que simboliza Dionisos y que irradia de la
+profundidad misma del cuerpo.\\
+El N. maduro hace crítica de las obra de juventud y aclara que la
+relación entre lo apolíneo y dionisíaco no es un conciliación, sino
+que es una relación de una lucha, el de una oposición que enfrenta a
+ambos impulsos, los divide a la vez que los une y que, por no
+encontrar nunca una síntesis, están constantemente en devenir.\\
+Es decir, el sustrato del cuerpo como vida no es otra cosa que una
+lucha a la que se aplicaba , en su juventud, aquella comprensión
+primera de la reciprocidad agonal (de lucha) de lo apolíneo y de lo
+dionisíaco u de su copertenencia al eterno proceso creador y
+destructor de la naturaleza.\\
+
+Empieza N. a expresar su idea de que lo que hay en el fondo de toda
+conciencia y de toda forma cultural es la polaridad básica de los
+impulsos con anclaje en el cuerpo: placer y dolor, o dualidad
+vida-muerte.\\
+En esta polaridad de impulsos de vida e impulsos de muerte tiene
+origen último lo que llamamos cultura, aquello en lo que consideramos
+que el ser humano se diferencia del simple animal. Nietzsche remarca
+el dinamismo básico que rige a esos impulsos, la tipología propia de
+su comportamiento y de su modo de funcionar: *la fe en los afectos*.\\
+
+Los afectos son una construcción de la inteligencia, una invención de
+causas que no existen. Todas las sensaciones comunes del cuerpo que no
+comprendemos son interpretadas de forma inteligente, se busca en las
+personas, en las vivencias, etc., una razón para sentirse de una
+determinada manera.\\
+Se establece algo nocivo, peligroso como si fuera la causa de nuestro
+malestar: en realidad se lo busca y se añade a nuestro malestar para
+poder pensar nuestro estado.\\
+Aflujos frecuentes de sangre en el cerebro asociados a una sensación
+de sofoco se interpretan como ira. Las personas y las cosas que
+estimulan en nosotros la ira desencadenan este estado fisiológico.\\
+
+En un segundo momento ciertos procesos y sensaciones comunes se
+asocian así regularmente de modo que ante ciertos procesos se produce
+aquel estado, aquel sentimiento común, e implica en particular esos
+aflujos de sangre, esa excitación, etc. O sea, por afinidad. Entonces
+decimos que el afecto se ha excitado. En el placer y el displacer hay
+ya juicios: los estímulos se distinguen según promuevan o no el
+sentimiento de poder.
+
+* Nietzsche ilustrado
+En /humano, demasiado humano/ el pensamiento de Nietzsche inicia su
+período ilustrado.\\
+
+Podemos pensar la Edad Moderna filosófica como edad de la crítica, en
+oposición a la Edad Media que sería la edad de la fe. La crítica
+significa la no aceptación confiada de las cosas tal como están o tal
+como se nos dicen. Significa disconformidad, disposición al cambio y a
+a transformación.\\
+Ya Descartes.
