@@ -1,0 +1,323 @@
+#+LATEX_CLASS: article
+
+# -*- mode: org; -*-
+#+LATEX_CLASS_OPTIONS: [a4paper, 10pt, twocolumn, spanish]
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage[margin=.75in]{geometry}
+#+LATEX_HEADER: \setlength\parindent{0pt}
+
+#+Title: Apuntes de Teoría del Conocimiento ii
+#+SUBTITLE: Sobre Nietzsche y su pensamiento tardío
+#+AUTHOR: Jordi Serra
+
+* Introducción
+En su última etapa intelectual, que se verá truncada por el colapso
+menta que sufre en 1889, Nietzsche hace un ejercicio de autocrítica y
+autointerpretación de su trayectoria anterior que culmina con su
+última obra /Ecce homo/, una autobiografía intelectual. También
+trabajó en la preparación de una gran obra que debería sintentizar
+todo su pensamiento y llevaría el título de /la voluntad de poder:/
+/ransvaloración de todos los valores/. Este proyecto fue abandonado
+quedando sus materiales que no fueron incorporados en las obras en
+elaboración forman parte de su importantísimo legado póstumo.\\
+
+En este período reaparecen tamáticas propias de los escritos
+anteriores junto con novedades importantísimas. Aparecen los grandes
+temas de voluntad de poder, el eterno retorno, el nihilismo, la muerte
+de Dios, la transvaloración o el übermensch —el hombre del más
+allá. Estos temas se presentan de una poético-alegórico en el /Así/
+/habló Zaratustra/ o bien de manera más o menos conceptualmente
+argumentadas en el resto de sus obras de éste periodo.\\
+
+/Así habló Zaratustra/ empieza donde concluía el recorrido que habían
+llevado a cabo las obras precedentes, cuya aportación fundamental
+había sido la comprensión de las estructuras metafísicas y de Dios
+como su fundamento como un invención —cómo el mundo verdadero acabó
+convirtiéndose en una fábula.\\
+
+Con ello la apariencia fenoménica del mundo quedaba rehabilitada y
+liberada de su descrédito y del desprecio que caía sobre ella durante
+la vigencia del dualismo metafísico.\\
+
+A la idea del eterno retorno se le atribuye un sentido de un destino
+cargado de consecuencia para la historia de Europa. De esta idea parte
+prácticamente todo el desarrollo de su último pensamiento, que se
+centra en el programa de una transvaloración de todos los
+valores. Esto implica todo un nuevo modo de concebir el valor de la
+filosofía y la figura y la misión del filósofo, que representa una
+transformación sustantiva respecto a lo que ofrecen las obras
+crítico-genealógicas anteriores.  La primera gran novedad es la
+convicción de que es posible partir de la crítica moderna a la cultura
+occidental para provocar una mutación readical de la civilización
+occidental.\\
+Las obras críticas anteriores ponían de manifiesto que las creencias
+metafísicas, religiosas y morales del pasado habían ido perdiendo su
+carácter de solución teórica y por tanto su utilidad práctica como
+supraestructura de ideas al servicio de la organización de vida.\\
+
+*Dios ha muerto*. Esta liquidación del mundo verdadero suscita una
+actitud de *libertad de espíritu* ante los errores sobre los que se
+fundamente necesariamente la vida, sobre las invenciones y
+*construcciones morales*, religiosas e ideológicas que han sido
+necesarias para vivir y organizar la sociedad.\\
+
+Estas obras crítico-genealógicas expresan la actitud de quien se asoma
+un momento por encima de todo proceso histórico y contempla como un
+espectáculo las equivocaciones que han hecho profundo, rico y matizado
+nuestro mundo. Nietzsche atribuye ahora a su pensamiento una
+intencionalidad práctica, una pretensión de servir como impulsor de
+una transformación de la época moderna en el sentido de una superación
+de su nihilismo.\\
+
+Nietzsche piensa ahora en el filósofo como un legislador, un creador
+de valores con los que fundar una nueva época y una nueva historia. Es
+preciso legislar con vistas a una nueva humanidad. El filósofo se
+diferencia pues del trabajador filosófico y de los científicos en que
+el filósofo se le exige, le es necesario que cree valores, y no sólo
+usar aquellos antiguos patrones de valores fijados y que se usan de
+una manera mecánica. El autentico filósofo es el que manda y
+legisla. Ellos dicen deciden como deben ser las cosas, determinan el
+primero el /hacia donde/ y el /para qué/ del hombre, y para ello
+disponen del trabajo previo de todos los trabajadores filosóficos, de
+todos los subyugadores del pasado. Su conocer es cread, su creas es
+una legislación, su voluntad es *voluntad de poder*.\\
+
+Desde esta perspectiva se entiende su radicalización de su crítica al
+cristianismo, tal como la desarrolla en el /Anticristo/. Nietzsche se
+confronta con el mundo de ideas e instituciones que más universalmente
+ha configurado la historia europea y con la ideología más directamente
+responsable del nihilismo.\\
+
+El *nihilismo* lo comprende como nuestra situación contemporánea de
+olvido o de pérdida del valor de los antiguos valores supremos que
+sostenían la cosmovisión cristiana del mundo. No obstante, el
+nihilismo es también un proceso activo, y no sólo pasivo, en virtud
+del cual se ha producido la muerte de Dios.\\
+
+Es decir, la *muerte de Dios* no ha consistido en ninguna práctica
+voluntarista del ateísmo militante no en el ejercicio destructivo
+propiamente dicho del tipo de crítica teórica que el propio N. había
+desarrollado hasta ahora. Es el desenlace o el punto final de un
+proceso al término del cual ha venido a hacerse luz, o a recordarse
+algo que se encontraba ya en germen en el propio planteamiento
+original con el que nació.\\
+El nihilismo no es otra cosa que ese trabajo mismo de
+desenmascaramiento-rememoración de los valores supremos y de Dios como
+su fundamento que la historia ha realizado, deslegitimándolos a la
+manera de un proceso de autosuperción en el que se reconstruye la
+lógica nihilista de los proios conceptos metafísico-morales de verdad
+y de bien.\\
+
+En suma, el punto de partida de las obras que inicia /Zaratustra/ es
+la comprensión de que ésta es una historia en la que la memoria —hecha
+presente en el trabajo hsitórico-genealógico— acaba ganándole la
+partida al olvido, pues ha sido la misma exigencia de la búsqueda de
+la verdad y de autenticidad que siempre han propugnado la metafísica y
+la moral cristianas, la que ha terminado conduciendo finalmente a la
+exhumación de sus propios fundamentos nihilistas.\\
+La misma exigencia moral de veracidad es la que termina por descubrir
+las intenciones ocultas y olvidadas de la práctica de
+culturización-domesticación que ha predominado como eje del proceso
+civilizatorio en Occidente, sacando a la luz el trasfondo de pura
+ideología al servicio de unas determinadas condiciones de existencia y
+de una determinada forma de ejercicio del poder.\\
+
+Así, el pensamiento del último Nietzsche tiene la pretensión, no sólo
+ya de proponer un sentido a dar a sus principales filosofemas, sino
+que es necesario también, mostrar los vínculos que los articulan y que
+le dan la consistencia que justifica la importancia de su capacidad
+para el desarrollo de nuestro presente y su influencia en la
+configuración de muchas de las corrientes de la filosofía posterior.
+
+* El eterno retorno
+El pensamiento del eterno retorno —que implica sustancialmente la
+reducción del tiempo lineal de la historia al tiempo cíclico de la
+naturaleza— no obedece sólo a restaurar la visión griega clásica,
+presocrática, del mundo, anterior al dualismo metafísico
+platónico-cristiano. Tampoco parece sólo un modo de rechazar la
+comprensión judeo-cristiana del tiempo que lo entiende formando
+momento sucesivos e irrepetibles, según el modelo de la historia
+sagrada —creación, pecado, redención, escatología.\\
+Aunque obedece al propósito anticristiano de anudar la época moderna a
+la Antigüedad naturalista y pagana, Nietzsche lo plantea como el
+pensamiento que lleva a su consumación el nihilismo y como la
+condición para su superación.
+
+La idea subyacente es la de que sólo en un mundo en el que no se
+pensara ya según la estructura de la temporalidad lineal, sería
+posible la felicidad plena.\\
+El tiempo lineal supone que cada momento tiene sentido sólo en función
+de los otros, precedentes y siguientes, y esto hace imposible la
+felicidad, porque ningún momento vivido puede tener él mismo una
+plenitud de sentido.\\
+
+La temporalidad lineal implica la diferencia esencial entre el ser que
+en cada momento se es, deficitario y siempre imperfecto, y de un
+deber-ser como modelo y meta ideal que nunca se alcanza.\\
+Establece la diferencia entre mundo verdadero, como mundo de realidad,
+y mundo aparente, como ilusión y engaño.\\
+
+La creencia en la temporalidad circular implicaría la supresión de la
+ditinción entre mundo verdadero y mundo aparente, así como la
+existente entre ser y deber ser.\\
+
+El eterno retorno es un pensamiento selectivo en la medida en que
+muestra la mentira de la metafísica y de la moral platónico-cristiana
+al destruir las distinciones /mundo verdadero/-/mundo aparente/, ser y
+deber ser, y hace imposible así el modo de vivir del hombre nihilista.\\
+
+El eterno retorno es propio sólo del ser humano feliz, que se da
+únicamente en una época o cultura radicalmente distinta a la del
+nihilismo.\\
+
+En este mundo nuevo, pensar en la posibilidad de que cada instante de
+nuestra vida pudiera repetirse eternamente hasta el infinito
+significaría un criterio de valoración ética, porque sólo cuando ese
+instante es pleno de sentido y de felicidad se puede querer tal
+repetición.\\
+
+En la última etapa N. alude a nociones y conceptos que no desarrolla
+explícitamente. Se refiere a ellos con ambigüedades de meros símbolos
+poéticos y de alegorías. Con el concepto del eterno retorno pasa
+esto. Incluso insiste en la necesidad de asumirlo sin que haya sido
+expuesto anteriormente.\\
+
+Desde esta perspectiva, se entiende que N. no piensa en la idea del
+eterno retorno como una teoría sobre el ser del tiempo, alternativa a
+la concepción metafísica vigente. Sino como de una profecía se
+tratase, un anuncio o una doctrina. Lo plantea menos como una fórmula
+o un enunciado dirigido al entendimiento y a la comprensión que como
+la expresión de un reto, un conjuro y de una tarea dirigidos a la
+voluntad.\\
+EL eterno retorno tendría que ser el objeto de una experiencia, de una
+decisión de la voluntad, como una consecuencia o prueba de la
+concepción nietzscheana de la realidad, de la transvaloración de todos
+los valores y de superación del nihilismo.\\
+
+[Aún así, Nietzsche se preocupa de explicar la posibilidad de entender
+el tiempo como eterno retorno. En la síntesis a la que llega muestra
+su acuerdo con la afirmación de que la fuerza del universo es fija, ya
+que si no fuese así, a lo largo del tiempo hubiera disminuido y
+desaparecido. Pero tampoco aumenta indefinidamente, porque se así
+fuese habría llegado a ser infinita, y esto es imposible.\\
+En virtud de esta limitación total de la fuerza del universo, no es
+más que un caos de luchas incesantes entre centros individualizados de
+voluntad de poder.\\
+Lo que preside el devenir del mundo no es más que el azar, y no hay
+leyes naturales ni históricas que se cumplan a través de él.\\
+Por otra parte las fuerzas no tienen libertad para decidir si se
+ejercen o no, actúan necesariamente. El mundo resulta ser un
+movimiento eternoo que nunca se interrumpe por el hecho de alcanzar un
+equilibrio último de todas las fuerzas.\\
+Esa eternidad e eternidad de un retorno.]\\
+
+Esto es lo que se deduce de la alegoría del pastor y la serpiente en
+/Zaratustra/. Liberándose del nihilismo, da paso a un /über/, a un más
+allá del hombre como modo nuevo de ser y de existir. La decisión de
+liberarse del nihilismo, es la de afirmar, la de decir sí al eterno
+retorno de lo mismo con lo que ello implica y significa. Lo decisivo
+en él no es su validez teórica, ni su coherencia lógica, ni su verdad
+científica, sino su valor como conjuro, como conjuro de la más alta
+afirmación de la vida que pueda imaginarse, que debe ser entendida,
+irónicamente, como una nueva religión.\\
+
+En este sentido señala cómo muchas representaciones de la religión
+cristiana —e.g. el infierno, la condenación eterna, etc.— no tienen
+ningún fundamento de verdad racional sin que eso les haya impedido
+haber sido efectivamente incorporadas como condición de vida por los
+cristianos y haber determinado durante siglos la dirección de su
+comportamiento. Ha bastado con la coacción tiránica de un poder
+autoritario como el de la Iglesia y mucho tiepo para que calara
+profundamente.\\
+
+De modo análogo debería suceder con el eterno retorno. No es preciso
+que se demuestre como la verdadera realidad del tiempo Ni si quiera
+necesita ser una idea verosímil o probable, sino que lo que tiene que
+ser es una idea eficaz como instrumento de transformación y de
+educación, una idea asumida porque simplemente se la quiera afirmar
+como tal y decirle sí. En este dirigirse a la voluntad y a la decisión
+es donde el eterno retorno encuentra su sentido propio y esa eficacia
+transformadora o transfiguradora que N. le confiere.\\
+
+El eterno retorno es la más alta afirmación de vida, el instrumento
+necesario para discriminar entre hombres nihilistas y el
+übermensch. En la concepción lineal del tiempo, puesto que cada
+instante presente hace depender su existencia y su significado de su
+conexión con el pasado, que ya no existe, u de su anticipación del
+futuro, que todavía no existe, ninguno de los momentos del tiempo
+lineal en su particularidad de presente, de pasado o futuro logran ser
+momentos vivos, depositarios de una plenitud autónoma de significado y
+de existencia. De este modo, la vida, su sentido y su valor se
+encuentran siempre situados o más acá o más allá de un presente que
+nunca realiza su cumplimiento.\\
+Esta es la forma más extrema y radical que pueda pensarse de negación
+de la vida, porque no implica sólo na desvalorización moral o una
+negación general y global de ella, sino que representa su negación
+instante por instante, despojarla de realidad y de valor al introducir
+la no-existencia, la nada como contenido propio de cada uno de los
+instantes que la constituyen.\\
+
+De ahí la convicción del nihilista que vive según esta experiencia de
+la temporalidad lineal de que la vida no es, en realidad, un vivir,
+sino sólo un ilusorio pasar, una pura apariencia de sueño cuyo
+trasfondo de nada la delata como sin sentido, como absurda en sí
+misma, siendo necesario proyectar el sentido y el valor en un
+trasmundo, un más allá, en una trascendencia.\\
+La concepción lineal del tiempo es la manifestación principal del
+resentimiento y del espíritu de venganza contra la vida, de modo que
+sólo se superaría el nihilismo si se lograr entrar en otro modo de
+entender y de vivir la temporalidad que fuese a su vez su redención.\\
+
+El eterno retorno significa como ese otro modo de vivir el tiempo,
+ofreciéndose como reto a la voluntad cuya afirmación haría entrar en
+otra forma distinta de vivir la temporalidad .\\
+El eterno retorno se ofrece como la decisión para un nuevo modo de
+aplicar la exigencia ética de articular el tiempo, de modo que de ella
+resulta el gozo y la afirmación de la vida en lugar de su extrema
+negación.\\
+
+
+*En qué consiste esta forma de vivir el tiempo, y qué es lo que
+implica?*\\
+El eterno retorno significa también vivir en el presente. El presente
+ya no es este instante vacío, de no-ser, sino que es pleno y vivir en
+él. Requiere reunir en el instante presente los recorridos de los
+tiempos, del pasado y del futuro. Hay que ser capaz de reordenar la
+sucesión vertiginosa de los momentos del tiempo lineal sometiendo su
+pluralidad a una unidad para conferirles así un sentido nuevo.\\
+
+El *modo de hacerlo* es imponiendo a esa unidad del instante presente
+una forma, una interpretación que reinterprete el pasado que ha
+conducido hasta aquí y reoriente el futuro articulando lo que todavía
+no es más que un azar. Así, desde esta perspectiva, el pasado no sería
+ya lo sucedido en sí, algo que yace detrás del presente de manera
+inexorable ejerciendo sobre él una determinación fatal e irreversible,
+sino que en cada momento del presente, se interpreta el pasado, se lo
+recrea y reconstruye libremente. No es algo que escape a la libertad y
+a la voluntad, sino que su sentido depende de lo que se quiera y se
+decida en el presente que signifique.\\
+
+Del mismo modo el futuro no es el ámbito de lo totalmente imprevisible
+y azaroso, sino el espacio en el que se lanza un proyecto a partir de
+una anticipación que se hace en función del conocimiento presente y de
+la reinterpretación del pasado.\\
+El futuro no está situado al margen de la libertad, de la capacidad de
+control de la decisión de la voluntad. Se lo puede anticipar en cierta
+medida y construir libremente desde el presente en función del sentido
+que se quiera proyectar sobre él.\\
+
+Por eso, sea como hay sido el pasado, es posible amarlo en la medida
+en que siempre es posible reinterpretarlo viendo en él las condiciones
+que han conducido al presente y a partir de la voluntad con la que se
+da un sentido a la vida de cara al futuro. Este querer el pasado no es
+ya ni resignación no fatalismo, sino que es quererlo al
+reinterpretarlo en íntima conexión con el presente y el futuro.\\
+
+Todo esto es dar una necesidad al tiempo, imponerle una forma
+superando la falsa idea de su linealidad inexorable tal como la ha
+enseñado la metafísica y la religión cristiana, que separan como
+momentos irreconciliables e inconexos pasado, presente y futuro.\\
+Y esto es también lo que significa asumir un destino como ley que
+reorganiza una y otra vez la existencia, actualizando siempre de nuevo
+las metas por las que discurre y haciendo posible así el despliegue
+del impulso de autosuperación.
